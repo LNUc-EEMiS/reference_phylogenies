@@ -5,6 +5,8 @@ chdir $ROOT/data
 screen -t data
 chdir $ROOT/scripts
 screen -t scripts
+chdir $ROOT/ring-hydroxylase_alpha
+screen -t ring-hydroxylase_alpha
 chdir $ROOT
 screen -t rstudio
 screen -t man
