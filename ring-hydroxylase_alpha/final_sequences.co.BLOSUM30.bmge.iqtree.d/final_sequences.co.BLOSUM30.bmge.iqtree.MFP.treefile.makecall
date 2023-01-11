@@ -1,0 +1,4 @@
+20230111 11:31:44: final_sequences.co.BLOSUM30.bmge.iqtree.MFP.treefile was made with IQ-TREE multicore version 2.2.0.3 COVID-edition for Linux 64-bit built Aug  2 2022
+	Called with parameters: -B 1000 -nt 3
+	Input files: final_sequences.co.BLOSUM30.bmge.alnfaa (-rw-r--r-- 1 dl dl 117516 jan 11 11:19 final_sequences.co.BLOSUM30.bmge.alnfaa,)
+20230111 22:32:50: DONE
