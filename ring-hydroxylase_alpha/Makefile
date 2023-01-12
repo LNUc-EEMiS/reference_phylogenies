@@ -18,6 +18,9 @@ final_sequences.faa: swissprot_pf00848_pf00355.faa trembl_pf00848_pf00355.uc0.80
 	sed '/^>/s/ /_/g' $< | sed 's/>/>SW_/' > $@
 	cat $(word 2,$^) >> $@
 
+final_sequences.names.tsv: final_sequences.faa
+	grep '>' $< | sed 's/^\([^|]\+\)|.*/\1/'
+
 cl_files: $(subst .clusters,.small_clusters,$(wildcard *.clusters))
 
 fix_cl_files: $(wildcard *.cl[0-9]*)
