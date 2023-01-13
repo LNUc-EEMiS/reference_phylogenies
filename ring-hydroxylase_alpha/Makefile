@@ -12,7 +12,7 @@ include ~/dev/biomakefiles/lib/make/makefile.fasttree
 CLUSTER_LEVELS = 0.90 0.85 0.80 0.75 0.70
 
 final_sequences.faa: swissprot_pf00848_pf00355.faa trembl_pf00848_pf00355.uc0.80.correct.faa
-	cat $^ >> $@
+	cat $^ > $@
 
 swissprot_pf00848_pf00355.faa: swissprot_pf00848_pf00355_prokaryotes.faa swissprot_pf00848_pf00355_eukaryotes.faa
 	cat $^ > $@
