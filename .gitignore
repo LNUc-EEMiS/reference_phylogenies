@@ -7,7 +7,6 @@ RAxML_bootstrap*
 *.dmnd
 *.ebh
 *.err
-*.faa
 *.fastq*
 !*.fastq*.makecall
 *.fna
