@@ -6,3 +6,4 @@ fix*
 *.charset
 deleted_sequences
 *.small_clusters
+*.correct_sequences
