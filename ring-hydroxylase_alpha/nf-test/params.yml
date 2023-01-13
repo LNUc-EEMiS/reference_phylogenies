@@ -1,0 +1,4 @@
+max_cpus: 2
+max_memory: '6.GB'
+input: 'samples.csv'
+outdir: 'results'
