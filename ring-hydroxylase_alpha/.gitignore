@@ -5,3 +5,4 @@ fix*
 *.uclusters
 *.charset
 deleted_sequences
+*.small_clusters

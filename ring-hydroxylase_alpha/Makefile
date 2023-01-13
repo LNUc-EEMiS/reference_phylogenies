@@ -9,7 +9,7 @@ include ~/dev/biomakefiles/lib/make/makefile.misc
 include ~/dev/biomakefiles/lib/make/makefile.splitstree
 include ~/dev/biomakefiles/lib/make/makefile.fasttree
 
-CLUSTER_LEVELS = 0.90 0.80 0.70 0.60 0.50 0.40 0.30
+CLUSTER_LEVELS = 0.90 0.80 0.70 0.60 0.50
 
 problem_sequences.rare: $(wildcard trembl_pf00848_pf00355.uc0.30.cl[1-9])
 	sed 's/.*|\([^ ]\+\).*/\1/' $^ > $@
