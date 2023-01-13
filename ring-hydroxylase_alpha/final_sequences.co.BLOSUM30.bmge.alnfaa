@@ -1,86 +1,86 @@
->sp|O85673|ANTDA_ACIAD Anthranilate 1,2-dioxygenase large subunit OS=Acinetobacter baylyi (strain ATCC 33305 / BD413 / ADP1) OX=62977 GN=antA PE=1 SV=
+>sp|O85673|ANTDA_ACIAD_Anthranilate_1,2-dioxygenase_large_subunit_OS=Acinetobacter_baylyi_(strain_ATCC_33305_/_BD413_/_ADP1)_OX=62977_GN=antA_PE=1_SV=
 FTEPELFELEMELIFEVWIYACHEEIPNNNDFVPMIVSRDLHAMVNACEHRGATLVFTCPFHAWCYKSGFVFVSLDTGNWKLQNENGLDLYPSL
->sp|P0A110|NDOB_PSEPU Naphthalene 1,2-dioxygenase system, large oxygenase component OS=Pseudomonas putida OX=303 GN=ndoB PE=1 SV=1
+>sp|P0A110|NDOB_PSEPU_Naphthalene_1,2-dioxygenase_system,_large_oxygenase_component_OS=Pseudomonas_putida_OX=303_GN=ndoB_PE=1_SV=1
 HGDEELFQHELKTIFANWLFLTHDLIPAPGDYVEVIVSRQIRAFLNVCRHRGKTLGFVCSYHGWGFGSGFIYGCFDQANWKAPAENFVGVFPNN
->sp|P0A111|NDOB_PSEU8 Naphthalene 1,2-dioxygenase system, large oxygenase component OS=Pseudomonas sp. (strain C18) OX=69011 GN=doxB PE=1 SV=1
+>sp|P0A111|NDOB_PSEU8_Naphthalene_1,2-dioxygenase_system,_large_oxygenase_component_OS=Pseudomonas_sp._(strain_C18)_OX=69011_GN=doxB_PE=1_SV=1
 HGDEELFQHELKTIFANWLFLTHDLIPAPGDYVEVIVSRQIRAFLNVCRHRGKTLGFVCSYHGWGFGSGFIYGCFDQANWKAPAENFVGVFPNN
->sp|P0C618|BNZA_PSEPU Benzene 1,2-dioxygenase subunit alpha OS=Pseudomonas putida OX=303 GN=bnzA PE=3 SV=1
+>sp|P0C618|BNZA_PSEPU_Benzene_1,2-dioxygenase_subunit_alpha_OS=Pseudomonas_putida_OX=303_GN=bnzA_PE=3_SV=1
 YTDEDLYQLELERVFASWLLLGHEQIRKPGDYIPVVVVRQIAVFLNQCRHRGMRIAFTCSYHGWAYDTGLIFANWDECNWKFAAEQFCSVFPTC
->sp|Q3C1D5|TPDA2_COMSP Terephthalate 1,2-dioxygenase, terminal oxygenase component subunit alpha 2 OS=Comamonas sp OX=34028 GN=tphA2II PE=1 SV=1
+>sp|Q3C1D5|TPDA2_COMSP_Terephthalate_1,2-dioxygenase,_terminal_oxygenase_component_subunit_alpha_2_OS=Comamonas_sp_OX=34028_GN=tphA2II_PE=1_SV=1
 YTDTANADQEQQRIYRVWNYLCLEEIPGAGDFRPIVVVRDIYAFENRCAHRGALISFQCVYHAWSYNRGLVFGSFSENNWKLYFEN-VKVFPGF
->sp|Q3C1E3|TPDA1_COMSP Terephthalate 1,2-dioxygenase, terminal oxygenase component subunit alpha 1 OS=Comamonas sp OX=34028 GN=tphA2I PE=1 SV=1
+>sp|Q3C1E3|TPDA1_COMSP_Terephthalate_1,2-dioxygenase,_terminal_oxygenase_component_subunit_alpha_1_OS=Comamonas_sp_OX=34028_GN=tphA2I_PE=1_SV=1
 YTDTANADQEQQRIYRVWNYLCLEEIPGAGDFRPIVVVRDIYAFENRCAHRGALISFQCVYHAWSYNRGLVFGSFSENNWKLYFEN-VKVFPGF
->sp|Q53122|BPHA1_RHOJR Biphenyl 2,3-dioxygenase subunit alpha OS=Rhodococcus jostii (strain RHA1) OX=101510 GN=bphA1 PE=1 SV=1
+>sp|Q53122|BPHA1_RHOJR_Biphenyl_2,3-dioxygenase_subunit_alpha_OS=Rhodococcus_jostii_(strain_RHA1)_OX=101510_GN=bphA1_PE=1_SV=1
 YTDEALYEQELERIFGSWLLMGHEQIPKAGDFMPVMVVRQIRVFLNQCRHRGMRISFTCSYHGWAYDTGLIFANWDACNWKFAAEQFCSIFPTC
->sp|Q9RBG5|ABSAA_ALCSP 2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha OS=Alcaligenes sp OX=512 GN=absAa PE=1 SV=2
+>sp|Q9RBG5|ABSAA_ALCSP_2-aminobenzenesulfonate_2,3-dioxygenase_subunit_alpha_OS=Alcaligenes_sp_OX=512_GN=absAa_PE=1_SV=2
 YWDHEIFEEEKKRIFSVWKFVCHVEIPSTFDYRPLVVIRGVRTFVNACSHRGIQITMECIFHRWNYDSGLVFVNLDDTNWKNWQETNLDLFPDL
->sp|A5W4F2|BNZA_PSEP1 Benzene 1,2-dioxygenase subunit alpha OS=Pseudomonas putida (strain ATCC 700007 / DSM 6899 / BCRC 17059 / F1) OX=351746 GN=bnzA
+>sp|A5W4F2|BNZA_PSEP1_Benzene_1,2-dioxygenase_subunit_alpha_OS=Pseudomonas_putida_(strain_ATCC_700007_/_DSM_6899_/_BCRC_17059_/_F1)_OX=351746_GN=bnzA
 YTDEDLYQLELERVFASWLLLGHEQIRKPGDYIPVVVVRQIAVFLNQCRHRGMRIAFTCSYHGWAYDTGLIFANWDECNWKFAAEQFCSVFPTC
->sp|D0C9N6|CNTA_ACIB2 Carnitine monooxygenase oxygenase subunit OS=Acinetobacter baumannii (strain ATCC 19606 / DSM 30007 / JCM 6841 / CCUG 19606 / C
+>sp|D0C9N6|CNTA_ACIB2_Carnitine_monooxygenase_oxygenase_subunit_OS=Acinetobacter_baumannii_(strain_ATCC_19606_/_DSM_30007_/_JCM_6841_/_CCUG_19606_/_C
 YTSSQVFEHEKEAIFASWICVAHSELAQPNDYINIVIIRGLRAFYNVCPHRGHELVITCPYHAWTFKLGFLFINMDEANWKVIVDNYMETWPCT
->sp|F0KFI5|CNTA_ACICP Carnitine monooxygenase oxygenase subunit OS=Acinetobacter calcoaceticus (strain PHEA-2) OX=871585 GN=yeaW PE=1 SV=1
+>sp|F0KFI5|CNTA_ACICP_Carnitine_monooxygenase_oxygenase_subunit_OS=Acinetobacter_calcoaceticus_(strain_PHEA-2)_OX=871585_GN=yeaW_PE=1_SV=1
 YTSSQVFEHEKEAIFASWICVAHGELAQPNDYINIVIIRGLRAFYNVCPHRGHELVITCPYHAWTFKLGFVFINMDEANWKVIVDNYLETWPCT
->sp|O52379|NAGG_RALSP Salicylate 5-hydroxylase, large oxygenase component OS=Ralstonia sp OX=54061 GN=nagG PE=1 SV=1
+>sp|O52379|NAGG_RALSP_Salicylate_5-hydroxylase,_large_oxygenase_component_OS=Ralstonia_sp_OX=54061_GN=nagG_PE=1_SV=1
 YTREDLYKRELERLFYHWCYVGLEEIPNPGDFKSVIMVRDINVVENVCAHRGMRFDFFCPYHQWNYSLGAVFASFDHGNWKLMQEN-IKIFPSV
->sp|O52382|NDOB_RALSP Naphthalene 1,2-dioxygenase system, large oxygenase component OS=Ralstonia sp OX=54061 GN=nagAc PE=1 SV=1
+>sp|O52382|NDOB_RALSP_Naphthalene_1,2-dioxygenase_system,_large_oxygenase_component_OS=Ralstonia_sp_OX=54061_GN=nagAc_PE=1_SV=1
 HGDKELFQHELKTIFANWLFLTHDLIPSPGDYVEVIVSRQVRAFLNVCRHRGKTLGFVCSYHGWGFGSGFIYGCFDAANWKAPAENFVGVFPNN
->sp|P0ABR5|HCAE_ECOLI 3-phenylpropionate/cinnamic acid dioxygenase subunit alpha OS=Escherichia coli (strain K12) OX=83333 GN=hcaE PE=1 SV=1
+>sp|P0ABR5|HCAE_ECOLI_3-phenylpropionate/cinnamic_acid_dioxygenase_subunit_alpha_OS=Escherichia_coli_(strain_K12)_OX=83333_GN=hcaE_PE=1_SV=1
 YTDPDIYQLELERIFGCWLFLAHEQIPKPGDFFAVVVVRQIKAFLNQCRHRAMRVAFTCPYHGWSYGIGLIFGNWDTCNWKFPAEQFASIFPTL
->sp|P0ABR7|CNTA_ECOLI Carnitine monooxygenase oxygenase subunit OS=Escherichia coli (strain K12) OX=83333 GN=yeaW PE=1 SV=1
+>sp|P0ABR7|CNTA_ECOLI_Carnitine_monooxygenase_oxygenase_subunit_OS=Escherichia_coli_(strain_K12)_OX=83333_GN=yeaW_PE=1_SV=1
 YTDQNAFEHEKENVFASWICVAHSELANANDYVSIVLVRGLRAFYNVCPHRGHQLVITCPYHAWAFKLGFVFINMDPANWKNIVDNYLELWPCT
->sp|P37333|BPHA_PARXL Biphenyl dioxygenase subunit alpha OS=Paraburkholderia xenovorans (strain LB400) OX=266265 GN=bphA PE=1 SV=3
+>sp|P37333|BPHA_PARXL_Biphenyl_dioxygenase_subunit_alpha_OS=Paraburkholderia_xenovorans_(strain_LB400)_OX=266265_GN=bphA_PE=1_SV=3
 YADQSLYELELERVFGSWLLLGHEHVPETGDFLPVVMVRQIKVFLNQCRHRGMRIAFTCSYHGWAYDIGLVFANWDVCNWKFAAEQFCSIFPTC
->sp|Q51601|CBDA_BURCE 2-halobenzoate 1,2-dioxygenase large subunit OS=Burkholderia cepacia OX=292 GN=cbdA PE=1 SV=3
+>sp|Q51601|CBDA_BURCE_2-halobenzoate_1,2-dioxygenase_large_subunit_OS=Burkholderia_cepacia_OX=292_GN=cbdA_PE=1_SV=3
 FTDAALFDYEMKYIFENWVFLAHEQVANPDDYLPVIITRNVSAVINACSHRGAELTFTCQFHGWTFSNGFLFGSMNPGNWKLQIENGADIYPNL
->sp|Q84BZ3|ANDAC_BURCE Anthranilate 1,2-dioxygenase large subunit OS=Burkholderia cepacia OX=292 GN=andAc PE=1 SV=1
+>sp|Q84BZ3|ANDAC_BURCE_Anthranilate_1,2-dioxygenase_large_subunit_OS=Burkholderia_cepacia_OX=292_GN=andAc_PE=1_SV=1
 FSSRAVYDREQERIFRTWNFVALEEIPNAGDFKPVVVTRTLSAWVNRCAHRGAQVSHTCVYHQWSFDNGLVFATFSDSNWKLYMEN-VKIFPQL
->sp|A8A344|HCAE_ECOHS 3-phenylpropionate/cinnamic acid dioxygenase subunit alpha OS=Escherichia coli O9:H4 (strain HS) OX=331112 GN=hcaE PE=3 SV=1
+>sp|A8A344|HCAE_ECOHS_3-phenylpropionate/cinnamic_acid_dioxygenase_subunit_alpha_OS=Escherichia_coli_O9:H4_(strain_HS)_OX=331112_GN=hcaE_PE=3_SV=1
 YTDPDIYQLELERIFGCWLFLAHEQIPKPGDFFAVVVVRQIKAFLNQCRHRAMRVAFTCPYHGWSYGIGLIFGNWDTCNWKFPAEQFASIFPTL
->sp|O07824|NDOB_PSEFL Naphthalene 1,2-dioxygenase system, large oxygenase component OS=Pseudomonas fluorescens OX=294 GN=ndoB PE=3 SV=1
+>sp|O07824|NDOB_PSEFL_Naphthalene_1,2-dioxygenase_system,_large_oxygenase_component_OS=Pseudomonas_fluorescens_OX=294_GN=ndoB_PE=3_SV=1
 HGDEELFQHELRTIXANWLFLTHDLIPSPGDYVEVIVSRQIRAFLNVCRHRGKTLGFVCSYHGWGFGSGFIYGCFDQANWKAPAENFVGVFPNN
->sp|O24676|TECA1_CUPXP Chlorobenzene dioxygenase subunit alpha OS=Cupriavidus sp. (strain PS12) OX=393999 GN=tecA1 PE=1 SV=1
+>sp|O24676|TECA1_CUPXP_Chlorobenzene_dioxygenase_subunit_alpha_OS=Cupriavidus_sp._(strain_PS12)_OX=393999_GN=tecA1_PE=1_SV=1
 YTDEDLYQIELERVFGSWLLLGHEQIKKPGDYTPVLVVRQIAVFLNQCRHRGMRIAFTCSYHGWAYDTGLIFANWDHCNWKLAAEQFCWVFPTC
->sp|P07769|BENA_ACIAD Benzoate 1,2-dioxygenase subunit alpha OS=Acinetobacter baylyi (strain ATCC 33305 / BD413 / ADP1) OX=62977 GN=benA PE=3 SV=2
+>sp|P07769|BENA_ACIAD_Benzoate_1,2-dioxygenase_subunit_alpha_OS=Acinetobacter_baylyi_(strain_ATCC_33305_/_BD413_/_ADP1)_OX=62977_GN=benA_PE=3_SV=2
 FTDQALFDLEMKYIFENWVYLAHEQIPNNNDYYPILIARNLNAMINACSHRGAQLTYTCPFHGWTFNNGFLFGSLNPGNWKLTAENGADLYPNV
->sp|P0ABR6|HCAE_ECO57 3-phenylpropionate/cinnamic acid dioxygenase subunit alpha OS=Escherichia coli O157:H7 OX=83334 GN=hcaE PE=3 SV=1
+>sp|P0ABR6|HCAE_ECO57_3-phenylpropionate/cinnamic_acid_dioxygenase_subunit_alpha_OS=Escherichia_coli_O157:H7_OX=83334_GN=hcaE_PE=3_SV=1
 YTDPDIYQLELERIFGCWLFLAHEQIPKPGDFFAVVVVRQIKAFLNQCRHRAMRVAFTCPYHGWSYGIGLIFGNWDTCNWKFPAEQFASIFPTL
->sp|P0ABR8|CNTA_ECO57 Carnitine monooxygenase oxygenase subunit OS=Escherichia coli O157:H7 OX=83334 GN=yeaW PE=3 SV=1
+>sp|P0ABR8|CNTA_ECO57_Carnitine_monooxygenase_oxygenase_subunit_OS=Escherichia_coli_O157:H7_OX=83334_GN=yeaW_PE=3_SV=1
 YTDQNAFEHEKENVFASWICVAHSELANANDYVSIVLVRGLRAFYNVCPHRGHQLVITCPYHAWAFKLGFVFINMDPANWKNIVDNYLELWPCT
->sp|P23099|XYLX_PSEPU Toluate 1,2-dioxygenase subunit alpha OS=Pseudomonas putida OX=303 GN=xylX PE=3 SV=1
+>sp|P23099|XYLX_PSEPU_Toluate_1,2-dioxygenase_subunit_alpha_OS=Pseudomonas_putida_OX=303_GN=xylX_PE=3_SV=1
 FTDPRLFDLEMKHIFENWIYLAHEQIPEKNDYYPIFITRNLNAFVNACSHRGATLTHTCSFHGWTFSNGFLFGSLREGNWKVQVENGADLYPNL
->sp|Q07944|BEDC1_PSEPU Benzene 1,2-dioxygenase subunit alpha OS=Pseudomonas putida OX=303 GN=bedC1 PE=1 SV=1
+>sp|Q07944|BEDC1_PSEPU_Benzene_1,2-dioxygenase_subunit_alpha_OS=Pseudomonas_putida_OX=303_GN=bedC1_PE=1_SV=1
 YTDEDLYQLELERVFASWLLLGHEHIRKPGDYFPVVVVRQIAVFLNQCRHRGMRIAFTCSYHGWAYDTGLIFANWDECNWKFAAEQFCSVFPTC
->sp|Q0T1Y1|HCAE_SHIF8 3-phenylpropionate/cinnamic acid dioxygenase subunit alpha OS=Shigella flexneri serotype 5b (strain 8401) OX=373384 GN=hcaE PE=
+>sp|Q0T1Y1|HCAE_SHIF8_3-phenylpropionate/cinnamic_acid_dioxygenase_subunit_alpha_OS=Shigella_flexneri_serotype_5b_(strain_8401)_OX=373384_GN=hcaE_PE=
 YTDPDIYQLELERIFGCWLFLAHEQIPKPGDFFAVVVVRQIKAFLNQCRHRAMRVAFTCPYHGWSYGIGLIFGNWDTCNWKFPAEQFASIFPTL
->sp|Q31XV2|HCAE_SHIBS 3-phenylpropionate/cinnamic acid dioxygenase subunit alpha OS=Shigella boydii serotype 4 (strain Sb227) OX=300268 GN=hcaE PE=3
+>sp|Q31XV2|HCAE_SHIBS_3-phenylpropionate/cinnamic_acid_dioxygenase_subunit_alpha_OS=Shigella_boydii_serotype_4_(strain_Sb227)_OX=300268_GN=hcaE_PE=3
 YTDPDIYQLELERIFGCWLFLAHEQIPKPGDFFAVVVVRQIKAFLNQCRHRAMRVAFTCPYHGWSYGIGLIFGNWDTCNWKSPAEQFASIFPTL
->sp|Q3YZ15|HCAE_SHISS 3-phenylpropionate/cinnamic acid dioxygenase subunit alpha OS=Shigella sonnei (strain Ss046) OX=300269 GN=hcaE PE=3 SV=1
+>sp|Q3YZ15|HCAE_SHISS_3-phenylpropionate/cinnamic_acid_dioxygenase_subunit_alpha_OS=Shigella_sonnei_(strain_Ss046)_OX=300269_GN=hcaE_PE=3_SV=1
 YTDPDIYQLELERIFGCWLFLAHEQIPKPGDFFAVVVVRQIKAFLNQCRHRAMRVAFTCPYHGWSYGIGLIFGNWDTCNWKFPAEQFASIFPTL
->sp|Q45695|DNTAC_BURSR 2,4-dinitrotoluene dioxygenase system, large oxygenase component OS=Burkholderia sp. (strain RASC) OX=69003 GN=dntAc PE=1 SV=1
+>sp|Q45695|DNTAC_BURSR_2,4-dinitrotoluene_dioxygenase_system,_large_oxygenase_component_OS=Burkholderia_sp._(strain_RASC)_OX=69003_GN=dntAc_PE=1_SV=1
 YGDKELFQHELKTIFANWLFLTHDLIPSPGDYVEVIVSRQVRAFLNVCRHRGKTIGFVCGYHGWGYGSGFIYGCFDAGNWKVFAENFVGVFPNN
->sp|Q46372|BPHA_COMTE Biphenyl dioxygenase subunit alpha OS=Comamonas testosteroni OX=285 GN=bphA PE=1 SV=1
+>sp|Q46372|BPHA_COMTE_Biphenyl_dioxygenase_subunit_alpha_OS=Comamonas_testosteroni_OX=285_GN=bphA_PE=1_SV=1
 YADQDLYQLELERVFGSWLMLGHEHIPKIGDYLPVIMVRQIKVFLNQCRHRGMRIAFTCTYHGWAYDIGLVFANWDPCNWKFAAEQFCSVFPTC
->sp|Q51494|NDOB_PSEAI Naphthalene 1,2-dioxygenase system, large oxygenase component OS=Pseudomonas aeruginosa OX=287 GN=ndoB PE=3 SV=1
+>sp|Q51494|NDOB_PSEAI_Naphthalene_1,2-dioxygenase_system,_large_oxygenase_component_OS=Pseudomonas_aeruginosa_OX=287_GN=ndoB_PE=3_SV=1
 HGDEELFQRELETIFANWLFLTHDLIPSPGDYVEVIVSRQIRAFLNVCRHRGKTLGFVCSYHGWGFGAGFIYGCFDEANWKAPAENFTGVFPNN
->sp|Q51974|CMTAB_PSEPU p-cumate 2,3-dioxygenase system, large oxygenase component OS=Pseudomonas putida OX=303 GN=cmtAb PE=1 SV=1
+>sp|Q51974|CMTAB_PSEPU_p-cumate_2,3-dioxygenase_system,_large_oxygenase_component_OS=Pseudomonas_putida_OX=303_GN=cmtAb_PE=1_SV=1
 FVSEEVLAEEYEKIFDCWLYVGHTEFKKPGDFVNLLVTMGINAFFNTCPHRGATVNFQCFYHGWVFGCGFCFVSFNAANWKLLVEN-SIIFPNL
->sp|Q52028|BPHA_PSEFK Biphenyl dioxygenase subunit alpha OS=Pseudomonas furukawaii OX=1149133 GN=bphA PE=3 SV=1
+>sp|Q52028|BPHA_PSEFK_Biphenyl_dioxygenase_subunit_alpha_OS=Pseudomonas_furukawaii_OX=1149133_GN=bphA_PE=3_SV=1
 YADQSLYELELERVFGSWLLLGHEHVPETGDFLPVVMVRQIKVFLNQCRHRGMRIAFTCSYHGWAYDIGLVFANWDVCNWKFAAEQFCSVFPTC
->sp|Q52438|BPHA1_PSES1 Biphenyl dioxygenase subunit alpha OS=Pseudomonas sp. (strain KKS102) OX=307 GN=bphA1 PE=3 SV=1
+>sp|Q52438|BPHA1_PSES1_Biphenyl_dioxygenase_subunit_alpha_OS=Pseudomonas_sp._(strain_KKS102)_OX=307_GN=bphA1_PE=3_SV=1
 YADQDLYEIELERIFASWLLLGHEHIPKTGDYLPVIMVRQIKVFLNQCRHRGMRIAFTCTYHGWAYDIGLIFANWDACNWKFAAEQFCSVFPTC
->sp|Q7N4W0|HCAE_PHOLL 3-phenylpropionate/cinnamic acid dioxygenase subunit alpha OS=Photorhabdus laumondii subsp. laumondii (strain DSM 15139 / CIP 1
+>sp|Q7N4W0|HCAE_PHOLL_3-phenylpropionate/cinnamic_acid_dioxygenase_subunit_alpha_OS=Photorhabdus_laumondii_subsp._laumondii_(strain_DSM_15139_/_CIP_1
 YIDPELYQLELERIFGCWLFLAHQQIPNPGDFFSVVVVRQVKAFLNQCRHRSMRVAFTCPYHGWSYGVGLIFGNWDTCNWKLPAEQFAGIFPTL
->sp|Q83K39|HCAE_SHIFL 3-phenylpropionate/cinnamic acid dioxygenase subunit alpha OS=Shigella flexneri OX=623 GN=hcaE PE=3 SV=1
+>sp|Q83K39|HCAE_SHIFL_3-phenylpropionate/cinnamic_acid_dioxygenase_subunit_alpha_OS=Shigella_flexneri_OX=623_GN=hcaE_PE=3_SV=1
 YTDPDIYQLELERIFGCWLFLAHEQIPKPGDFFAVVVVRQIKAFLNQCRHRAMRVAFTCPYHGWSYGIGLIFGNWDTCNWKFPAEQFASIFPTL
->sp|O04121|CHMO_SPIOL Choline monooxygenase, chloroplastic OS=Spinacia oleracea OX=3562 GN=CMO PE=1 SV=1
+>sp|O04121|CHMO_SPIOL_Choline_monooxygenase,_chloroplastic_OS=Spinacia_oleracea_OX=3562_GN=CMO_PE=1_SV=1
 YTEPAFYSHELERIFYGWQVAGISQIKEPNQYFEYLVSRDVHAFHNVCTHRASILCFVCPYHGWVYGMPFVLISLDRSNWKIFSDNYLDAYPNF
->sp|O22553|CHMO_BETVU Choline monooxygenase, chloroplastic OS=Beta vulgaris OX=161934 GN=CMO PE=2 SV=1
+>sp|O22553|CHMO_BETVU_Choline_monooxygenase,_chloroplastic_OS=Beta_vulgaris_OX=161934_GN=CMO_PE=2_SV=1
 YTEPAFYSHELERIFYGWQVAGYSQVKEKNQYFEYLVSRDLHAFHNVCTHRASILCFVCPYHGWVYGLPFILISLDRCNWKVFCDNYLDIYPNF
->sp|Q9LKN0|CHMO_ATRHO Choline monooxygenase, chloroplastic OS=Atriplex hortensis OX=34272 GN=CMO PE=2 SV=1
+>sp|Q9LKN0|CHMO_ATRHO_Choline_monooxygenase,_chloroplastic_OS=Atriplex_hortensis_OX=34272_GN=CMO_PE=2_SV=1
 YTEPAFYAHELDRIFYGWQVAGYSQVKEANQYFEYLVCRDVHAFHNVCTHRASILCFVCPYHGWVYGMPFILISLDRSNWKIFSDNYLDAYPNF
->sp|Q93XE1|CHMO_AMATR Choline monooxygenase, chloroplastic OS=Amaranthus tricolor OX=29722 GN=CMO PE=2 SV=1
+>sp|Q93XE1|CHMO_AMATR_Choline_monooxygenase,_chloroplastic_OS=Amaranthus_tricolor_OX=29722_GN=CMO_PE=2_SV=1
 YTDPSLYSHELDRIFSGWQVAGYSQIKEPNQYFEYLVCRDVHAFHNVCTHRASILCFVCPYHGWVFGLPFVLISLDRSNWKVFCDNYLDIYPNF
->sp|Q9SZR0|CHMO_ARATH Choline monooxygenase, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=At4g29890 PE=2 SV=2
+>sp|Q9SZR0|CHMO_ARATH_Choline_monooxygenase,_chloroplastic_OS=Arabidopsis_thaliana_OX=3702_GN=At4g29890_PE=2_SV=2
 YTDPQFYSFELDRVFYGWQAVGYSQIKESRDFFDFVVCRDIHAFHNVCSHHASILCFVCLYHGWTYSLPFVLLKVTACNWKVFCDNYLDVYPNF
 >trA0A010SG43|A0A010SG43_PSEFL_Rieske_(2Fe-2S)_protein_OS=Pseudomonas_fluorescens_HK44_OX=1042209_GN=HK44_015050_PE=4_SV=1
 YSDERLFDIDMQEIFQEWLIAGMTEIPTKGNFLPIIVIRGVHAFHNVCRHRGSRLKLVCHYHQWTYELGYIFVSLAEANWKLVLENNREHLPHS
