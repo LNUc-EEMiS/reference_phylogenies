@@ -6,4 +6,4 @@ final_sequences.co.BLOSUM30.bmge.iqtree.MFP.short_names.newick: long2short.sed f
 	sed -f $^ > $@
 
 long2short.sed: long2short.tsv
-	grep -v '^db' $< | sed 's:/:\\/:g' | sed 's:.*\t\(.*\)\t\(.*\)\t.*:s/\2/\1/:' > $@
+	grep -v '^db' $< | sed 's:/:\\/:g' | sed 's:.*\t\(.*\)\t\(.*\):s/\1/\2/:' > $@
