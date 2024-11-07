@@ -16,12 +16,26 @@ Functional groups in clans _sensu_ Wilkinson et al. (2007) were identified based
 The phylogeny can be used to identify e.g. poly-aromatic hydrocarbon-dioxygenases using [nf-core/phyloplace](https://nf-co.re/phyloplace) with the following command:
 
 ```bash
-nextflow run nf-core/phyloplace -r 1.0 -profile <docker>/<singularity>/<other opts> --outdir results --queryseqfile your_sequences.faa --refseqfile https://raw.githubusercontent.com/LNUc-EEMiS/reference_phylogenies/refs/heads/master/ring-hydroxylase_alpha.alnfaa --refphylogeny https://raw.githubusercontent.com/LNUc-EEMiS/reference_phylogenies/refs/heads/master/ring-hydroxylase_alpha.newick --model LG+G4
+nextflow run nf-core/phyloplace -r 1.0.0 -profile <docker>/<singularity>/<other opts> \
+  --outdir results --queryseqfile your_sequences.faa \
+  --refseqfile https://raw.githubusercontent.com/LNUc-EEMiS/reference_phylogenies/refs/heads/master/ring-hydroxylase_alpha.alnfaa \
+  --refphylogeny https://raw.githubusercontent.com/LNUc-EEMiS/reference_phylogenies/refs/heads/master/ring-hydroxylase_alpha.newick \
+  --taxonomy https://raw.githubusercontent.com/LNUc-EEMiS/reference_phylogenies/v1.0/ring-hydroxylase_alpha.classification.tsv \
+  --model LG+G4 --max_memory 24.GB
 ```
+
+In the above command, the file `your_sequences.faa` should contain protein sequences to place, possibly the result of running
+`hmmsearch` from the HMMER software package (Eddy 2011) with the Pfam PF00848 hmm profile (Finn et al. 2008).
+The `--max_memory` parameter can be set to higher or smaller values, depending on your hardware.
+Results will be written to subdirectories of `results/`, primarily `results/gappa`.
+The classification can be found in `results/gappa/placement.taxonomy.per_query.tsv`.
+_Note_ that the classification file often contains multiple alternative assignments, choose the one with maxiumum `LWR`.
 
 ### References
 
 Criscuolo, Alexis, and Simonetta Gribaldo. “BMGE (Block Mapping and Gathering with Entropy): A New Software for Selection of Phylogenetic Informative Regions from Multiple Sequence Alignments.” BMC Evolutionary Biology 10 (2010): 210. https://doi.org/10.1186/1471-2148-10-210.
+
+Eddy, Sean R. 2011. “Accelerated Profile HMM Searches.” PLoS Comput Biol 7 (10): e1002195. https://doi.org/10.1371/journal.pcbi.1002195.
 
 Edgar, Robert C. “Search and Clustering Orders of Magnitude Faster than BLAST.” Bioinformatics 26, no. 19 (October 1, 2010): 2460–61. https://doi.org/10.1093/bioinformatics/btq461.
 
@@ -33,4 +47,4 @@ Sievers, F., A. Wilm, D. Dineen, T. J. Gibson, K. Karplus, W. Li, R. Lopez, et a
 
 The UniProt Consortium, Alex Bateman, Maria-Jesus Martin, Sandra Orchard, Michele Magrane, Rahat Agivetova, Shadab Ahmad, et al. “UniProt: The Universal Protein Knowledgebase in 2021.” Nucleic Acids Research 49, no. D1 (January 8, 2021): D480–89. https://doi.org/10.1093/nar/gkaa1100.
 
-1. Wilkinson M, McInerney JO, Hirt RP, Foster PG, Embley TM. Of clades and clans: terms for phylogenetic relationships in unrooted trees. Trends Ecol Evol (Amst). 2007 Mar;22(3):114–5. 
+Wilkinson M, McInerney JO, Hirt RP, Foster PG, Embley TM. Of clades and clans: terms for phylogenetic relationships in unrooted trees. Trends Ecol Evol (Amst). 2007 Mar;22(3):114–5. 
