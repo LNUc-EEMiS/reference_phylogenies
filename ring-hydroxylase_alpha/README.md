@@ -11,7 +11,7 @@ A maximum likelihood phylogeny was estimated with IQ-TREE (Nguyen et al. 2015) i
 Command line for IQ-TREE: `iqtree -s final_sequences.co.BLOSUM30.bmge.alnfaa -B 1000 -nt AUTO -m MFP --prefix final_sequences.co.BLOSUM30.bmge.iqtree.MFP`.
 The best fitting model according to Akaike and Bayesian Information Criterion was Q.pfam+I+I+R7 and LG+G4 according to Corrected Akaike Information Criterion.
 
-Functional groups in clans _sensu_ Wilkinson et al. (2007) were identified based on manually curated SwissProt sequences (see `ring-hydroxylase_alpha.classification.tsv.
+Functional groups in clans _sensu_ Wilkinson et al. (2007) were identified based on manually curated SwissProt sequences (see `ring-hydroxylase_alpha.classification.tsv`.
 
 The phylogeny can be used to identify e.g. poly-aromatic hydrocarbon-dioxygenases using [nf-core/phyloplace](https://nf-co.re/phyloplace) with the following command:
 
