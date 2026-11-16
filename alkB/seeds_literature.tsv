@@ -1,0 +1,30 @@
+accession	gene	organism	length	PE	pubmed	first_journal_title
+O31250	alkB	Acinetobacter baylyi (strain ATCC 33305 / BD413 / ADP1)	408	2	9546151;15514110;9811637	Alkane hydroxylase from Acinetobacter sp. strain ADP1 is encoded by alkM and belongs to a new family of bacterial integral-membrane hydrocar
+Q9XDP7	alkM	Acinetobacter calcoaceticus	400	3	11207749	Molecular screening for alkane hydroxylase genes in Gram-negative and Gram-positive strains.
+Q9AQJ9	alkMb	Acinetobacter sp. M-1	395	3	11160120	Gene structures and regulation of the alkane hydroxylase complex in Acinetobacter sp. strain M-1.
+Q9AQK2	alkMa	Acinetobacter sp. M-1	415	3	11160120	Gene structures and regulation of the alkane hydroxylase complex in Acinetobacter sp. strain M-1.
+Q0VKZ3	alkB1	Alcanivorax borkumensis (strain ATCC 700651 / DSM 11573 / NCIMB 13689 / SK2)	404	1	14871203;16878126;14871210	Cloning and functional analysis of alkB genes in Alcanivorax borkumensis SK2.
+Q0VTH3	alkB2	Alcanivorax borkumensis (strain ATCC 700651 / DSM 11573 / NCIMB 13689 / SK2)	382	2	14871203;14871210;16878126;19953301	Cloning and functional analysis of alkB genes in Alcanivorax borkumensis SK2.
+C3W4W7		Alloalcanivorax dieselolei	398	3	19733061	Isolation of an alkane-degrading Alcanivorax sp. strain 2B5 and cloning of the alkB gene.
+D2JNY2	alkB2	Alloalcanivorax dieselolei	398	3	21261799	Alcanivorax dieselolei sp. nov., a novel alkane-degrading bacterium isolated from sea water and deep-sea sediment.
+Q6B431	alkB1	Alloalcanivorax dieselolei	394	3	21261799	Alcanivorax dieselolei sp. nov., a novel alkane-degrading bacterium isolated from sea water and deep-sea sediment.
+Q9AEN3	alkB	Burkholderia cepacia	386	3	11418560	The alkane hydroxylase gene of Burkholderia cepacia RR10 is under catabolite repression control.
+P12691	alkB	Ectopseudomonas oleovorans	401	1	2647718;921275;1315749;9096332	The Pseudomonas oleovorans alkane hydroxylase gene. Sequence and expression.
+A0A1I2KHB9		Fontimonas thermophila	399	1	37069165	Structure and mechanism of the alkane-oxidizing enzyme AlkB.
+E7D4Q3	alkB	Gordonia sp. SoCg	417	3	21183636	Involvement of an alkane hydroxylase system of Gordonia sp. strain SoCg in degradation of solid n-alkanes.
+Q5WA49	alkB2	Gordonia sp. TF6	411	3	15502364	Biotransformation of various alkanes using the Escherichia coli expressing an alkane hydroxylase system from Gordonia sp. TF6.
+Q6H941	alkB2	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	377	1	15205425;10984043;14574114;12730186	Structure of Pseudomonas aeruginosa populations analyzed by single nucleotide polymorphism and pulsed-field gel electrophoresis genotyping.
+Q9I0R2	alkB1	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	382	1	10984043;14574114;12730186	Complete genome sequence of Pseudomonas aeruginosa PAO1, an opportunistic pathogen.
+Q9XAV1	alkB	Pseudomonas fluorescens	430	3	11207749;11872725	Molecular screening for alkane hydroxylase genes in Gram-negative and Gram-positive strains.
+Q9WWW6	alkB	Pseudomonas putida	402	3	11207749;11390693	Molecular screening for alkane hydroxylase genes in Gram-negative and Gram-positive strains.
+E5G6V9	alkB	Rhodococcus aetherivorans	407	3	21193665	Analyses of both the alkB Gene Transcriptional Start Site and alkB Promoter-Inducing Properties of Rhodococcus sp. Strain BCP1 Grown on n-Al
+Q93JS1	alkB4	Rhodococcus erythropolis	386	3	12450813	Gene cloning and characterization of multiple alkane hydroxylase systems in Rhodococcus strains Q15 and NRRL B-16531.
+Q93JS2	alkB3	Rhodococcus erythropolis	383	3	12450813	Gene cloning and characterization of multiple alkane hydroxylase systems in Rhodococcus strains Q15 and NRRL B-16531.
+Q9AE68	alkB2	Rhodococcus erythropolis	408	3	11207749;12450813	Molecular screening for alkane hydroxylase genes in Gram-negative and Gram-positive strains.
+Q9XAU0	alkB1	Rhodococcus erythropolis	391	3	11207749;12450813	Molecular screening for alkane hydroxylase genes in Gram-negative and Gram-positive strains.
+D3U111	alkB7	Rhodococcus ruber	407	3	19912429	Identification of different alkane hydroxylase systems in Rhodococcus ruber strain SP2B, an hexane-degrading actinomycete.
+D3U119	alkB7	Rhodococcus ruber	407	3	19912429	Identification of different alkane hydroxylase systems in Rhodococcus ruber strain SP2B, an hexane-degrading actinomycete.
+Q93DM7	alkB2	Rhodococcus sp. (strain Q15)	408	3	12450813	Gene cloning and characterization of multiple alkane hydroxylase systems in Rhodococcus strains Q15 and NRRL B-16531.
+Q93DN3	alkB1	Rhodococcus sp. (strain Q15)	391	3	12450813	Gene cloning and characterization of multiple alkane hydroxylase systems in Rhodococcus strains Q15 and NRRL B-16531.
+Q93DN4	alkB4	Rhodococcus sp. (strain Q15)	386	3	12450813	Gene cloning and characterization of multiple alkane hydroxylase systems in Rhodococcus strains Q15 and NRRL B-16531.
+Q93DN5	alkB3	Rhodococcus sp. (strain Q15)	383	3	12450813	Gene cloning and characterization of multiple alkane hydroxylase systems in Rhodococcus strains Q15 and NRRL B-16531.
