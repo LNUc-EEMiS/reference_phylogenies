@@ -8,7 +8,7 @@ See subdirectories for working files, and copies of the files here for reference
 
 `phylosearch_targets.csv` is a target sheet for nf-core/phyloplace (`--phylosearch_input`, version 2.4.0 and later) with one row per reference phylogeny: `alkB` and `ring-hydroxylase_alpha`.
 Each row has the profile for the search (`<name>.hmm`), the reference alignment (`<name>.alnfaa`, the alignment the tree was made from), the tree (`<name>.newick`), the model for EPA-ng and the classification (`<name>.classification.tsv`).
-The profile is only used to search; the hits are aligned to the reference alignment with Clustal Omega in profile mode (`alignmethod` is `clustalo`).
+The profile is used both to search and to align the hits (`alignmethod` is `hmmer`), because the reference alignments are trimmed and Clustal Omega in profile mode put most hits in columns the reference lacks, which made EPA-ng stop with "does not appear to have any non-gap sites".
 The paths are URLs to the files on the master branch, so a run needs no clone of this repository.
 
 ```bash
