@@ -11,7 +11,7 @@ The intermediate files (cluster tables, HMM search tables, earlier trees) are in
 
 **Alignment and tree.**
 `hmmalign` of the sequences to PF00487 (`PF00487.hmm`), trimmed with BMGE to 218 columns (`ref_pf00487.hmm.trim.alnfaa`).
-IQ-TREE 3.1.4, `iqtree -s ref_pf00487.hmm.trim.alnfaa -m LG+F+R8 -t ref_pf00487.G4I.ml.treefile -B 1000 -nm 3000 -nt 16`, started from the ML tree of an LG+F+I+G4 run; the tree is `ref_pf00487.R8.iqtree.treefile` (root symlink `alkB.newick`), log-likelihood -362,030.8.
+IQ-TREE 3.1.4, `iqtree -s ref_pf00487.hmm.trim.alnfaa -m LG+F+R8 -t ref_pf00487.G4I.ml.treefile -B 1000 -nm 3000 -nt 16`, started from the ML tree of an LG+F+I+G4 run; the tree is `ref_pf00487.R8.iqtree.treefile` (copied to `../alkB.newick`), log-likelihood -362,030.8.
 The LG+F+I+G4 and LG+F+R8 trees give the same clades in the tests below.
 LG+F+R8 was chosen by BIC in ModelFinder on the same alignment (`-mset LG -mfreq F -mrate G,I+G,R -cmax 8`, so at most 8 FreeRate categories were tried); EPA-ng takes it only with the fitted values given explicitly (`alkB.models`), otherwise it uses equal weights and its own rates.
 
@@ -58,4 +58,5 @@ Clan J has no characterised member.
 
 ### Files
 
-`ref_pf00487.faa`, `ref_pf00487.hmm.trim.alnfaa` (root symlink `alkB.alnfaa`), `PF00487.hmm`, `ref_pf00487.R8.iqtree.{treefile,contree,iqtree}`, `alkB.models`, `alkB.classification.tsv`, `alkB.clades.tsv`, `alkB.taxonomy.tsv`, `alkB.classified.newick` (the tree with the classification in the tip names), `seeds_literature.tsv`.
+`ref_pf00487.faa`, `ref_pf00487.hmm.trim.alnfaa` (copied to `../alkB.alnfaa`), `PF00487.hmm`, `ref_pf00487.R8.iqtree.{treefile,contree,iqtree}`, `alkB.models`, `alkB.classification.tsv`, `alkB.clades.tsv`, `alkB.taxonomy.tsv`, `alkB.classified.newick` (the tree with the classification in the tip names), `seeds_literature.tsv`.
+Copies of these files for phylogenetic placement are in the root of the repository (`alkB.{alnfaa,faa,hmm,newick,models,classification.tsv}`) and must be updated when the files here change; `../phylosearch_targets.csv` points to them.
