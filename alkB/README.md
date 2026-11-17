@@ -59,4 +59,4 @@ Clan J has no characterised member.
 ### Files
 
 `ref_pf00487.faa`, `ref_pf00487.hmm.trim.alnfaa` (copied to `../alkB.alnfaa`), `PF00487.hmm`, `ref_pf00487.R8.iqtree.{treefile,contree,iqtree}`, `alkB.models`, `alkB.classification.tsv`, `alkB.clades.tsv`, `alkB.taxonomy.tsv`, `alkB.classified.newick` (the tree with the classification in the tip names), `seeds_literature.tsv`.
-Copies of these files for phylogenetic placement are in the root of the repository (`alkB.{alnfaa,faa,hmm,newick,models,classification.tsv}`) and must be updated when the files here change; `../phylosearch_targets.csv` points to them.
+Copies of these files for phylogenetic placement are in the root of the repository (`alkB.{alnfaa,hmm,newick,models,classification.tsv}`) and must be updated when the files here change; `../phylosearch_targets.csv` points to them.
