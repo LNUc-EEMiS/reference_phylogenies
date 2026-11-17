@@ -1,0 +1,935 @@
+accession	classification	tag	phylum	class	order	genus	organism	protein_name
+P12691	alkB;clanAB;clanA;A1;A1b	seed	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Ectopseudomonas	Ectopseudomonas oleovorans (Pseudomonas oleovorans)	Alkane 1-monooxygenase (EC 1.14.15.3) (Alkane hydroxylase) (AHs) (Terminal alkane hydroxylase)
+O31250	alkB;clanAB;clanA;A2	seed	Pseudomonadota	Gammaproteobacteria	Moraxellales	Acinetobacter	Acinetobacter baylyi (strain ATCC 33305 / BD413 / ADP1)	Alkane 1-monooxygenase (EC 1.14.15.3) (Alkane hydroxylase) (AHs) (Terminal alkane hydroxylase)
+Q0VKZ3	alkB;clanAB;clanA;A1;A1b	seed	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Alcanivorax	Alcanivorax borkumensis (strain ATCC 700651 / DSM 11573 / NCIMB 13689 / SK2)	Alkane 1-monooxygenase 1 (EC 1.14.15.3) (Alkane hydroxylase) (AHs) (Terminal alkane hydroxylase)
+Q0VTH3	alkB;clanC;C1	seed	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Alcanivorax	Alcanivorax borkumensis (strain ATCC 700651 / DSM 11573 / NCIMB 13689 / SK2)	Alkane 1-monooxygenase 2 (EC 1.14.15.3) (Alkane hydroxylase) (AHs) (Terminal alkane hydroxylase)
+Q6H941	alkB;clanC;C1	seed	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	Alkane 1-monooxygenase 2 (EC 1.14.15.3) (Alkane hydroxylase) (AHs) (Terminal alkane hydroxylase)
+Q9I0R2	alkB;clanC;C1	seed	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	Alkane 1-monooxygenase 1 (EC 1.14.15.3) (Alkane hydroxylase) (AHs) (Terminal alkane hydroxylase)
+Q9WWW6	alkB;clanAB;clanA;A1;A1b	seed	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas putida (Arthrobacter siderocapsulatus)	Alkane 1-monooxygenase (EC 1.14.15.3) (Alkane hydroxylase) (AHs) (Terminal alkane hydroxylase)
+A0A1I2KHB9	alkB;clanAB;clanA;A1;A1b	seed	Pseudomonadota	Gammaproteobacteria	Nevskiales	Fontimonas	Fontimonas thermophila	Alkane 1-monooxygenase
+C3W4W7	alkB;clanAB;clanA;A1;A1b	seed	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Alloalcanivorax	Alloalcanivorax dieselolei	Alkane hydroxylase
+D2JNY2	alkB;clanAB;clanA;A1;A1b	seed	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Alloalcanivorax	Alloalcanivorax dieselolei	Alkane hydroxylase
+D3U111	alkB;clanAB;clanB;B1	seed	Actinomycetota	Actinomycetes	Mycobacteriales	Rhodococcus	Rhodococcus ruber	AlkB7 (EC 1.14.15.3)
+D3U119	alkB;clanAB;clanB;B1	seed	Actinomycetota	Actinomycetes	Mycobacteriales	Rhodococcus	Rhodococcus ruber	AlkB7 (EC 1.14.15.3)
+E5G6V9	alkB;clanAB;clanB;B1	seed	Actinomycetota	Actinomycetes	Mycobacteriales	Rhodococcus	Rhodococcus aetherivorans	AlkB
+E7D4Q3	alkB;clanAB;clanB;B1	seed	Actinomycetota	Actinomycetes	Mycobacteriales	Gordonia	Gordonia sp. SoCg	Alkane hydroxylase (EC 1.14.15.3)
+Q5WA49	alkB;clanAB;clanB;B1	seed	Actinomycetota	Actinomycetes	Mycobacteriales	Gordonia	Gordonia sp. TF6	Alkane-1-monooxygenase
+Q6B431	alkB;clanAB;clanA	seed	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Alloalcanivorax	Alloalcanivorax dieselolei	Alkane hydroxylase
+Q93DM7	alkB;clanAB;clanB;B1	seed	Actinomycetota	Actinomycetes	Mycobacteriales	Rhodococcus	Rhodococcus sp. (strain Q15)	Alkane-1-monooxygenase (EC 1.14.15.3)
+Q93DN3	alkB;clanAB;clanB;B1	seed	Actinomycetota	Actinomycetes	Mycobacteriales	Rhodococcus	Rhodococcus sp. (strain Q15)	Putative alkane-1-monooxygenase
+Q93DN4	alkB;clanAB;clanB;B2	seed	Actinomycetota	Actinomycetes	Mycobacteriales	Rhodococcus	Rhodococcus sp. (strain Q15)	Putative alkane-1-monooxygenase
+Q93DN5	alkB;clanAB;clanB;B2	seed	Actinomycetota	Actinomycetes	Mycobacteriales	Rhodococcus	Rhodococcus sp. (strain Q15)	Alkane-1-monooxygenase (EC 1.14.15.3)
+Q93JS1	alkB;clanAB;clanB;B2	seed	Actinomycetota	Actinomycetes	Mycobacteriales	Rhodococcus	Rhodococcus erythropolis (Arthrobacter picolinophilus)	Putative alkane-1-monooxygenase 4
+Q93JS2	alkB;clanAB;clanB;B2	seed	Actinomycetota	Actinomycetes	Mycobacteriales	Rhodococcus	Rhodococcus erythropolis (Arthrobacter picolinophilus)	Putative alkane-1-monooxygenase 3
+Q9AE68	alkB;clanAB;clanB;B1	seed	Actinomycetota	Actinomycetes	Mycobacteriales	Rhodococcus	Rhodococcus erythropolis (Arthrobacter picolinophilus)	Alkane-1-monooxygenase (EC 1.14.15.3)
+Q9AEN3	alkB;clanAB;clanA	seed	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderia	Burkholderia cepacia (Pseudomonas cepacia)	Alkane hydroxylase
+Q9AQJ9	alkB;clanAB;clanA;A2	seed	Pseudomonadota	Gammaproteobacteria	Moraxellales	Acinetobacter	Acinetobacter sp. M-1	Alkane hydroxylase B
+Q9AQK2	alkB;clanAB;clanA;A2	seed	Pseudomonadota	Gammaproteobacteria	Moraxellales	Acinetobacter	Acinetobacter sp. M-1	Alkane hydroxylase A
+Q9XAU0	alkB;clanAB;clanB;B1	seed	Actinomycetota	Actinomycetes	Mycobacteriales	Rhodococcus	Rhodococcus erythropolis (Arthrobacter picolinophilus)	Alkane 1-monooxygenase (EC 1.14.15.3)
+Q9XAV1	alkB;clanAB;clanA	seed	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas fluorescens	Alkane 1-monooxygenase (EC 1.14.15.1)
+Q9XDP7	alkB;clanAB;clanA;A2	seed	Pseudomonadota	Gammaproteobacteria	Moraxellales	Acinetobacter	Acinetobacter calcoaceticus	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0ABZ2F309	alkB;clanD;D1	ref	Pseudomonadota	Gammaproteobacteria	Methylococcales	Methylococcus	Methylococcus capsulatus	Fatty acid desaturase (EC 1.14.19.-)
+A0ABZ2LZY6	alkB;clanF	ref	Myxococcota	Myxococcia	Myxococcales	Pendulispora	Pendulispora albinea	Fatty acid desaturase (EC 1.14.19.-)
+A0ABZ2XR51	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Aliisedimentitalea	Aliisedimentitalea scapharcae	Alkane 1-monooxygenase
+A0ACD8GBG3	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Simiduia	Simiduia litorea	Alkane 1-monooxygenase
+A0ACE2LTZ7	alkB;unresolved	ref	Actinomycetota	Actinomycetes	Mycobacteriales	Tsukamurella	Tsukamurella hominis	Alkane 1-monooxygenase
+A0ACE2NG54	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Alphaproteobacteria	Maricaulales	Litorimonas	Litorimonas haliclonae	Alkane 1-monooxygenase
+A0ACG2IVR7	alkB;clanF	ref	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Terripilifer	Terripilifer ovatus	Alkane 1-monooxygenase
+A0ACG2L7N2	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Pseudoalteromonas	Pseudoalteromonas ardens	Alkane 1-monooxygenase
+V5WN71	PF00487_other;superfamily	ref	Spirochaetota	Spirochaetia	Spirochaetales	Salinispira	Salinispira pacifica	Alkane-1 monooxygenase (EC 1.14.15.3)
+A0A4R5V5H1	alkB;clanD;D2	ref	Bacteroidota	Cytophagia	Cytophagales	Algoriphagus	Algoriphagus formosus	Alkane 1-monooxygenase
+A0A4R6RCS1	alkB;clanAB;clanA;A1;A1b	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Aquabacterium	Aquabacterium commune	Alkane 1-monooxygenase
+A0A4R6UYB8	alkB;clanC	ref	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Permianibacter	Permianibacter aggregans	Alkane 1-monooxygenase
+A0A4R6XWZ6	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Marinicella	Marinicella litoralis	Alkane 1-monooxygenase
+A0A4R7JIR2	alkB;clanC;C1	ref	Pseudomonadota	Gammaproteobacteria		Halospina	Halospina denitrificans	Alkane 1-monooxygenase
+A0A4R7PCJ4	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Nevskiales	Panacagrimonas	Panacagrimonas perspica	Alkane 1-monooxygenase/p-cymene monooxygenase
+A0A4R7PD18	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Nevskiales	Panacagrimonas	Panacagrimonas perspica	Alkane 1-monooxygenase/p-cymene monooxygenase
+A0A4S3K6D5	alkB;clanAB;clanA;A1;A1b	ref	Pseudomonadota	Gammaproteobacteria	Nevskiales	Panacagrimonas	Panacagrimonas perspica	Alkane 1-monooxygenase
+A0A4S3MBD8	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Thalassovita	Thalassobius vesicularis	Alkane 1-monooxygenase
+A0A4U1I3I2	alkB;clanC	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Trinickia	Trinickia terrae	Alkane 1-monooxygenase
+A0A4V3JRE1	alkB;clanD;D2	ref	Spirochaetota	Leptospiria	Leptospirales	Leptospira	Leptospira ognonensis	Alkane 1-monooxygenase
+A0A4Z0B8F9	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas nabeulensis	Alkane 1-monooxygenase
+A0A918RMU8	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Gammaproteobacteria	Arenicellales	Arenicella	Arenicella chitinivorans	Alkane monooxygenase
+A0A921NR77	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Profundibacterium	Profundibacterium mesophilum KAUST100406-0324	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0A923KPW4	alkB;clanAB;clanA;A1;A1b	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Cognatundibacterium	Cognatundibacterium jejuense	Alkane 1-monooxygenase
+A0A923PK94	alkB;clanD;D1	ref	Bacteroidota	Saprospiria	Saprospirales	Neolewinella	Neolewinella lacunae	Alkane 1-monooxygenase
+A0A923S1M8	alkB;clanF	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Ramlibacter	Ramlibacter albus	Alkane 1-monooxygenase
+A0A926Y293	PF00487_other;superfamily	ref	Bacteroidota	Cytophagia	Cytophagales	Spirosoma	Spirosoma profusum	Fatty acid desaturase
+A0A926Y476	PF00487_other;superfamily	ref	Bacteroidota	Cytophagia	Cytophagales	Spirosoma	Spirosoma profusum	Fatty acid desaturase
+A0A927JAU6	alkB;clanAB;clanA	ref	Actinomycetota	Actinomycetes	Mycobacteriales	Lolliginicoccus	Lolliginicoccus lacisalsi	Alkane 1-monooxygenase
+A0A934I958	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Palleronia	Palleronia pontilimi	Alkane 1-monooxygenase
+A0A969W715	alkB;clanAB;clanA	ref	Pseudomonadota	Gammaproteobacteria	Nevskiales	Solimonas	Solimonas marina	Alkane 1-monooxygenase
+A0A975W812	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Marinovum	Marinovum algicola	Alkane 1-monooxygenase
+A0A975YHF1	alkB;clanF	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Gymnodinialimonas	Gymnodinialimonas phycosphaerae	Fatty acid desaturase (EC 1.14.19.-)
+A0ABQ1MY31	alkB;clanD;D2	ref	Bacteroidota	Cytophagia	Cytophagales	Marivirga	Marivirga lumbricoides	Alkane monooxygenase
+A0ABQ2P7V3	alkB;unresolved	ref	Pseudomonadota	Betaproteobacteria	Neisseriales	Silvimonas	Silvimonas iriomotensis	Alkane 1-monooxygenase
+A0ABQ3D239	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Paramylibacter	Paramylibacter ulvae	Alkane 1-monooxygenase
+A0ABQ3GQ46	alkB;clanAB;clanA;A2	ref	Pseudomonadota	Gammaproteobacteria	Moraxellales	Psychrobacter	Psychrobacter glaciei	Alkane 1-monooxygenase
+A0ABQ5R519	alkB;clanAB;clanB;B1	ref	Actinomycetota	Actinomycetes	Micromonosporales	Phytohabitans	Phytohabitans aurantiacus	Alkane 1-monooxygenase
+A0ABQ6Q2E8	alkB;clanD;D1	ref	Bacteroidota	Cytophagia	Cytophagales	Algoriphagus	Algoriphagus taiwanensis	Alkane 1-monooxygenase
+A0ABR6HP09	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Limimaricola	Limimaricola variabilis	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0ABR6YA38	alkB;clanF	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Affinundibacterium	Affinundibacterium flavidum	Alkane 1-monooxygenase
+A0ABR6YBC2	alkB;clanC	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Affinundibacterium	Affinundibacterium flavidum	Fatty acid desaturase
+A0ABR7PZF8	PF00487_other;superfamily	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Paraburkholderia	Paraburkholderia podalyriae	Fatty acid desaturase domain-containing protein
+A0ABX1GKA7	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Spongiibacter	Spongiibacter thalassae	Alkane 1-monooxygenase
+A0ABX1MGS7	alkB;clanF	ref	Pseudomonadota	Betaproteobacteria	Rhodocyclales	Aromatoleum	Aromatoleum petrolei	Alkane 1-monooxygenase
+A0ABX2C0A1	PF00487_other;superfamily	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Paraburkholderia	Paraburkholderia solitsugae	Fatty acid desaturase domain-containing protein
+A0ABX4YKI6	alkB;clanD;D2	ref	Spirochaetota	Leptospiria	Leptospirales	Leptospira	Leptospira inadai serovar Lyme	Alkane 1-monooxygenase
+A0ABX6N992	alkB;clanF	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Limnobacter	Limnobacter profundi	Alkane 1-monooxygenase
+A0ABX6VC42	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Shewanella	Shewanella eurypsychrophilus	Alkane 1-monooxygenase
+A0ABX7M770	alkB;clanC	ref	Pseudomonadota	Betaproteobacteria	Rhodocyclales	Niveibacterium	Niveibacterium microcysteis	Alkane 1-monooxygenase
+F0IXY9	alkB;clanF	ref	Pseudomonadota	Alphaproteobacteria	Acetobacterales	Acidiphilium	Acidiphilium multivorum (strain DSM 11245 / JCM 8867 / NBRC 100883 / AIU 301)	Alkane 1-monooxygenase (EC 1.14.15.3)
+F1LIV6	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas putida (Arthrobacter siderocapsulatus)	Xylene monooxygenase hydroxylase subunit
+F6EFX3	alkB;clanAB;clanB;B1	ref	Actinomycetota	Actinomycetes	Mycobacteriales	Hoyosella	Hoyosella subflava (strain DSM 45089 / JCM 17490 / NBRC 109087 / DQS3-9A1) (Amycolicicoccus subflavus)	Alkane-1-monooxygenase
+G8R0A6	alkB;clanD;D1	ref	Bacteroidota	Flavobacteriia	Flavobacteriales	Owenweeksia	Owenweeksia hongkongensis (strain DSM 17368 / CIP 108786 / JCM 12287 / NRRL B-23963 / UST20020801)	Fatty acid desaturase
+H8GP58	alkB;clanD;D1	ref	Pseudomonadota	Gammaproteobacteria	Methylococcales	Methylomicrobium	Methylomicrobium album BG8	Fatty acid desaturase
+I4B549	alkB;unresolved	ref	Spirochaetota	Leptospiria	Leptospirales	Turneriella	Turneriella parva (strain ATCC BAA-1111 / DSM 21527 / NCTC 11395 / H) (Leptospira parva)	Alkane 1-monooxygenase (EC 1.14.15.3)
+I4W4G5	alkB;clanC	ref	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Rhodanobacter	Rhodanobacter spathiphylli B39	Alkane-1 monooxygenase
+I5BY30	alkB;clanD;D1	ref	Bacteroidota	Cytophagia	Cytophagales	Nitritalea	Nitritalea halalkaliphila LW7	Alkane-1 monooxygenase
+L7KEJ7	alkB;clanAB;clanB;B2	ref	Actinomycetota	Actinomycetes	Mycobacteriales	Gordonia	Gordonia aichiensis NBRC 108223	Alkane-1-monooxygenase
+L7LJT4	alkB;clanAB;clanB;B2	ref	Actinomycetota	Actinomycetes	Mycobacteriales	Gordonia	Gordonia sihwensis NBRC 108236	Alkane-1-monooxygenase
+A0A4Q7VA27	alkB;clanF	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Rivibacter	Rivibacter subsaxonicus	Alkane 1-monooxygenase
+A0A4Q7ZBS9	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Moraxellales	Fluviicoccus	Fluviicoccus keumensis	Alkane 1-monooxygenase
+A0A4Z0F6F3	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Chromatiales	Candidatus Macondimonas	Candidatus Macondimonas diazotrophica	Fatty acid desaturase domain-containing protein
+A0A4Z0F7L2	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Chromatiales	Candidatus Macondimonas	Candidatus Macondimonas diazotrophica	Alkane 1-monooxygenase
+A0A4Z0FAE3	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Chromatiales	Candidatus Macondimonas	Candidatus Macondimonas diazotrophica	Alkane 1-monooxygenase
+A0A4Z0FB61	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Chromatiales	Candidatus Macondimonas	Candidatus Macondimonas diazotrophica	Fatty acid desaturase domain-containing protein
+A0A4Z0FBV3	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Chromatiales	Candidatus Macondimonas	Candidatus Macondimonas diazotrophica	Alkane 1-monooxygenase
+A0A4Z0FCU2	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Chromatiales	Candidatus Macondimonas	Candidatus Macondimonas diazotrophica	Alkane 1-monooxygenase
+A0A4Z0PM91	alkB;clanD;D1	ref	Bacteroidota	Cytophagia	Cytophagales	Hymenobacter	Hymenobacter elongatus	Alkane 1-monooxygenase
+A0A512M2P2	alkB;unresolved	ref	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Brevifollis	Brevifollis gellanilyticus	Alkane 1-monooxygenase 2
+A0A545SRK0	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Aliiroseovarius	Aliiroseovarius halocynthiae	Alkane 1-monooxygenase
+A0A545TD85	alkB;clanD;D1	ref	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Aliikangiella	Aliikangiella marina	Alkane 1-monooxygenase
+A0A547Q5R7	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Palleronia	Palleronia caenipelagi	Alkane 1-monooxygenase
+A0A5A9Z555	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Aquicoccus	Aquicoccus porphyridii	Alkane 1-monooxygenase
+A0A5B8XNJ3	PF00487_other;superfamily	ref		Deltaproteobacteria	Bradymonadales	Allomicrovenator	Allomicrovenator marinus	Alkane 1-monooxygenase
+A0A5C6RNI0	alkB;clanD;D1	ref	Bacteroidota	Saprospiria	Saprospirales	Phaeodactylibacter	Phaeodactylibacter luteus	Alkane 1-monooxygenase
+A0A5C6S7J1	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Paracoccus	Paracoccus aurantiacus	Alkane 1-monooxygenase
+A0A5E4PF26	alkB;clanC;C1	ref	Pseudomonadota	Gammaproteobacteria	Legionellales	Aquicella	Aquicella siphonis	Alkane 1-monooxygenase 2
+A0A5J5IK29	PF00487_other;superfamily	ref	Bacteroidota	Chitinophagia	Chitinophagales	Ginsengibacter	Ginsengibacter hankyongi	Alkane 1-monooxygenase
+A0A5S4H798	alkB;clanAB;clanB;B1	ref	Actinomycetota	Actinomycetes	Streptosporangiales	Actinomadura	Actinomadura geliboluensis	Alkane 1-monooxygenase
+A0A640VMU5	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Roseobacter	Roseobacter cerasinus	Fatty acid desaturase domain-containing protein
+A0A6B0TLS3	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Oceanomicrobium	Oceanomicrobium pacificus	Alkane 1-monooxygenase
+A0A6B3R2Y2	alkB;clanD;D1	ref	Bacteroidota	Flavobacteriia	Flavobacteriales	Psychroflexus	Psychroflexus aurantiacus	Alkane 1-monooxygenase
+A0A6I4IUR3	alkB;clanD;D1	ref	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacterium	Flavobacterium profundi	Alkane 1-monooxygenase
+A0A6M0QT40	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Tabrizicola	Tabrizicola oligotrophica	Alkane 1-monooxygenase
+A0A6N6RFR0	alkB;clanD;D1	ref	Bacteroidota	Flavobacteriia	Flavobacteriales	Phaeocystidibacter	Phaeocystidibacter luteus	Alkane 1-monooxygenase
+A0A6P0C5P8	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Sulfitobacter	Sulfitobacter sediminilitoris	Alkane 1-monooxygenase
+A0A6P1T835	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Algicella	Algicella marina	Alkane 1-monooxygenase
+A0A7C9FR51	PF00487_other;superfamily	ref	Bacteroidota	Cytophagia	Cytophagales	Salmonirosea	Salmonirosea aquatica	Fatty acid desaturase domain-containing protein
+A0A7G7MBU2	alkB;clanF	ref	Actinomycetota	Actinomycetes	Pseudonocardiales	Pseudonocardia	Pseudonocardia petroleophila	Alkane 1-monooxygenase
+A0A7H0VEG2	alkB;clanD;D1	ref	Bacteroidota	Flavobacteriia	Flavobacteriales	Croceimicrobium	Croceimicrobium hydrocarbonivorans	Alkane 1-monooxygenase
+A0A7K3WND3	alkB;clanD;D1	ref	Bacteroidota	Flavobacteriia	Flavobacteriales	Cryomorpha	Cryomorpha ignava	Alkane 1-monooxygenase
+A0A7L6AW26	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Thiotrichales	Thiothrix	Candidatus Thiothrix singaporensis	Fatty acid desaturase
+A0A7T4R1E8	alkB;clanAB;clanA;A1;A1b	ref	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Spongiibacter	Spongiibacter nanhainus	Alkane 1-monooxygenase
+A0A7U4E500	alkB;clanD;D2	ref	Bacteroidota	Cytophagia	Cytophagales	Runella	Runella slithyformis (strain ATCC 29530 / DSM 19594 / LMG 11500 / NCIMB 11436 / LSU 4)	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0A7V7GUJ0	alkB;clanAB;clanA;A1;A1b	ref	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Halopseudomonas	Halopseudomonas laoshanensis	Alkane 1-monooxygenase
+A0A848FDY2	alkB;clanF	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Azohydromonas	Azohydromonas caseinilytica	Alkane 1-monooxygenase
+A0A858SVL3	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Roseobacter	Roseobacter ponti	Alkane 1-monooxygenase
+A0A8A4TF17	alkB;unresolved	ref	Acidobacteriota	Holophagae	Acanthopleuribacterales	Sulfidibacter	Sulfidibacter corallicola	Alkane 1-monooxygenase
+A0A8D4VPD3	alkB;clanD;D1	ref	Pseudomonadota	Gammaproteobacteria	Methylococcales	Methylogaea	Methylogaea oryzae	Fatty acid desaturase domain-containing protein
+A0A8F6TWS8	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Gymnodinialimonas	Gymnodinialimonas ceratoperidinii	Alkane 1-monooxygenase
+A0A8J2V236	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Alphaproteobacteria	Parvularculales	Aquisalinus	Aquisalinus flavus	Alkane monooxygenase
+A0A8J2V2V7	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Alphaproteobacteria	Parvularculales	Aquisalinus	Aquisalinus flavus	Alkane 1-monooxygenase
+A0A8J3H0W0	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Seohaeicola	Seohaeicola zhoushanensis	Fatty acid desaturase domain-containing protein
+A0A8J3MDJ1	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Pseudodonghicola	Pseudodonghicola xiamenensis	Fatty acid desaturase domain-containing protein
+A0A8J7IZ24	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Halocynthiibacter	Halocynthiibacter styelae	Alkane 1-monooxygenase
+A0A8J7U4V7	alkB;unresolved	ref	Acidobacteriota	Holophagae	Acanthopleuribacterales	Acanthopleuribacter	Acanthopleuribacter pedis	Alkane 1-monooxygenase
+A0A8J8JSH1	alkB;clanD;D1	ref	Bacteroidota	Chitinophagia	Chitinophagales	Limnovirga	Limnovirga soli	Alkane 1-monooxygenase
+A0A916DU98	alkB;clanD;D1	ref	Bacteroidota	Saprospiria	Saprospirales	Aureispira	Aureispira anguillae	Alkane 1-monooxygenase
+A0A916JP66	alkB;clanD;D1	ref	Bacteroidota	Flavobacteriia	Flavobacteriales	Parvicella	Parvicella tangerina	Alkane 1-monooxygenase 1 (EC 1.14.15.3)
+A0A916VR22	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Neptunicoccus	Neptunicoccus cionae	Alkane 1-monooxygenase
+A0A9W4AYD4	alkB;clanAB;clanB;B1	ref	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacterium	Mycobacterium gallinarum	Alkane 1-monooxygenase
+A0A9X1WXS1	alkB;clanAB;clanA;A2	ref	Pseudomonadota	Gammaproteobacteria	Moraxellales	Acinetobacter	Acinetobacter sedimenti	Alkane 1-monooxygenase
+A0A9X2F2S6	alkB;clanD;D2	ref	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Solitalea	Solitalea agri	Alkane 1-monooxygenase
+A0A9X2WC93	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Thalassolituus	Thalassolituus pacificus	Alkane 1-monooxygenase
+A0AA37WFR2	alkB;clanD;D1	ref	Bacteroidota	Saprospiria	Saprospirales	Portibacter	Portibacter lacus	Alkane 1-monooxygenase
+A0AA48HNP3	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Planctobacterium	Planctobacterium marinum	Alkane 1-monooxygenase
+A0AA51RR99	alkB;clanAB;clanA;A1;A1b	ref	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Pleionea	Pleionea litopenaei	Alkane 1-monooxygenase
+A0AAE2SD00	alkB;unresolved	ref	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Oceaniferula	Oceaniferula flava	Fatty acid desaturase
+A0AAN4W2Z8	alkB;clanD;D1	ref	Bacteroidota	Cytophagia	Cytophagales	Persicobacter	Persicobacter diffluens	Alkane 1-monooxygenase
+A0AAN4ZYL1	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Allgaiera	Allgaiera indica	Alkane 1-monooxygenase
+A0AAP2G8Z8	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Harenicola	Harenicola maris	Alkane 1-monooxygenase
+A0AAQ0HEH2	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Paracoccus	Paracoccus versutus (Thiobacillus versutus)	Alkane 1-monooxygenase
+A0AAU7J288	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacter	Enterobacter dykesii	Alkane 1-monooxygenase
+A0AAU7NQ77	alkB;clanD;D1	ref	Pseudomonadota	Gammaproteobacteria	Methylococcales	Methylomarinum	Methylomarinum roseum	Fatty acid desaturase (EC 1.14.19.-)
+A0AAW9S2R7	alkB;clanD;D1	ref	Bacteroidota	Cytophagia	Cytophagales	Rapidithrix	Rapidithrix thailandica	Alkane 1-monooxygenase
+A0AAX1MZ62	alkB;clanD;D1	ref	Bacteroidota	Cytophagia	Cytophagales	Flammeovirga	Flammeovirga yaeyamensis	Fatty acid desaturase (EC 1.14.19.-)
+A0ABM8CMB7	alkB;clanAB;clanA	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Polynucleobacter	Polynucleobacter yangtzensis	Alkane 1-monooxygenase
+A0ABM9NJK7	alkB;clanD;D1	ref	Pseudomonadota	Gammaproteobacteria	Methylococcales	Candidatus Methylocalor	Candidatus Methylocalor cossyra	Alkane-1 monooxygenase (EC 1.14.15.3)
+A0A7W6LTV9	alkB;clanF	ref	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingobium	Sphingobium scionense	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0A7W9BNH6	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Yoonia	Yoonia ponticola	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0A7X1NEM8	PF00487_other;superfamily	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Paraburkholderia	Paraburkholderia franconis	Fatty acid desaturase domain-containing protein
+A0A7X2LWF9	alkB;clanAB;clanA	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Pseudoduganella	Pseudoduganella rivuli	Alkane 1-monooxygenase
+A0A7X2Z7R4	alkB;clanF	ref	Bacillota	Bacilli	Caryophanales	Paenibacillus	Paenibacillus validus	Xylene monooxygenase
+A0A7Y3RK37	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Alphaproteobacteria	Parvularculales	Parvularcula	Parvularcula mediterranea	Alkane 1-monooxygenase
+A0A7Y8KZ93	alkB;clanF	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Hydrogenophaga	Hydrogenophaga aromaticivorans	Alkane 1-monooxygenase
+A0A7Z0I105	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhabdonatronobacter	Rhabdonatronobacter sediminivivens	Alkane 1-monooxygenase
+A0A7Z2T2M5	alkB;clanD;D1	ref	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrio	Vibrio astriarenae	Alkane 1-monooxygenase
+A0A839RL25	alkB;clanAB;clanB;B1	ref	Actinomycetota	Actinomycetes	Mycobacteriales	Hoyosella	Hoyosella altamirensis	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0A839UZN3	alkB;clanAB;clanA	ref	Pseudomonadota	Alphaproteobacteria	Acetobacterales	Endobacter	Endobacter medicaginis	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0A840R524	alkB;clanAB;clanA;A2	ref	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Zhongshania	Zhongshania antarctica	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0A840TQT8	PF00487_other;superfamily	ref	Bacteroidota	Cytophagia	Cytophagales	Rhabdobacter	Rhabdobacter roseus	Fatty acid desaturase domain-containing protein
+A0A840TW78	PF00487_other;superfamily	ref	Bacteroidota	Cytophagia	Cytophagales	Rhabdobacter	Rhabdobacter roseus	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0A841HP61	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Gammaproteobacteria	Steroidobacterales	Povalibacter	Povalibacter uvarum	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0A842I1Z9	PF00487_other;superfamily	ref	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Parasphingopyxis	Parasphingopyxis marina	Alkane 1-monooxygenase
+A0A843SGG8	alkB;clanF	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Rugamonas	Rugamonas rivuli	Alkane 1-monooxygenase
+A0A843YEH9	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Tritonibacter	Tritonibacter litoralis	Alkane 1-monooxygenase
+A0A846MTF2	alkB;clanD;D2	ref	Bacteroidota	Cytophagia	Cytophagales	Thermonema	Thermonema lapsum	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0ABS9KJ70	alkB;clanD;D1	ref	Balneolota	Balneolia	Balneolales	Rhodohalobacter	Rhodohalobacter sulfatireducens	Alkane 1-monooxygenase
+A0ABS9Z7I6	alkB;clanF	ref	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhodoblastus	Candidatus Rhodoblastus alkanivorans	Fatty acid desaturase (EC 1.14.19.-)
+A0ABS9Z8S6	alkB;clanAB;clanA	ref	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhodoblastus	Candidatus Rhodoblastus alkanivorans	Alkane 1-monooxygenase
+A0ABT1CUI1	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Parahoeflea	Parahoeflea alexandrii	Alkane 1-monooxygenase
+A0ABT2ZAI0	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Albidovulum	Albidovulum marisflavi	Alkane 1-monooxygenase
+A0ABT2ZJU6	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Albidovulum	Albidovulum litorale	Alkane 1-monooxygenase
+A0ABT3GWQ3	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Pararhodobacter	Pararhodobacter zhoushanensis	Alkane 1-monooxygenase
+A0ABT3RVX5	alkB;clanD;D1	ref	Bacteroidota	Cytophagia	Cytophagales	Mangrovivirga	Mangrovivirga halotolerans	Alkane 1-monooxygenase
+A0ABT3SZR1	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Seongchinamella	Candidatus Seongchinamella marina	Alkane 1-monooxygenase
+A0ABT5N3H4	alkB;clanE	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Curvibacter	Curvibacter cyanobacteriorum	Alkane 1-monooxygenase
+A0ABT5UE33	alkB;clanC	ref	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Spartinivicinus	Spartinivicinus poritis	Alkane 1-monooxygenase
+A0ABZ0CY26	alkB;clanF	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Rhizobacter	Rhizobacter gummiphilus	Alkane 1-monooxygenase
+A0A136A0G3	alkB;clanAB;clanA;A1;A1b	ref	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Paraglaciecola	Paraglaciecola hydrolytica	Fatty acid desaturase domain-containing protein
+A0A150XJE3	alkB;clanD;D2	ref	Bacteroidota	Cytophagia	Cytophagales	Roseivirga	Roseivirga echinicomitans	Alkane 1-monooxygenase
+A0A193LKM7	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Gammaproteobacteria	Woeseiales	Woeseia	Woeseia oceani	Alkane 1-monooxygenase
+A0A1B1YQB1	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Immundisolibacterales	Immundisolibacter	Immundisolibacter cernigliae	Fatty acid desaturase domain-containing protein
+A0A1B1YQI9	PF00487_other;superfamily	ref	Pseudomonadota	Gammaproteobacteria	Immundisolibacterales	Immundisolibacter	Immundisolibacter cernigliae	Fatty acid desaturase domain-containing protein
+A0A1B1YTJ1	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Immundisolibacterales	Immundisolibacter	Immundisolibacter cernigliae	Fatty acid desaturase domain-containing protein
+A0A1B1YV77	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Immundisolibacterales	Immundisolibacter	Immundisolibacter cernigliae	Fatty acid desaturase domain-containing protein
+A0A1B1YW28	PF00487_other;superfamily	ref	Pseudomonadota	Gammaproteobacteria	Immundisolibacterales	Immundisolibacter	Immundisolibacter cernigliae	Fatty acid desaturase domain-containing protein
+A0A1B1YWI6	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Immundisolibacterales	Immundisolibacter	Immundisolibacter cernigliae	Fatty acid desaturase domain-containing protein
+A0A1B1YXY3	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Immundisolibacterales	Immundisolibacter	Immundisolibacter cernigliae	Fatty acid desaturase domain-containing protein
+A0A1C3EII1	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Vibrionales	Veronia	Veronia pacifica	Fatty acid desaturase
+A0A1C9W956	alkB;clanD;D1	ref	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Microbulbifer	Microbulbifer aggregans	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0A1D8PAU8	alkB;clanD;D1	ref	Bacteroidota	Flavobacteriia	Flavobacteriales	Urechidicola	Urechidicola croceus	Alkane 1-monooxygenase
+A0A1E3VR33	alkB;clanF	ref	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Methyloceanibacter	Methyloceanibacter superfactus	Fatty acid desaturase domain-containing protein
+A0ABN6KC19	alkB;clanD;D2	ref	Spirochaetota	Leptospiria	Leptospirales	Leptospira	Leptospira kobayashii	Alkane monooxygenase
+A0ABN6LEQ4	alkB;clanD;D1	ref	Bacteroidota	Cytophagia	Cytophagales	Persicobacter	Persicobacter psychrovividus	Alkane 1-monooxygenase
+A0ABP6KYE1	alkB;clanAB;clanB;B2	ref	Actinomycetota	Actinomycetes	Mycobacteriales	Gordonia	Gordonia defluvii	Alkane 1-monooxygenase
+A0ABP7X6V8	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Zhongshania	Zhongshania borealis	Alkane 1-monooxygenase
+A0ABP8G9W6	alkB;clanD;D1	ref	Bacteroidota	Chitinophagia	Chitinophagales	Flaviaestuariibacter	Flaviaesturariibacter amylovorans	Alkane 1-monooxygenase
+A0ABP8HS28	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Kangiellales	Kangiella	Kangiella taiwanensis	Alkane 1-monooxygenase
+A0ABP8I8Q5	alkB;clanC	ref	Pseudomonadota	Gammaproteobacteria	Kangiellales	Kangiella	Kangiella taiwanensis	Alkane 1-monooxygenase AlkB2
+A0ABP9CEQ4	alkB;clanAB;clanB;B2	ref	Actinomycetota	Actinomycetes	Mycobacteriales	Tomitella	Tomitella cavernea	Fatty acid desaturase
+A0ABP9CXS9	alkB;clanD;D1	ref	Bacteroidota	Cytophagia	Cytophagales	Algivirga	Algivirga pacifica	Alkane 1-monooxygenase
+A0ABT6L1H2	alkB;clanAB;clanB;B1	ref	Actinomycetota	Actinomycetes	Mycobacteriales	Mycolicibacterium	Mycolicibacterium frederiksbergense	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0ABT7F9S5	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Sedimentitalea	Sedimentitalea xiamensis	Alkane 1-monooxygenase
+A0ABT7SY21	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Neoalteromonas	Neoalteromonas arenosi	Alkane 1-monooxygenase
+A0ABT7YDD7	alkB;clanD;D1	ref	Bacteroidota	Cytophagia	Cytophagales	Algoriphagus	Algoriphagus sediminis	Alkane 1-monooxygenase
+A0ABT8B9W0	alkB;unresolved	ref	Pseudomonadota	Betaproteobacteria	Neisseriales	Chitinimonas	Chitinimonas viridis	Alkane 1-monooxygenase
+A0ABT8RCC0	alkB;clanD;D1	ref	Bacteroidota	Cytophagia	Cytophagales	Rhodocytophaga	Rhodocytophaga aerolata	Alkane 1-monooxygenase
+A0ABT9HYM6	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Chromatiales	Rheinheimera	Rheinheimera baltica	Alkane 1-monooxygenase
+A0ABU0VVS0	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Pseudogemmobacter	Pseudogemmobacter lacusdianii	Alkane 1-monooxygenase
+A0ABU0W3Q5	PF00487_other;superfamily	ref	Pseudomonadota	Gammaproteobacteria	Natronospirales	Natronospira	Natronospira bacteriovora	Alkane 1-monooxygenase
+A0ABU3C4X2	alkB;clanAB;clanA;A1;A1b	ref	Pseudomonadota	Gammaproteobacteria	Salinisphaerales	Spectribacter	Spectribacter hydrogenoxidans	Alkane 1-monooxygenase
+A0ABU8QGF7	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Cognatishimia	Cognatishimia coralii	Alkane 1-monooxygenase
+A0ABU8WLZ0	PF00487_other;superfamily	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Variovorax	Variovorax rhizosphaerae	Fatty acid desaturase (EC 1.14.19.-)
+A0ABU9B7P5	alkB;clanF	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Pseudaquabacterium	Pseudaquabacterium rugosum	Fatty acid desaturase (EC 1.14.19.-)
+A0ABU9C4Q2	alkB;clanAB;clanA;A1;A1b	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Ideonella	Ideonella margarita	Alkane 1-monooxygenase
+A0ABU9XWS8	PF00487_other;superfamily	ref	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonas	Sphingomonas qilianensis	Alkane 1-monooxygenase
+A0ABV1SCE1	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Thioclava	Thioclava kandeliae	Alkane 1-monooxygenase
+A0ABV3MIX7	alkB;clanC	ref	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Aliikangiella	Aliikangiella maris	Alkane 1-monooxygenase
+A0ABV3UVV7	alkB;clanAB;clanB;B2	ref	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacterium	Corynebacterium xerosis	Alkane 1-monooxygenase
+A0ABV5JCH0	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Pseudohalocynthiibacter	Pseudohalocynthiibacter aestuariivivens	Alkane 1-monooxygenase
+A0ABV7ENY6	alkB;clanAB;clanA	ref	Pseudomonadota	Gammaproteobacteria	Salinisphaerales	Salinisphaera	Salinisphaera aquimarina	Alkane 1-monooxygenase
+A0ABV7H2V3	alkB;clanC	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Piscinibacterium	Piscinibacterium candidicorallinum	Alkane 1-monooxygenase
+A0ABV7H5A3	alkB;clanF	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Piscinibacterium	Piscinibacterium candidicorallinum	Alkane 1-monooxygenase
+A0ABV7L325	PF00487_other;superfamily	ref	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	Marinibaculum	Marinibaculum pumilum	Alkane 1-monooxygenase
+A0ABV7TL84	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Lutimaribacter	Lutimaribacter marinistellae	Alkane 1-monooxygenase
+A0ABV7YXE9	alkB;clanD;D2	ref	Bacteroidota	Cytophagia	Cytophagales	Lacihabitans	Lacihabitans lacunae	Alkane 1-monooxygenase
+A0ABV8U8W9	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Alphaproteobacteria	Kordiimonadales	Kordiimonas	Kordiimonas lipolytica	Alkane 1-monooxygenase
+A0ABV8V2H0	alkB;clanAB;clanA;A1;A1b	ref	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Simiduia	Simiduia curdlanivorans	Alkane 1-monooxygenase
+A0ABV9FTQ5	alkB;clanAB;clanB;B1	ref	Actinomycetota	Actinomycetes	Mycobacteriales	Rhodococcus	Rhodococcus kronopolitis	Alkane 1-monooxygenase
+A0ABV9LTM3	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Glaciecola	Glaciecola siphonariae	Alkane 1-monooxygenase
+A0ABW2CLR2	alkB;clanAB;clanB;B1	ref	Actinomycetota	Actinomycetes	Streptosporangiales	Actinomadura	Actinomadura yumaensis	Alkane 1-monooxygenase
+A0ABY1FPE0	alkB;clanAB;clanA;A1;A1b	ref	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Marinobacter	Marinobacter salarius	Alkane 1-monooxygenase
+A0ABY2UX37	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Parasedimentitalea	Parasedimentitalea maritima	Alkane 1-monooxygenase
+A0ABY4CBK6	PF00487_other;superfamily	ref	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrio	Bdellovibrio reynosensis	Alkane 1-monooxygenase
+A0ABY4Y9V2	alkB;unresolved	ref	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionella	Legionella lytica	Alkane 1-monooxygenase
+A0ABY6MTQ9	alkB;clanC	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Caldimonas	Caldimonas aquatica	Alkane 1-monooxygenase
+A0ABY8Q7I9	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Fuscovulum	Fuscovulum ytuae	Alkane 1-monooxygenase
+Q1N2C6	alkB;clanC;C1	ref	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Bermanella	Bermanella marisrubri	Probable alkane hydroxylase
+Q2SD42	alkB;clanC;C1	ref	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Hahella	Hahella chejuensis (strain KCTC 2396)	Alkane hydroxylase
+Q3J6H5	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Cereibacter	Cereibacter sphaeroides (strain ATCC 17023 / DSM 158 / JCM 6121 / CCUG 31486 / LMG 2827 / NBRC 12203 / NCIMB 8253 / ATH 2.4.1.) (Rhodobacter sphaeroides)	Alkane 1-monooxygenase (EC 1.14.15.3)
+Q6ML25	PF00487_other;superfamily	ref	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrio	Bdellovibrio bacteriovorus (strain ATCC 15356 / DSM 50701 / NCIMB 9529 / HD100)	Alkane 1-monooxygenase (EC 1.14.15.3)
+R4YQX3	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Oleispira	Oleispira antarctica RB-8	Alkane 1-monooxygenase family protein (EC 1.14.15.3)
+S4XH61	alkB;clanAB;clanB;B2	ref	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacterium	Corynebacterium terpenotabidum Y-11	Alkane 1-monooxygenase
+S5T4P7	PF00487_other;superfamily	ref	Pseudomonadota	Gammaproteobacteria	Thiotrichales	Cycloclasticus	Cycloclasticus zancles 78-ME	Alkane 1-monooxygenase (EC 1.14.15.3)
+S5T501	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Thiotrichales	Cycloclasticus	Cycloclasticus zancles 78-ME	Xylene monooxygenase hydroxylase subunit (EC 1.14.15.3)
+S5T567	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Thiotrichales	Cycloclasticus	Cycloclasticus zancles 78-ME	Alkane-1 monooxygenase (EC 1.14.15.3)
+S9RXA9	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Salipiger	Salipiger mucosus DSM 16094	Alkane-1 monooxygenase (EC 1.14.15.3)
+S9SBC7	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rubellimicrobium	Rubellimicrobium thermophilum DSM 16684	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0A0H4I052	alkB;clanAB;clanA;A1;A1b	ref	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Marinobacter	Marinobacter psychrophilus	Alkane 1-monooxygenase
+A0A0J9E3U3	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacter	Candidatus Rhodobacter oscarellae	Alkane-1 monooxygenase (EC 1.14.15.3)
+A0A0K0XY64	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Gammaproteobacteria	Chromatiales	Wenzhouxiangella	Wenzhouxiangella marina	Alkane 1-monooxygenase
+A0A0L1JVH4	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Pseudaestuariivita	Pseudaestuariivita atlantica	Fatty acid desaturase domain-containing protein
+A0A0M6YFL0	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Jannaschia	Jannaschia donghaensis	Alkane 1-monooxygenase 2 (EC 1.14.15.3)
+A0A0N0XG81	alkB;unresolved	ref	Pseudomonadota	Betaproteobacteria	Neisseriales	Amantichitinum	Amantichitinum ursilacus	Alkane 1-monooxygenase 2 (EC 1.14.15.3)
+A0A0N8H434	alkB;clanD;D1	ref	Bacteroidota	Flavobacteriia	Flavobacteriales	Croceitalea	Croceitalea dokdonensis DOKDO 023	Alkane 1-monooxygenase
+A0A0P1F972	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Thalassovita	Thalassovita gelatinovora (Thalassobius gelatinovorus)	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0A0S4QDP3	alkB;clanAB;clanB;B1	ref	Actinomycetota	Actinomycetes	Frankiales	Parafrankia	Parafrankia irregularis	Alkane 1-monooxygenase
+A0A0T5NTQ3	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Roseovarius	Roseovarius atlanticus	Alkane 1-monooxygenase
+A0A0U2VZD3	alkB;clanF	ref	Bacillota	Bacilli	Caryophanales	Paenibacillus	Paenibacillus naphthalenovorans	Fatty acid desaturase
+A0A0U2ZBH0	alkB;clanC	ref	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Lacimicrobium	Lacimicrobium alkaliphilum	Fatty acid desaturase domain-containing protein
+A0A0U4C786	alkB;clanAB;clanB;B1	ref	Actinomycetota	Actinomycetes	Propionibacteriales	Aeromicrobium	Aeromicrobium erythreum	Alkane 1-monooxygenase
+A0A0W0VF48	alkB;unresolved	ref	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionella	Legionella lansingensis	Alkane-1-monooxygenase
+A0ABS2KWA9	alkB;clanAB;clanB;B2	ref	Actinomycetota	Actinomycetes	Mycobacteriales	Rhodococcoides	Rhodococcoides corynebacterioides	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0ABS3E992	alkB;clanD;D1	ref	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Microbulbifer	Microbulbifer salipaludis	Alkane 1-monooxygenase
+A0ABS5FKX2	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Bradyrhizobium	Bradyrhizobium jicamae	Alkane 1-monooxygenase
+A0ABS5HWE2	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Thalassovita	Thalassovita aquimarina	Alkane 1-monooxygenase
+A0ABS5WWN6	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Falsiruegeria	Falsiruegeria litorea	Alkane 1-monooxygenase
+A0ABS5ZCS5	alkB;clanC	ref	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Zooshikella	Zooshikella harenae	Alkane 1-monooxygenase
+A0ABS6SY63	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Maritimibacter	Maritimibacter dapengensis	Alkane 1-monooxygenase
+A0ABS6V653	PF00487_other;superfamily	ref	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomicrobium	Sphingomicrobium clamense	Alkane 1-monooxygenase
+A0ABS7NUN7	alkB;clanAB;clanB;B2	ref	Actinomycetota	Actinomycetes	Mycobacteriales	Rhodococcoides	Rhodococcoides kroppenstedtii	Alkane 1-monooxygenase
+A0ABS8BS21	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Loktanella	Loktanella gaetbuli	Alkane 1-monooxygenase
+A0ABW3FGY3	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Pseudahrensia	Pseudahrensia aquimaris	Alkane 1-monooxygenase
+A0ABW3Y2I1	alkB;clanD;D1	ref	Bacteroidota	Flavobacteriia	Flavobacteriales	Namhaeicola	Namhaeicola litoreus	Alkane 1-monooxygenase
+A0ABW4XHM8	alkB;clanC;C1	ref	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Corallincola	Corallincola platygyrae	Alkane 1-monooxygenase
+A0ABW5BDC8	alkB;clanD;D1	ref	Bacteroidota	Cytophagia	Cytophagales	Shivajiella	Shivajiella indica	Alkane 1-monooxygenase
+A0ABW5N3R6	alkB;clanD;D1	ref	Bacteroidota	Flavobacteriia	Flavobacteriales	Aquimarina	Aquimarina hainanensis	Alkane 1-monooxygenase
+A0ABW6D3M2	alkB;clanD;D1	ref	Bacteroidota	Cytophagia	Cytophagales	Aquirufa	Aquirufa echingensis	Alkane 1-monooxygenase
+A0ABW6DES1	alkB;clanD;D1	ref	Bacteroidota	Cytophagia	Cytophagales	Aquirufa	Aquirufa avitistagni	Alkane 1-monooxygenase
+A0ABW6DET0	alkB;clanD;D1	ref	Bacteroidota	Cytophagia	Cytophagales	Aquirufa	Aquirufa esocilacus	Alkane 1-monooxygenase
+A0ABW7I8A9	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Roseovarius	Roseovarius aquimarinus	Alkane 1-monooxygenase
+A0ACH3GYS0	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Algirhabdus	Algirhabdus cladophorae	Alkane 1-monooxygenase
+A1ZJK4	alkB;clanD;D2	ref	Bacteroidota	Cytophagia	Cytophagales	Microscilla	Microscilla marina ATCC 23134	Alkane 1-monooxygenase (EC 1.14.15.3)
+A2SP81	alkB;clanAB;clanA;A1;A1b	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Methylibium	Methylibium petroleiphilum (strain ATCC BAA-1232 / LMG 22953 / PM1)	Alkane 1-monooxygenase (EC 1.14.15.3)
+B6IQU7	PF00487_other;superfamily	ref	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	Rhodospirillum	Rhodospirillum centenum (strain ATCC 51521 / SW)	Alkane 1-monooxygenase (EC 1.14.15.3)
+C0N2A0	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Thiotrichales	Methylophaga	Methylophaga thiooxydans DMS010	Fatty acid desaturase domain protein
+C8S4L9	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacter	Rhodobacter ferrooxidans	Fatty acid desaturase
+D4NZF7	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas fluorescens	BatV
+D8JTI9	alkB;clanF	ref	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Hyphomicrobium	Hyphomicrobium denitrificans (strain ATCC 51888 / DSM 1869 / NCIMB 11706 / TK 0415)	Fatty acid desaturase
+E0TD71	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Alphaproteobacteria	Parvularculales	Parvularcula	Parvularcula bermudensis (strain ATCC BAA-594 / HTCC2503 / KCTC 12087)	Alkane-1 monooxygenase
+A0A031K2U5	alkB;clanF	ref	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Novosphingobium	Novosphingobium resinovorum	Monooxygenase
+A0A037ZHA1	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Actibacterium	Actibacterium mucosum KCTC 23349	Fatty acid desaturase domain-containing protein
+A0A058ZQ39	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Actibacterium	Actibacterium atlanticum	Alkane 1-monooxygenase
+A0A075UYY8	alkB;clanAB;clanB;B1	ref	Actinomycetota	Actinomycetes	Pseudonocardiales	Amycolatopsis	Amycolatopsis japonica	Conserved putative membrane protein
+A0A084JU09	alkB;clanD;D1	ref	Bacteroidota	Flavobacteriia	Flavobacteriales	Nonlabens	Nonlabens ulvanivorans (Persicivirga ulvanivorans)	Alkane 1-monooxygenase
+A0A087MF04	alkB;clanC	ref	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Arenimonas	Arenimonas donghaensis DSM 18148 = HO3-R19	Fatty acid desaturase domain-containing protein
+A0A0A0EK92	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Pseudooceanicola	Pseudooceanicola atlanticus	Alkane 1-monooxygenase
+A0A0A1FKG5	PF00487_other;superfamily	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Collimonas	Collimonas arenae	Alkane-1 monooxygenase (EC 1.14.15.3)
+A0A0B4XPK1	alkB;clanAB;clanA;A1;A1b	ref	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Isoalcanivorax	Isoalcanivorax pacificus W11-5	Alkane 1-monooxygenase
+A0A0C5J847	alkB;clanF	ref	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	Rugosibacter	Rugosibacter aromaticivorans	Fatty acid desaturase domain-containing protein
+A0A0C5J8E1	alkB;clanF	ref	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	Rugosibacter	Rugosibacter aromaticivorans	Fatty acid desaturase domain-containing protein
+A0A1G9GGC7	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Meinhardsimonia	Meinhardsimonia xiamenensis	Alkane 1-monooxygenase
+A0A1G9MU79	alkB;clanD;D1	ref	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Daejeonella	Daejeonella rubra	Alkane 1-monooxygenase
+A0A1H2MIL5	alkB;clanAB;clanA	ref	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas mucidolens	Alkane 1-monooxygenase
+A0A1H3HXB9	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Lentibacter	Lentibacter algarum	Alkane 1-monooxygenase
+A0A1H6BRI0	alkB;clanD;D1	ref	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrio	Vibrio hangzhouensis	Alkane 1-monooxygenase
+A0A1H8LBV0	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Salinihabitans	Salinihabitans flavidus	Alkane 1-monooxygenase
+A0A1H9BAI2	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Nevskiales	Solimonas	Solimonas aquatica	Alkane 1-monooxygenase
+A0A1H9BD79	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Nevskiales	Solimonas	Solimonas aquatica	Alkane 1-monooxygenase
+A0A1H9FT28	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Nevskiales	Solimonas	Solimonas aquatica	Alkane 1-monooxygenase
+A0A1I0B3I8	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Thalassotalea	Thalassotalea agarivorans (Thalassomonas agarivorans)	Alkane 1-monooxygenase
+A0A1I0NDW8	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Cognatiyoonia	Cognatiyoonia koreensis	Alkane 1-monooxygenase
+A0A1I0QP23	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Aliiroseovarius	Aliiroseovarius sediminilitoris	Alkane 1-monooxygenase
+A0A1I1NCY4	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Pseudooceanicola	Pseudooceanicola nitratireducens	Alkane 1-monooxygenase
+A0A1I2I8Z9	alkB;clanAB;clanA	ref	Pseudomonadota	Gammaproteobacteria	Nevskiales	Fontimonas	Fontimonas thermophila	Alkane 1-monooxygenase
+A0A1I4BW70	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Pseudovibrio	Pseudovibrio ascidiaceicola	Alkane 1-monooxygenase
+A0A1I4V5X5	alkB;clanAB;clanA	ref	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Dokdonella	Dokdonella immobilis	Alkane 1-monooxygenase
+A0A1I5KM04	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Tranquillimonas	Tranquillimonas alkanivorans	Alkane 1-monooxygenase
+A0A1I6G391	alkB;clanD;D1	ref	Bacteroidota	Flavobacteriia	Flavobacteriales	Robiginitalea	Robiginitalea myxolifaciens	Alkane 1-monooxygenase
+A0A1M5MZM0	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Cognatiyoonia	Cognatiyoonia sediminum	Alkane 1-monooxygenase
+A0A1M5R2N5	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Nevskiales	Hydrocarboniphaga	Hydrocarboniphaga daqingensis	Alkane 1-monooxygenase
+A0A1M5YDM5	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Ferrimonas	Ferrimonas marina	Fatty acid desaturase
+A0A1M6D161	PF00487_other;superfamily	ref	Thermodesulfobacteriota	Desulfobacteria	Desulfobacterales	Desulfatibacillum	Desulfatibacillum alkenivorans DSM 16219	Alkane 1-monooxygenase
+A0A1N6EHX2	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Vannielia	Vannielia litorea	Alkane 1-monooxygenase
+A0A1N7JAC4	alkB;clanC;C1	ref	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Thalassolituus	Thalassolituus maritimus	Alkane 1-monooxygenase
+A0A1N7JU56	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Gemmobacter	Gemmobacter megaterium	Alkane 1-monooxygenase
+A0A1N7NRR1	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacter	Rhodobacter aestuarii	Alkane 1-monooxygenase
+A0A1P8MSN6	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Tateyamaria	Tateyamaria omphalii	Alkane 1-monooxygenase
+A0A1U7DHD0	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Brevirhabdus	Brevirhabdus pacifica	Fatty acid desaturase domain-containing protein
+A0A1V8M3E3	alkB;clanD;D1	ref	Pseudomonadota	Gammaproteobacteria	Methylococcales	Methyloprofundus	Methyloprofundus sedimenti	Fatty acid desaturase domain-containing protein
+A0A1Y0IC71	alkB;clanAB;clanA;A1;A1b	ref	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Oleiphilus	Oleiphilus messinensis	Alkane 1-monooxygenase
+A0A1Y5RT86	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Pseudooctadecabacter	Pseudooctadecabacter jejudonensis	Alkane 1-monooxygenase 2 (EC 1.14.15.3)
+A0A1Y5S2Q6	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Aquimixticola	Aquimixticola soesokkakensis	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0A1Y5T9Z1	PF00487_other;superfamily	ref	Pseudomonadota	Alphaproteobacteria	Sneathiellales	Oceanibacterium	Oceanibacterium hippocampi	Alkane 1-monooxygenase 1 (EC 1.14.15.3)
+A0A1Y6CGB8	alkB;clanD;D2	ref	Bdellovibrionota	Oligoflexia	Oligoflexales	Pseudobacteriovorax	Pseudobacteriovorax antillogorgiicola	Alkane 1-monooxygenase
+A0A1Y6D2Z6	alkB;clanD;D1	ref	Pseudomonadota	Gammaproteobacteria	Methylococcales	Methylomagnum	Methylomagnum ishizawai	Fatty acid desaturase
+A0A226WKN0	PF00487_other;superfamily	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Caballeronia	Caballeronia sordidicola (Burkholderia sordidicola)	Alkane-1 monooxygenase
+A0A231UYB4	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Notoacmeibacter	Notoacmeibacter marinus	Fatty acid desaturase domain-containing protein
+A0A238IXY4	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Boseongicola	Boseongicola aestuarii	Alkane 1-monooxygenase (EC 1.14.15.3)
+A0A250KRM9	alkB;clanD;D1	ref	Pseudomonadota	Gammaproteobacteria	Methylococcales	Methylocaldum	Methylocaldum marinum	Fatty acid desaturase domain protein
+A0A251X4C9	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Marivivens	Marivivens niveibacter	Alkane 1-monooxygenase
+A0A291LXL9	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Pacificitalea	Pacificitalea manganoxidans	Fatty acid desaturase domain-containing protein
+A0A2D0NIN8	alkB;clanD;D1	ref	Bacteroidota	Saprospiria	Saprospirales	Flavilitoribacter	Flavilitoribacter nigricans (strain ATCC 23147 / DSM 23189 / NBRC 102662 / NCIMB 1420 / SS-2) (Lewinella nigricans)	Alkane 1-monooxygenase
+A0A2I0SGR9	alkB;clanAB;clanB;B2	ref	Actinomycetota	Actinomycetes	Kitasatosporales	Streptomyces	Streptomyces populi	Alkane 1-monooxygenase
+A0A2N3IKR5	alkB;clanD;D2	ref	Bacteroidota	Cytophagia	Cytophagales	Raineya	Raineya orbicola	Fatty acid desaturase
+A0A2P8FKU4	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Shimia	Shimia abyssi	Alkane 1-monooxygenase
+A0A2R8A8F5	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Pontivivens	Pontivivens insulae	Alkane 1-monooxygenase 2 (EC 1.14.15.3)
+A0A2R8AQY9	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Pseudoprimorskyibacter	Pseudoprimorskyibacter insulae	Alkane 1-monooxygenase 2 (EC 1.14.15.3)
+A0A2R8BFV6	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Ascidiaceihabitans	Ascidiaceihabitans donghaensis	Alkane 1-monooxygenase 2 (EC 1.14.15.3)
+A0A2R8C4X9	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Falsiruegeria	Falsiruegeria mediterranea M17	Alkane 1-monooxygenase 2 (EC 1.14.15.3)
+A0A2S4HEK7	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Zhongshania	Zhongshania marina	Alkane 1-monooxygenase
+A0A2S9XEX5	PF00487_other;superfamily	ref	Myxococcota		Nannocystales	Enhygromyxa	Enhygromyxa salina	Alkane 1-monooxygenase 2 (EC 1.14.15.3)
+A0A2T0MH52	alkB;clanD;D1	ref	Bacteroidota	Flavobacteriia	Flavobacteriales	Flagellimonas	Flagellimonas meridianipacifica	Alkane 1-monooxygenase
+A0A2T0W237	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Yoonia	Yoonia maritima	Alkane 1-monooxygenase
+A0A2T6BK15	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Litoreibacter	Litoreibacter ponti	Alkane 1-monooxygenase
+A0A2U2I6R2	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Massilia	Massilia glaciei	Alkane 1-monooxygenase
+A0A2V1P5W2	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Salibaculum	Salibaculum griseiflavum	Alkane 1-monooxygenase
+A0A2V4NQP1	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Litorivita	Litorivita pollutaquae	Alkane 1-monooxygenase
+A0A2W7RKS5	alkB;clanD;D1	ref	Bacteroidota	Chitinophagia	Chitinophagales	Hydrotalea	Hydrotalea sandarakina	Alkane 1-monooxygenase
+A0A315ZNU4	alkB;clanD;D1	ref	Bacteroidota	Cytophagia	Cytophagales	Sediminitomix	Sediminitomix flava	Alkane 1-monooxygenase
+A0A317DZM3	alkB;clanF	ref	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	Zavarzinia	Zavarzinia aquatilis	Alkane 1-monooxygenase
+A0A345PB83	alkB;clanAB;clanA;A2	ref	Pseudomonadota	Gammaproteobacteria	Moraxellales	Aquirhabdus	Aquirhabdus parva	Alkane 1-monooxygenase
+A0A369A3C4	alkB;clanD;D1	ref	Bacteroidota	Flavobacteriia	Flavobacteriales	Schleiferia	Schleiferia thermophila	Alkane 1-monooxygenase
+A0A371RET9	alkB;unresolved	ref	Pseudomonadota	Alphaproteobacteria	Parvularculales	Parvularcula	Parvularcula marina	Fatty acid desaturase domain-containing protein
+A0A371RID4	alkB;clanAB;clanA;A1;A1a	ref	Pseudomonadota	Alphaproteobacteria	Parvularculales	Parvularcula	Parvularcula marina	Alkane 1-monooxygenase
+A0A399IX58	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Pseudooceanicola	Pseudooceanicola sediminis	Alkane 1-monooxygenase
+A0A3D9L125	alkB;clanD;D1	ref	Bacteroidota	Cytophagia	Cytophagales	Marinoscillum	Marinoscillum furvescens DSM 4134	Alkane 1-monooxygenase
+A0A3M0ABF7	alkB;clanC	ref	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Umboniibacter	Umboniibacter marinipuniceus	Alkane 1-monooxygenase
+A0A3M2LBY7	alkB;clanAB;clanB;B1	ref	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardia	Nocardia stercoris	Alkane 1-monooxygenase
+A0A3N4UKS7	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Pacificibacter	Pacificibacter maritimus	Alkane 1-monooxygenase
+A0A3N5Y2U1	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Paralteromonas	Paralteromonas sediminis	Alkane 1-monooxygenase
+A0A411PES5	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Shewanella	Shewanella maritima	Alkane 1-monooxygenase
+A0A418M7R8	alkB;clanD;D2	ref	Bacteroidota	Cytophagia	Cytophagales	Fibrisoma	Fibrisoma montanum	Alkane 1-monooxygenase
+A0A418SEZ7	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Pseudooceanicola	Pseudooceanicola algae	Alkane 1-monooxygenase 2 (EC 1.14.15.3)
+A0A421BN23	alkB;clanE	ref	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Paenirhodobacter	Paenirhodobacter hankyongi	Alkane 1-monooxygenase
+A0A437PPS4	alkB;clanD;D1	ref	Bacteroidota	Cytophagia	Cytophagales	Sandaracinomonas	Sandaracinomonas limnophila	Alkane 1-monooxygenase
+A0A4P6UV46	alkB;clanF	ref	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Roseitalea	Roseitalea porphyridii	Alkane 1-monooxygenase
+A0A4P7D7V3	PF00487_other;superfamily	ref	Pseudomonadota	Betaproteobacteria	Burkholderiales	Paraburkholderia	Paraburkholderia pallida	Fatty acid desaturase domain-containing protein
+P21395	alkB;clanF	ref	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas putida (Arthrobacter siderocapsulatus)	Xylene/toluene monooxygenase hydroxylase component XylM (EC 1.14.15.26) (Toluene methyl-monooxygenase)
+A0A979G9B5	PF00487_other;clanG;G1	superfamily	Bacteroidota	Chitinophagia	Chitinophagales	Chitinophaga	Chitinophaga pinensis (strain ATCC 43595 / DSM 2588 / LMG 13176 / NBRC 15968 / NCIMB 11800 / UQM 2034)	Linoleoyl-CoA desaturase (EC 1.14.19.3)
+A0AA86ME75	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Limnobacter	Limnobacter thiooxidans	Fatty acid desaturase domain-containing protein
+A0AAD2AJY9	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Ralstonia	Ralstonia mannitolilytica	Fatty acid desaturase domain-containing protein
+A0AAD2EP42	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Ralstonia	Ralstonia wenshanensis	Fatty acid desaturase domain-containing protein
+A0AAW9QJ70	PF00487_other;superfamily	superfamily	Cyanobacteriota	Cyanophyceae	Chroococcales	Pannus	Pannus brasiliensis CCIBt3594	Fatty acid desaturase (EC 1.14.19.-)
+A0ABN1H6Z7	PF00487_other;clanI;I2	superfamily	Actinomycetota	Actinomycetes	Sporichthyales	Sporichthya	Sporichthya brevicatena	Uncharacterized protein
+A0ABN1LCN9	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Aliiglaciecola	Aliiglaciecola litoralis	Fatty acid desaturase family protein
+A0ABN1N5P3	PF00487_other;clanH;H1	superfamily	Bacteroidota	Cytophagia	Cytophagales	Algoriphagus	Algoriphagus jejuensis	Acyl-CoA desaturase
+A0ABT3A8C5	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Fluctibacter	Fluctibacter corallii	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT3B514	PF00487_other;clanI;I2	superfamily	Cyanobacteriota	Cyanophyceae	Oscillatoriales	Plectonema	Plectonema radiosum NIES-515	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT3FG34	PF00487_other;superfamily	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas agronomica	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT3ZU62	PF00487_other;clanI;I1	superfamily	Myxococcota	Myxococcia	Myxococcales	Archangium	Archangium lansingense	Fatty acid desaturase (EC 1.14.19.-)
+A0ABU1IPZ2	PF00487_other;clanI;I1	superfamily	Bacillota	Bacilli	Caryophanales	Desmospora	Desmospora profundinema	Fatty acid desaturase
+A0ABU5GYH3	PF00487_other;clanJ	superfamily	Myxococcota	Myxococcia	Myxococcales	Hyalangium	Hyalangium rubrum	Fatty acid desaturase
+A0ABU5H185	PF00487_other;clanG	superfamily	Myxococcota	Myxococcia	Myxococcales	Hyalangium	Hyalangium rubrum	Fatty acid desaturase (EC 1.14.19.-)
+A0ABV6BYQ8	PF00487_other;clanH;H1	superfamily	Actinomycetota	Acidimicrobiia	Acidimicrobiales	Aciditerrimonas	Aciditerrimonas ferrireducens	Fatty acid desaturase (EC 1.14.19.-)
+A0ABW1KWP5	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Parvularculales	Hyphococcus	Hyphococcus aureus	Fatty acid desaturase (EC 1.14.19.-)
+A0ABW1KYN3	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Parvularculales	Hyphococcus	Hyphococcus aureus	Fatty acid desaturase (EC 1.14.19.-)
+A0ABW2YAD0	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Lysobacter	Lysobacter brunescens	Fatty acid desaturase (EC 1.14.19.-)
+A0ABW3AWU2	PF00487_other;clanH;H1	superfamily	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Mucilaginibacter	Mucilaginibacter litoreus	Fatty acid desaturase (EC 1.14.19.-)
+A0ABW3HEX2	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Moraxellales	Paraperlucidibaca	Paraperlucidibaca wandonensis	Fatty acid desaturase family protein (EC 1.14.19.-)
+A0ABX0AWR6	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Photorhabdus	Photorhabdus bodei	Fatty acid desaturase
+A0ABX7MZJ1	PF00487_other;clanH;H1	superfamily	Myxococcota	Myxococcia	Myxococcales	Myxococcus	Myxococcus landrumensis	Fatty acid desaturase
+A0ABX7P4H4	PF00487_other;clanJ	superfamily	Myxococcota	Myxococcia	Myxococcales	Pyxidicoccus	Pyxidicoccus parkwayensis	Fatty acid desaturase
+A0ABX7P6B3	PF00487_other;clanI;I2	superfamily	Myxococcota	Myxococcia	Myxococcales	Pyxidicoccus	Pyxidicoccus parkwayensis	Fatty acid desaturase
+A0ABX7PCB8	PF00487_other;clanH;H1	superfamily	Myxococcota	Myxococcia	Myxococcales	Pyxidicoccus	Pyxidicoccus parkwayensis	Acyl-CoA desaturase
+A0ABX7TSQ3	PF00487_other;clanI;I1	superfamily	Actinomycetota	Actinomycetes	Kitasatosporales	Streptomyces	Streptomyces cyanogenus	Fatty acid desaturase
+A0ABX7ZDY5	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Ralstonia	Ralstonia syzygii	Fatty acid desaturase
+A0ABX7ZY97	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Ralstonia	Ralstonia nicotianae	Fatty acid desaturase
+A0ABY9WSH6	PF00487_other;clanG;G2	superfamily	Myxococcota	Myxococcia	Myxococcales	Archangium	Archangium minus	Fatty acid desaturase domain-containing protein
+A0ABY9WU56	PF00487_other;clanI;I1	superfamily	Myxococcota	Myxococcia	Myxococcales	Archangium	Archangium minus	Fatty acid desaturase domain-containing protein
+A0ABZ0CWR3	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Rhizobacter	Rhizobacter gummiphilus	Fatty acid desaturase
+A0ABZ0GSI1	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Thalassotalea	Thalassotalea fonticola	Fatty acid desaturase (EC 1.14.19.-)
+A0ABZ2JW90	PF00487_other;clanI;I2	superfamily	Myxococcota	Myxococcia	Myxococcales	Pendulispora	Pendulispora brunnea	Fatty acid desaturase (EC 1.14.19.-)
+A0ABZ2JZ46	PF00487_other;clanH;H1	superfamily	Myxococcota	Myxococcia	Myxococcales	Pendulispora	Pendulispora brunnea	Acyl-CoA desaturase
+A0ABZ2K2A8	PF00487_other;clanJ	superfamily	Myxococcota	Myxococcia	Myxococcales	Pendulispora	Pendulispora brunnea	Fatty acid desaturase
+A0ABZ2KIN3	PF00487_other;clanH;H2	superfamily	Myxococcota	Myxococcia	Myxococcales	Pendulispora	Pendulispora brunnea	Fatty acid desaturase
+A0ABZ2LNC6	PF00487_other;clanH;H1	superfamily	Myxococcota	Myxococcia	Myxococcales	Pendulispora	Pendulispora albinea	Acyl-CoA desaturase
+A0ABZ2LNK8	PF00487_other;clanI;I1	superfamily	Myxococcota	Myxococcia	Myxococcales	Pendulispora	Pendulispora albinea	Fatty acid desaturase family protein
+A0ABZ2LTE6	PF00487_other;clanI;I1	superfamily	Myxococcota	Myxococcia	Myxococcales	Pendulispora	Pendulispora albinea	Fatty acid desaturase (EC 1.14.19.-)
+A0ACG8C6F1	PF00487_other;clanI;I2	superfamily	Myxococcota	Myxococcia	Myxococcales	Archangium	Archangium violaceum	Fatty acid desaturase
+A0ACG8CS99	PF00487_other;clanI;I1	superfamily	Myxococcota	Myxococcia	Myxococcales	Archangium	Archangium violaceum	Fatty acid desaturase family protein
+A0ACH3WR88	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Parvularculales	Hyphococcus	Hyphococcus formosus	Fatty acid desaturase
+A0ACH4BE56	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonas	Sphingomonas flavalba	Fatty acid desaturase (EC 1.14.19.-)
+B9XDY9	PF00487_other;clanI;I2	superfamily	Verrucomicrobiota	Pedosphaerae	Pedosphaerales	Pedosphaera	Pedosphaera parvula (strain Ellin514)	Fatty acid desaturase
+M5A2T4	PF00487_other;clanJ	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Bradyrhizobium	Bradyrhizobium oligotrophicum S58	Fatty acid desaturase domain-containing protein
+M5DPA0	PF00487_other;superfamily	superfamily	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Thalassolituus	Thalassolituus oleivorans MIL-1	Fatty acid desaturase
+A0A137SB14	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Marinobacter	Marinobacter excellens LAMA 842	Fatty acid desaturase
+A0A139X444	PF00487_other;clanI;I1	superfamily	Cyanobacteriota	Cyanophyceae	Nostocales	Scytonema	Scytonema hofmannii PCC 7110	Fatty acid desaturase domain-containing protein
+A0A143PSM1	PF00487_other;clanI;I1	superfamily	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Luteitalea	Luteitalea pratensis	Fatty acid desaturase
+A0A1H1MDB2	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Bradyrhizobium	Bradyrhizobium canariense	Delta-9 acyl-phospholipid desaturase
+A0A1S1N0E4	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Pseudoalteromonas	Pseudoalteromonas amylolytica	Fatty acid desaturase domain-containing protein
+A0A286GSH0	PF00487_other;clanI;I1	superfamily	Bacteroidota	Cytophagia	Cytophagales	Spirosoma	Spirosoma fluviale	Fatty acid desaturase
+A0A2S8F9S8	PF00487_other;clanI;I1	superfamily	Planctomycetota	Planctomycetia	Pirellulales	Blastopirellula	Blastopirellula marina	Fatty acid desaturase domain-containing protein
+A0A2S9XEQ5	PF00487_other;clanG;G1	superfamily	Myxococcota		Nannocystales	Enhygromyxa	Enhygromyxa salina	Stearoyl-CoA 9-desaturase (EC 1.14.19.-)
+A0A2S9XK30	PF00487_other;clanH;H1	superfamily	Myxococcota		Nannocystales	Enhygromyxa	Enhygromyxa salina	Fatty acid desaturase
+A0A4R3L793	PF00487_other;clanI;I1	superfamily	Bacillota	Bacilli	Caryophanales	Hazenella	Hazenella coriacea	Fatty acid desaturase
+A0A5B9MEY1	PF00487_other;clanI;I1	superfamily	Planctomycetota	Planctomycetia	Pirellulales	Stieleria	Stieleria maiorica	Fatty acid desaturase
+A0A5B9MPV4	PF00487_other;clanI;I1	superfamily	Planctomycetota	Planctomycetia	Pirellulales	Stieleria	Stieleria maiorica	Fatty acid desaturase
+A0A5C1A904	PF00487_other;clanI;I2	superfamily	Planctomycetota	Planctomycetia	Gemmatales	Limnoglobus	Limnoglobus roseus	Fatty acid desaturase domain-containing protein
+A0A5C1QHQ0	PF00487_other;clanI;I1	superfamily	Spirochaetota	Spirochaetia	Spirochaetales	Oceanispirochaeta	Oceanispirochaeta crateris	Fatty acid desaturase domain-containing protein
+A0A8X8GED9	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Acidithiobacillia	Acidithiobacillales	Acidithiobacillus	Acidithiobacillus ferridurans	Fatty acid desaturase
+A0A916DSB4	PF00487_other;clanI;I1	superfamily	Bacteroidota	Saprospiria	Saprospirales	Aureispira	Aureispira anguillae	Fatty acid desaturase
+A0A916DV25	PF00487_other;clanJ	superfamily	Bacteroidota	Saprospiria	Saprospirales	Aureispira	Aureispira anguillae	Fatty acid desaturase
+A0A9X1UCF8	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Bradyrhizobium	Bradyrhizobium zhengyangense	Fatty acid desaturase family protein
+A0A9X1Y599	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Acetobacterales	Roseomonas	Roseomonas acroporae	Fatty acid desaturase (EC 1.14.19.-)
+A0A9X1YRK1	PF00487_other;clanG;G2	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Scleromatobacter	Scleromatobacter humisilvae	Fatty acid desaturase (EC 1.14.19.-)
+A0A9X2BZ52	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Scleromatobacter	Scleromatobacter humisilvae	Fatty acid desaturase domain-containing protein
+A0A9X2D4C2	PF00487_other;clanG;G2	superfamily	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionella	Legionella maioricensis	Fatty acid desaturase (EC 1.14.19.-)
+A0A9X2HAU2	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Aurantimonas	Aurantimonas marianensis	Fatty acid desaturase
+A0ABM9NWQ5	PF00487_other;clanI;I2	superfamily	Bacteroidota	Flavobacteriia	Flavobacteriales	Tenacibaculum	Tenacibaculum platacis	Beta-carotene hydroxylase (EC 1.14.13.-)
+A0ABN0N984	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Neisseriales	Pseudogulbenkiania	Pseudogulbenkiania ferrooxidans EGD-HP2	Fatty acid desaturase domain-containing protein
+A0ABR8HX88	PF00487_other;clanI;I1	superfamily	Cyanobacteriota	Cyanophyceae	Chroococcales	Microcystis	Microcystis flos-aquae FACHB-1344	Fatty acid desaturase
+A0ABR8IHD3	PF00487_other;clanG	superfamily	Cyanobacteriota	Cyanophyceae	Nostocales	Nostoc	Nostoc foliaceum FACHB-393	Fatty acid desaturase
+A0A5S9IPZ6	PF00487_other;clanI;I1	superfamily	Planctomycetota	Candidatus Uabimicrobiia	Candidatus Uabimicrobiales	Candidatus Uabimicrobium	Uabimicrobium amorphum	Fatty acid desaturase
+A0A5S9IQC1	PF00487_other;clanI;I2	superfamily	Planctomycetota	Candidatus Uabimicrobiia	Candidatus Uabimicrobiales	Candidatus Uabimicrobium	Uabimicrobium amorphum	Beta-carotene hydroxylase
+A0A6L6QFH0	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Massilia	Massilia eburnea	Acyl-CoA desaturase
+A0A7S9LUB1	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Pontivivens	Pontivivens ytuae	Fatty acid desaturase
+A0A7U3ZJQ7	PF00487_other;clanI;I1	superfamily	Bacteroidota	Cytophagia	Cytophagales	Runella	Runella slithyformis (strain ATCC 29530 / DSM 19594 / LMG 11500 / NCIMB 11436 / LSU 4)	Fatty acid desaturase
+A0A7V8NWE7	PF00487_other;clanH;H1	superfamily	Acidobacteriota	Terriglobia	Candidatus Acidiferrales	Candidatus Acidiferrum	Candidatus Acidiferrum panamense	Fatty acid desaturase
+A0A7W9PFW3	PF00487_other;clanG;G1	superfamily	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardia	Nocardia transvalensis	Fatty acid desaturase/1-acyl-sn-glycerol-3-phosphate acyltransferase
+A0A7W9W6G1	PF00487_other;clanI;I2	superfamily	Armatimonadota	Armatimonadia	Armatimonadales	Armatimonas	Armatimonas rosea	Fatty acid desaturase
+A0A7W9WR97	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Paraburkholderia	Paraburkholderia bannensis	Fatty acid desaturase
+A0A845MG83	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Sneathiellales	Sneathiella	Sneathiella chungangensis	Fatty acid desaturase domain-containing protein
+A0A8B6XB95	PF00487_other;clanG;G1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Derxia	Derxia gummosa DSM 723	Fatty acid desaturase family protein (EC 1.14.19.-)
+A0A926UTP8	PF00487_other;clanI;I1	superfamily	Cyanobacteriota	Cyanophyceae	Pseudanabaenales	Pseudanabaena	Pseudanabaena cinerea FACHB-1277	Fatty acid desaturase family protein
+A0A927EZ29	PF00487_other;clanI;I1	superfamily	Actinomycetota	Actinomycetes	Kitasatosporales	Streptomyces	Streptomyces chumphonensis	Fatty acid desaturase
+A0A927G9S8	PF00487_other;clanI;I1	superfamily	Bacteroidota	Cytophagia	Cytophagales	Spirosoma	Spirosoma profusum	Fatty acid desaturase
+A0A934WNH5	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Ramlibacter	Ramlibacter ginsenosidimutans	Fatty acid desaturase
+A0A935CBQ5	PF00487_other;clanG	superfamily	Bacteroidota	Cytophagia	Cytophagales	Marivirga	Marivirga aurantiaca	Fatty acid desaturase
+A0A937CT21	PF00487_other;superfamily	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Ramlibacter	Ramlibacter monticola	Fatty acid desaturase
+A0A937KCI9	PF00487_other;clanI;I1	superfamily	Bacteroidota	Cytophagia	Cytophagales	Fulvivirga	Fulvivirga marina	Fatty acid desaturase
+A0A937RE38	PF00487_other;clanH;H1	superfamily	Actinomycetota	Actinomycetes	Frankiales	Frankia	Frankia nepalensis	Acyl-CoA desaturase
+A0A9X3J316	PF00487_other;clanI;I2	superfamily	Myxococcota		Nannocystales	Nannocystis	Nannocystis pusilla	Fatty acid desaturase (EC 1.14.19.-)
+A0A9X3X534	PF00487_other;clanI;I1	superfamily	Myxococcota		Polyangiales	Polyangium	Polyangium jinanense	Fatty acid desaturase (EC 1.14.19.-)
+A0A9X4M8P3	PF00487_other;clanI;I1	superfamily	Cyanobacteriota	Cyanophyceae	Pseudanabaenales	Pseudanabaena	Pseudanabaena catenata USMAC16	Fatty acid desaturase family protein
+A0AAF0CQK0	PF00487_other;clanH;H2	superfamily	Verrucomicrobiota	Opitutia	Opitutales	Actomonas	Actomonas lomoniglobus	Fatty acid desaturase (EC 1.14.19.-)
+A0AAJ5NK04	PF00487_other;superfamily	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderia	Burkholderia stabilis	Fatty acid desaturase
+A0AAJ5T6G9	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderia	Burkholderia stabilis	Fatty acid desaturase
+A0ABN6VGR6	PF00487_other;clanG;G1	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Methylocystis	Methylocystis iwaonis	Delta fatty acid desaturase
+A0ABP8MQJ7	PF00487_other;clanG	superfamily	Bacteroidota	Cytophagia	Cytophagales	Nibrella	Nibrella saemangeumensis	Fatty acid desaturase domain-containing protein
+A0ABQ1HKY8	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Arenimonas	Arenimonas soli	Fatty acid desaturase domain-containing protein
+A0ABQ1IGV5	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Geminicoccales	Tistrella	Tistrella bauzanensis	Fatty acid desaturase domain-containing protein
+A0ABQ4EIA8	PF00487_other;clanI;I1	superfamily	Actinomycetota	Actinomycetes	Micromonosporales	Plantactinospora	Plantactinospora mayteni	Fatty acid desaturase domain-containing protein
+A0ABQ6JMQ1	PF00487_other;clanG;G1	superfamily	Actinomycetota	Actinomycetes	Micrococcales	Homoserinibacter	Homoserinibacter gongjuensis	Fatty acid desaturase domain-containing protein
+A0ABR8BFJ9	PF00487_other;clanI;I2	superfamily	Cyanobacteriota	Cyanophyceae	Nostocales	Nostoc	Nostoc parmelioides FACHB-3921	Fatty acid desaturase
+A0ABS1WCQ8	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionella	Legionella bononiensis	Fatty acid desaturase
+A0ABS1WFM3	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionella	Legionella bononiensis	Fatty acid desaturase
+A0ABS3E6D6	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Microbulbifer	Microbulbifer salipaludis	Fatty acid desaturase
+A0ABS8XTU1	PF00487_other;clanG;G1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Roseateles	Pelomonas cellulosilytica	Acyl-CoA desaturase
+A0ABT0E496	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Alcanivorax	Alcanivorax quisquiliarum	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT0LA01	PF00487_other;clanG;G1	superfamily	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Shewanella	Shewanella surugensis	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT0LJ53	PF00487_other;clanG;G1	superfamily	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Shewanella	Shewanella surugensis	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT0LKB6	PF00487_other;clanJ	superfamily	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Shewanella	Shewanella surugensis	Fatty acid desaturase
+A0ABT2LA24	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Ralstonia	Ralstonia mojiangensis	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT5BLZ2	PF00487_other;clanI;I2	superfamily	Myxococcota		Nannocystales	Nannocystis	Nannocystis radixulma	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT5C0A8	PF00487_other;superfamily	superfamily	Myxococcota		Polyangiales	Sorangium	Sorangium atrum	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT5C5R9	PF00487_other;clanG;G1	superfamily	Myxococcota		Polyangiales	Sorangium	Sorangium atrum	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT5D0B4	PF00487_other;superfamily	superfamily	Myxococcota	Myxococcia	Myxococcales	Allostigmatella	Allostigmatella ashevillensis	Fatty acid desaturase
+A0ABT6FJN9	PF00487_other;clanI;I1	superfamily	Planctomycetota	Planctomycetia	Isosphaerales	Paludisphaera	Paludisphaera mucosa	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT8QZ25	PF00487_other;clanI;I2	superfamily	Bacteroidota	Cytophagia	Cytophagales	Rhodocytophaga	Rhodocytophaga aerolata	Fatty acid desaturase (EC 1.14.19.-)
+A0ABU2ZMW5	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Glaciecola	Glaciecola petra	Fatty acid desaturase family protein (EC 1.14.19.-)
+A0ABU8RAQ9	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas kermanshahensis	Fatty acid desaturase
+A0ABV2K018	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Dyella	Dyella japonica	Stearoyl-CoA desaturase (Delta-9 desaturase) (EC 1.14.19.1)
+A0ABV7AE29	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Acidimangrovimonas	Acidimangrovimonas pyrenivorans	Fatty acid desaturase family protein
+A0ABV7H3F3	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Piscinibacterium	Piscinibacterium candidicorallinum	Acyl-CoA desaturase
+A0ABW5GI96	PF00487_other;clanI;I2	superfamily	Actinomycetota	Actinomycetes	Pseudonocardiales	Amycolatopsis	Amycolatopsis samaneae	Fatty acid desaturase
+A0ABW5LI25	PF00487_other;clanG;G1	superfamily	Bacteroidota	Flavobacteriia	Flavobacteriales	Aquimarina	Aquimarina rubra	Fatty acid desaturase family protein
+A0ABX5A714	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Lelliottia	Lelliottia aquatilis	Fatty acid desaturase domain-containing protein
+A0ABX5M7B2	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	Nitrosomonas	Nitrosomonas eutropha	Fatty acid desaturase
+A0ABX9JTR4	PF00487_other;clanI;I1	superfamily	Myxococcota	Myxococcia	Myxococcales	Archangium	Archangium gephyra	Fatty acid desaturase
+A0ABX9JU78	PF00487_other;superfamily	superfamily	Myxococcota	Myxococcia	Myxococcales	Archangium	Archangium gephyra	Sphingolipid delta-4 desaturase
+A0ABX9Q8K4	PF00487_other;clanI;I1	superfamily	Myxococcota	Myxococcia	Myxococcales	Corallococcus	Corallococcus praedator	Fatty acid desaturase domain-containing protein
+A0ABY7GXT7	PF00487_other;clanI;I2	superfamily	Myxococcota		Nannocystales	Nannocystis	Nannocystis punicea	Fatty acid desaturase (EC 1.14.19.-)
+A0ABZ0USB8	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Candidatus Trichorickettsia	Candidatus Trichorickettsia mobilis	Acyl-CoA desaturase
+A0ACG2L7Q1	PF00487_other;clanJ	superfamily	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Pseudoalteromonas	Pseudoalteromonas ardens	Fatty acid desaturase
+A0ACH2W7P6	PF00487_other;clanG;G1	superfamily	Bacteroidota	Cytophagia	Cytophagales	Marivirga	Marivirga tractuosa	Fatty acid desaturase (EC 1.14.19.-)
+D0LQY2	PF00487_other;clanG;G1	superfamily	Myxococcota		Haliangiales	Haliangium	Haliangium ochraceum (strain DSM 14365 / JCM 11303 / SMP-2)	Fatty acid desaturase
+D0LZG5	PF00487_other;clanG;G2	superfamily	Myxococcota		Haliangiales	Haliangium	Haliangium ochraceum (strain DSM 14365 / JCM 11303 / SMP-2)	Fatty acid desaturase
+F5RC16	PF00487_other;clanG;G2	superfamily	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	Methyloversatilis	Methyloversatilis universalis (strain ATCC BAA-1314 / DSM 25237 / JCM 13912 / CCUG 52030 / FAM5)	Fatty acid desaturase
+F8L7H2	PF00487_other;clanH;H1	superfamily	Chlamydiota	Chlamydiia	Parachlamydiales	Simkania	Simkania negevensis (strain ATCC VR-1471 / DSM 27360 / Z)	Putative acyl-CoA desaturase (EC 1.14.19.1)
+I4B185	PF00487_other;clanJ	superfamily	Spirochaetota	Leptospiria	Leptospirales	Turneriella	Turneriella parva (strain ATCC BAA-1111 / DSM 21527 / NCTC 11395 / H) (Leptospira parva)	Fatty acid desaturase
+A0ABS9BIA9	PF00487_other;clanG;G1	superfamily	Bacteroidota	Chitinophagia	Chitinophagales	Flavihumibacter	Flavihumibacter fluminis	Fatty acid desaturase (EC 1.14.19.-)
+A0ABS9C0U2	PF00487_other;clanG;G1	superfamily	Bacteroidota	Cytophagia	Cytophagales	Mariniradius	Mariniradius sediminis	Acyl-CoA desaturase
+A0ABS9E9N4	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Maritalea	Maritalea mediterranea	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT1IBT5	PF00487_other;clanI;I1	superfamily	Actinomycetota	Actinomycetes	Pseudonocardiales	Actinokineospora	Actinokineospora diospyrosa	Fatty acid desaturase
+A0ABT1QRW4	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Tahibacter	Tahibacter harae	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT8KP35	PF00487_other;clanG;G1	superfamily	Bacteroidota	Cytophagia	Cytophagales	Splendidivirga	Splendidivirga corallicola	Acyl-CoA desaturase (EC 1.14.19.-)
+A0ABV8KXP8	PF00487_other;clanG;G1	superfamily	Actinomycetota	Actinomycetes	Micromonosporales	Micromonospora	Micromonospora zhanjiangensis	Fatty acid desaturase family protein
+A0ABX0N9X4	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Massilia	Massilia frigida	Fatty acid desaturase domain-containing protein
+D4NZG1	PF00487_other;clanG;G2	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas fluorescens	BatZ
+A0A0H4WME2	PF00487_other;superfamily	superfamily	Myxococcota	Myxococcia	Myxococcales	Pseudomyxococcus	Pseudomyxococcus hansupus	Beta-carotene ketolase
+A0A0W0TB88	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionella	Legionella drozanskii LLAP-1	Fatty acid desaturase
+A0A0W0TGP2	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionella	Legionella erythra	Fatty acid desaturase
+A0A0W0Z3V6	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionella	Legionella santicrucis	Delta(12)-fatty-acid desaturase (EC 1.14.19.6)
+A0A0W0ZID9	PF00487_other;clanG	superfamily	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionella	Legionella steelei	Delta(12)-fatty-acid desaturase (EC 1.14.19.6)
+A0A0W1AK18	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionella	Legionella worsleiensis	Fatty acid desaturase
+A0A1G6NVU1	PF00487_other;clanG;G2	superfamily	Bacillota	Bacilli	Caryophanales	Melghirimyces	Melghirimyces thermohalophilus	Omega-6 fatty acid desaturase (Delta-12 desaturase)
+A0A2Z3HUF7	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Phenylobacterium	Phenylobacterium parvum	Fatty acid desaturase domain-containing protein
+A0A369KNL4	PF00487_other;clanI;I1	superfamily	Bdellovibrionota	Oligoflexia	Silvanigrellales	Spirobacillus	Spirobacillus cienkowskii	Fatty acid desaturase domain-containing protein
+A0A369QJB3	PF00487_other;clanG;G1	superfamily	Bacteroidota	Cytophagia	Cytophagales	Adhaeribacter	Adhaeribacter pallidiroseus	Acyl-CoA 6-desaturase (EC 1.14.19.3)
+A0A3T0N4R4	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Parasedimentitalea	Parasedimentitalea marina	Fatty acid desaturase
+A0A401IM81	PF00487_other;clanI;I1	superfamily	Cyanobacteriota	Cyanophyceae	Chroococcales	Aphanothece	Aphanothece sacrum FPU1	Fatty acid desaturase
+A0A4Q7YMV3	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Moraxellales	Fluviicoccus	Fluviicoccus keumensis	Fatty acid desaturase
+A0A4R9LWN1	PF00487_other;clanG;G2	superfamily	Spirochaetota	Leptospiria	Leptospirales	Leptospira	Leptospira idonii	Fatty acid desaturase domain-containing protein
+A0A4S2H0T9	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Alphaproteobacteria	Maricaulales	Marinicauda	Marinicauda algicola	Acyl-CoA desaturase
+A0A4S8Q7K0	PF00487_other;clanI;I1	superfamily	Actinomycetota	Actinomycetes	Glycomycetales	Glycomyces	Glycomyces buryatensis	Fatty acid desaturase domain-containing protein
+A0A545TV43	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Aliikangiella	Aliikangiella coralliicola	Fatty acid desaturase domain-containing protein
+A0A5B2VUX5	PF00487_other;clanG;G2	superfamily	Bacteroidota	Chitinophagia	Chitinophagales	Chitinophaga	Chitinophaga agrisoli	Fatty acid desaturase
+A0A5B8A4D2	PF00487_other;clanG;G1	superfamily	Bacteroidota	Cytophagia	Cytophagales	Hymenobacter	Hymenobacter jejuensis	Acyl-CoA desaturase
+A0A5B8HPG8	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Dickeya	Dickeya poaceiphila	Fatty acid desaturase
+A0A5P9NQ35	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Halioglobus	Halioglobus maricola	Fatty acid desaturase
+A0A5Q2RS76	PF00487_other;clanG;G2	superfamily	Actinomycetota	Acidimicrobiia	Acidimicrobiales	Actinomarinicola	Actinomarinicola tropica	Fatty acid desaturase
+A0A6I3WIY8	PF00487_other;clanG;G1	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas spelaei	Fatty acid desaturase domain-containing protein
+A0A6I6LEA1	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingorhabdus	Sphingorhabdus lacus	Fatty acid desaturase
+A0A7G1Q9X1	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Chromatiales	Candidatus Nitrosacidicoccus	Candidatus Nitrosacidicoccus tergens	Putative Fatty acid desaturase
+A0A7Y1QBV0	PF00487_other;superfamily	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas lactis	Fatty acid desaturase domain-containing protein
+A0A840YT73	PF00487_other;clanH;H2	superfamily	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonas	Sphingomonas xinjiangensis	Fatty acid desaturase
+A0A848G1P1	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Rhodocyclales	Zoogloea	Zoogloea dura	Fatty acid desaturase domain-containing protein
+A0A848H4N4	PF00487_other;clanJ	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Ramlibacter	Ramlibacter agri	Fatty acid desaturase
+A0A8H9LZS3	PF00487_other;clanJ	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenes	Alcaligenes pakistanensis	Fatty acid desaturase
+A0A8I0T3U5	PF00487_other;clanG	superfamily	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Pseudoalteromonas	Pseudoalteromonas peptidolytica F12-50-A1	Fatty acid desaturase domain-containing protein
+A0A8J2VWS5	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Agaricicola	Agaricicola taiwanensis	Acyl-CoA desaturase
+A0A8J3A1N4	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Parvularculales	Aquisalinus	Aquisalinus luteolus	Fatty acid desaturase
+A0A919ATA1	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Kordiimonadales	Kordiimonas	Kordiimonas sediminis	Fatty acid desaturase
+A0A964FHR7	PF00487_other;superfamily	superfamily	Cyanobacteriota	Cyanophyceae	Pleurocapsales	Waterburya	Waterburya agarophytonicola KI4	Fatty acid desaturase
+A0A9N7QB71	PF00487_other;clanI;I1	superfamily	Armatimonadota	Armatimonadia	Capsulimonadales	Capsulimonas	Capsulimonas corticalis	Fatty acid desaturase
+A0AA41TZG2	PF00487_other;clanG;G1	superfamily	Actinomycetota	Actinomycetes	Kitasatosporales	Yinghuangia	Yinghuangia soli	Fatty acid desaturase (EC 1.14.19.-)
+A0AA41X1Y9	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Opacimonas	Opacimonas viscosa	Fatty acid desaturase (EC 1.14.19.-)
+A0AA43Q4X0	PF00487_other;clanG;G1	superfamily	Pseudomonadota	Gammaproteobacteria	Methylococcales	Methylobacter	Candidatus Methylobacter titanis	Fatty acid desaturase (EC 1.14.19.-)
+A0AA51NBP2	PF00487_other;clanJ	superfamily	Bacteroidota	Cytophagia	Cytophagales	Marivirga	Marivirga salinarum	Fatty acid desaturase
+A0AAN0MBU2	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Yoonia	Yoonia rhodophyticola	Fatty acid desaturase (EC 1.14.19.-)
+A0AAN0VHB5	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Planktomarina	Planktomarina temperata RCA23	Fatty acid desaturase
+A0AAP5M9N2	PF00487_other;clanI;I2	superfamily	Cyanobacteriota	Cyanophyceae	Nostocales	Aetokthonos	Aetokthonos hydrillicola (strain Thurmond2011)	Fatty acid desaturase (EC 1.14.19.-)
+A0ABP5IY83	PF00487_other;clanI;I1	superfamily	Actinomycetota	Actinomycetes	Kitasatosporales	Streptomyces	Streptomyces synnematoformans	Fatty acid desaturase domain-containing protein
+A0ABP9ZU41	PF00487_other;superfamily	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Halopseudomonas	Halopseudomonas sabulinigri	Fatty acid desaturase domain-containing protein
+A0ABR7SZG8	PF00487_other;clanH;H1	superfamily	Actinomycetota	Actinomycetes	Kitasatosporales	Streptomyces	Streptomyces polyasparticus	Fatty acid desaturase
+A0ABR9D0R1	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Methylococcales	Methylomonas	Methylomonas albis	Fatty acid desaturase
+A0ABR9D732	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Methylococcales	Methylomonas	Methylomonas albis	Fatty acid desaturase
+A0ABS0VD37	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas veronii	Fatty acid desaturase
+A0ABS1EXV8	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	Azospirillum	Azospirillum endophyticum	Fatty acid desaturase
+A0ABU4IP68	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrio	Vibrio rhizosphaerae	Fatty acid desaturase (EC 1.14.19.-)
+A0ABU6J6L9	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Noviherbaspirillum	Noviherbaspirillum album	Fatty acid desaturase family protein (EC 1.14.19.-)
+A0ABU7GGX9	alkB;clanF	superfamily	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Altererythrobacter	Altererythrobacter litoralis	Alkane 1-monooxygenase
+A0ABV3Z583	PF00487_other;clanG;G2	superfamily	Pseudomonadota	Alphaproteobacteria	Parvularculales	Hyphococcus	Hyphococcus lacteus	Fatty acid desaturase (EC 1.14.19.-)
+A0ABV4BBD0	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Chromatiales	Thioalkalicoccus	Thioalkalicoccus limnaeus	Fatty acid desaturase (EC 1.14.19.-)
+A0ABV4BV46	PF00487_other;clanI;I2	superfamily	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacterium	Mycobacterium servetii	Fatty acid desaturase (EC 1.14.19.-)
+A0ABW1ELZ6	PF00487_other;clanI;I1	superfamily	Acidobacteriota	Terriglobia	Terriglobales	Acidicapsa	Acidicapsa dinghuensis	Fatty acid desaturase (EC 1.14.19.-)
+A0ABW1GNA6	PF00487_other;clanI;I1	superfamily	Actinomycetota	Actinomycetes	Kitasatosporales	Streptomyces	Streptomyces pulveraceus	Fatty acid desaturase (EC 1.14.19.-)
+A0ABW4UKE9	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Mesorhizobium	Mesorhizobium newzealandense	Fatty acid desaturase (EC 1.14.19.-)
+A0ABX6EL99	PF00487_other;clanJ	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Methylocystis	Methylocystis rosea	Fatty acid desaturase
+A0ABW1SXV7	PF00487_other;clanI;I1	superfamily	Actinomycetota	Actinomycetes	Sporichthyales	Longivirga	Longivirga aurantiaca	Fatty acid desaturase (EC 1.14.19.-)
+A0ABY6Q9M8	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Candidatus Paraluminiphilus	Candidatus Paraluminiphilus aquimaris	Fatty acid desaturase domain-containing protein
+A0ACG3NQ14	PF00487_other;clanI;I1	superfamily	Bacteroidota	Cytophagia	Cytophagales	Limibacter	Limibacter armeniacum	Fatty acid desaturase (EC 1.14.19.-)
+G7GW19	PF00487_other;clanG;G1	superfamily	Actinomycetota	Actinomycetes	Mycobacteriales	Gordonia	Gordonia amarae NBRC 15530	Cytochrome b5 heme-binding domain-containing protein
+A0A059ZV12	PF00487_other;clanG;G2	superfamily	Pseudomonadota	Acidithiobacillia	Acidithiobacillales	Acidithiobacillus	Acidithiobacillus caldus (strain ATCC 51756 / DSM 8584 / KU)	Fatty acid desaturase
+A0A062XMI7	PF00487_other;clanI;I1	superfamily	Acidobacteriota	Thermoanaerobaculia	Thermoanaerobaculales	Thermoanaerobaculum	Thermoanaerobaculum aquaticum	Fatty acid desaturase domain-containing protein
+A0A066UX21	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrio	Vibrio fortis	Fatty acid desaturase domain-containing protein
+A0A068NX62	PF00487_other;clanH;H1	superfamily	Armatimonadota	Fimbriimonadia	Fimbriimonadales	Fimbriimonas	Fimbriimonas ginsengisoli Gsoil 348	Stearoyl-CoA 9-desaturase
+A0A098RZX3	PF00487_other;clanG;G1	superfamily	Bacteroidota	Saprospiria	Saprospirales	Phaeodactylibacter	Phaeodactylibacter xiamenensis	Fatty acid desaturase domain-containing protein
+A0A0F6W4V9	PF00487_other;clanJ	superfamily	Myxococcota		Polyangiales	Sandaracinus	Sandaracinus amylolyticus	Fatty acid desaturase
+A0A0F6W6V9	PF00487_other;clanJ	superfamily	Myxococcota		Polyangiales	Sandaracinus	Sandaracinus amylolyticus	Fatty acid desaturase domain-containing protein
+A0A0H2WI99	PF00487_other;clanG;G2	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderia	Burkholderia mallei (strain ATCC 23344)	Fatty acid desaturase domain protein
+A0A0H3NMT5	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersinia	Yersinia enterocolitica subsp. palearctica serotype O:3 (strain DSM 13030 / CIP 106945 / Y11)	Fatty acid desaturase
+A0A1C3E9B3	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Vibrionales	Veronia	Veronia pacifica	Uncharacterized protein
+A0A1C5ARW1	PF00487_other;clanI;I1	superfamily	Actinomycetota	Actinomycetes	Micromonosporales	Micromonospora	Micromonospora carbonacea	Fatty acid desaturase
+A0A1G8Z2Y5	PF00487_other;clanG;G2	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas indica	Omega-6 fatty acid desaturase (Delta-12 desaturase)
+A0A1H9DLY6	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Nevskiales	Solimonas	Solimonas aquatica	Fatty acid desaturase
+A0A1L1PPP3	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Hydrogenophaga	Hydrogenophaga intermedia	Delta-9 acyl-phospholipid desaturase (EC 1.14.19.-)
+A0A1L1PS50	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Hydrogenophaga	Hydrogenophaga intermedia	Fatty acid desaturase
+A0A1L4CX79	PF00487_other;clanI;I1	superfamily	Bdellovibrionota	Oligoflexia	Silvanigrellales	Silvanigrella	Silvanigrella aquatica	Fatty acid desaturase domain-containing protein
+A0A1L9B1M8	PF00487_other;clanJ	superfamily	Myxococcota	Myxococcia	Myxococcales	Cystobacter	Cystobacter ferrugineus	Fatty acid desaturase domain-containing protein
+A0A1N7N9Y7	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Roseivivax	Roseivivax lentus	Fatty acid desaturase
+A0A1Y1SJ39	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Gammaproteobacteria	Chromatiales	Oceanococcus	Oceanococcus atlanticus	Fatty acid desaturase
+A0A1Y5YAQ1	PF00487_other;clanH;H1	superfamily	Actinomycetota	Actinomycetes	Pseudonocardiales	Kibdelosporangium	Kibdelosporangium aridum	Stearoyl-CoA desaturase (Delta-9 desaturase)
+A0A1Y6CQA5	PF00487_other;clanH;H1	superfamily	Bdellovibrionota	Oligoflexia	Oligoflexales	Pseudobacteriovorax	Pseudobacteriovorax antillogorgiicola	Stearoyl-CoA desaturase (Delta-9 desaturase)
+A0A1Y6CWK1	PF00487_other;clanG;G1	superfamily	Pseudomonadota	Gammaproteobacteria	Methylococcales	Methylomagnum	Methylomagnum ishizawai	Fatty acid desaturase
+A0A2R4TBS2	PF00487_other;clanJ	superfamily	Actinomycetota	Actinomycetes	Kitasatosporales	Streptomyces	Streptomyces lunaelactis	Fatty acid desaturase domain-containing protein
+A0A2T1C407	PF00487_other;clanI;I2	superfamily	Cyanobacteriota	Cyanophyceae	Synechococcales	Merismopedia	Merismopedia glauca CCAP 1448/3	Fatty acid desaturase domain-containing protein
+A0A345P779	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Moraxellales	Aquirhabdus	Aquirhabdus parva	Fatty acid desaturase domain-containing protein
+A0A378IBR4	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionella	Legionella beliardensis	Fatty acid desaturase
+A0A3M0C2R4	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Kordiimonadales	Eilatimonas	Eilatimonas milleporae	Fatty acid desaturase
+A0A420XPF4	PF00487_other;clanG;G1	superfamily	Actinomycetota	Actinomycetes	Motilibacterales	Motilibacter	Motilibacter peucedani	Linoleoyl-CoA desaturase
+A0A4Q0YS24	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Gammaproteobacteria	Vibrionales	Veronia	Veronia nyctiphanis	Acyl-CoA desaturase
+A0A4R1F405	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Thiotrichales	Cocleimonas	Cocleimonas flava	Fatty acid desaturase
+A0A5J6MYX0	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	Hypericibacter	Hypericibacter adhaerens	Fatty acid desaturase
+A0A6N6JP39	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Litoreibacter	Litoreibacter roseus	Fatty acid desaturase
+A0A6N6VV94	PF00487_other;clanI;I1	superfamily	Bdellovibrionota	Oligoflexia	Silvanigrellales	Silvanigrella	Silvanigrella paludirubra	Fatty acid desaturase domain-containing protein
+A0A7X0SRK4	PF00487_other;clanI;I1	superfamily	Bacillota	Bacilli	Caryophanales	Cohnella	Cohnella zeiphila	Fatty acid desaturase family protein
+A0A7X3FU07	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Devosia	Devosia marina	Fatty acid desaturase domain-containing protein
+A0A916ZHI8	PF00487_other;clanI;I1	superfamily	Bacillota	Bacilli	Caryophanales	Paenibacillus	Paenibacillus nasutitermitis	Fatty acid desaturase domain-containing protein
+A0A928X319	PF00487_other;clanH;H1	superfamily	Cyanobacteriota	Cyanophyceae	Leptolyngbyales	Leptolyngbya	Leptolyngbya cf. ectocarpi LEGE 11479	Acyl-CoA desaturase
+A0A928ZW62	PF00487_other;clanI;I1	superfamily	Cyanobacteriota	Cyanophyceae	Leptolyngbyales	Leptolyngbya	Leptolyngbya cf. ectocarpi LEGE 11479	Fatty acid desaturase
+A0A9X2JEW7	PF00487_other;clanI;I2	superfamily	Planctomycetota	Planctomycetia	Pirellulales	Aeoliella	Aeoliella straminimaris	Fatty acid desaturase (EC 1.14.19.-)
+A0A9X2W3M7	PF00487_other;superfamily	superfamily	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Tsuneonella	Tsuneonella litorea	Fatty acid desaturase (EC 1.14.19.-)
+A0AAE3W9L2	PF00487_other;clanG;G2	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Marimonas	Marimonas arenosa	Fatty acid desaturase (EC 1.14.19.-)
+A0AAE9YIR6	PF00487_other;clanH;H1	superfamily	Actinomycetota	Acidimicrobiia	Acidimicrobiales	Iamia	Iamia majanohamensis	Acyl-CoA desaturase
+A0AAX4HUG8	PF00487_other;clanI;I2	superfamily	Bdellovibrionota	Bacteriovoracia	Bacteriovoracales	Peredibacter	Peredibacter starrii	Fatty acid desaturase (EC 1.14.19.-)
+A0AB33Z2C1	PF00487_other;clanH;H2	superfamily	Pseudomonadota	Gammaproteobacteria	Thiotrichales	Cycloclasticus	Cycloclasticus pugetii	Desaturase
+A0ABP7N3I7	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Litoribacillus	Litoribacillus peritrichatus	Fatty acid desaturase
+A0ABR4WGD2	PF00487_other;clanJ	superfamily	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Alcanivorax	Alcanivorax jadensis T9	Fatty acid desaturase
+A0ABR4Z348	PF00487_other;clanI;I1	superfamily	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardia	Nocardia vulneris	Fatty acid desaturase domain-containing protein
+A0ABR9S619	PF00487_other;clanG;G1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Ramlibacter	Ramlibacter pallidus	Fatty acid desaturase
+A0ABV0GE45	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Roseateles	Roseateles flavus	Fatty acid desaturase (EC 1.14.19.-)
+A0ABV0JC89	PF00487_other;clanI;I1	superfamily	Cyanobacteriota	Cyanophyceae	Leptolyngbyales	Trichocoleus	Trichocoleus desertorum GB2-A4	Fatty acid desaturase (EC 1.14.19.-)
+A0ABV0JIE2	PF00487_other;clanI;I2	superfamily	Cyanobacteriota	Cyanophyceae	Leptolyngbyales	Trichocoleus	Trichocoleus desertorum GB2-A4	Fatty acid desaturase (EC 1.14.19.-)
+A0ABW0L8B4	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Massilia	Massilia niabensis	Acyl-CoA desaturase
+A0ABW0MB98	PF00487_other;superfamily	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Paraherbaspirillum	Paraherbaspirillum soli	Fatty acid desaturase family protein
+A0ABW0MD33	PF00487_other;clanG;G2	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Paraherbaspirillum	Paraherbaspirillum soli	Fatty acid desaturase (EC 1.14.19.-)
+A0ABW7EUU5	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Roseateles	Pelomonas dachongensis	Fatty acid desaturase (EC 1.14.19.-)
+A0ABW7ND74	PF00487_other;clanG;G1	superfamily	Bacteroidota	Cytophagia	Cytophagales	Marinoscillum	Marinoscillum luteum	Fatty acid desaturase family protein
+A0ABX1P3M2	PF00487_other;clanI;I1	superfamily	Cyanobacteriota	Cyanophyceae	Nostocales	Brasilonema	Brasilonema bromeliae SPC951	Fatty acid desaturase
+A0ABX1R1S8	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Alteromonas	Alteromonas ponticola	2Fe-2S iron-sulfur cluster binding domain-containing protein
+A0ABX8MBQ6	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas muyukensis	Fatty acid desaturase (EC 1.14.19.-)
+A0ABX8RL79	PF00487_other;clanG;G1	superfamily	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardia	Nocardia iowensis	Fatty acid desaturase
+R4JWE9	PF00487_other;clanI;I1	superfamily	Bacillota	Clostridia	Eubacteriales	Clostridium	Clostridium pasteurianum BC1	Fatty acid desaturase
+W9V9H9	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Chromatiales	Imhoffiella	Imhoffiella purpurea	Fatty acid desaturase, type 2
+X5MLR1	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Candidatus Phaeomarinibacter	Candidatus Phaeomarinibacter ectocarpi	Beta-carotene hydroxylase
+A0A085WNU1	PF00487_other;clanI;I2	superfamily	Myxococcota	Myxococcia	Myxococcales	Hyalangium	Hyalangium minutum	Fatty acid desaturase
+A0A085ZI38	PF00487_other;clanI;I2	superfamily	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacterium	Flavobacterium reichenbachii	Fatty acid desaturase domain-containing protein
+A0A090RWZ2	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrio	Vibrio maritimus	Fatty acid desaturase (EC 1.14.19.1)
+A0A090TVQ7	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrio	Vibrio maritimus	Fatty acid desaturase (EC 1.14.19.1)
+A0A0C5VQE6	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Gynuella	Gynuella sunshinyii YC6258	Fatty-acid desaturase (EC 1.14.19.1)
+A0A0C5VSG1	PF00487_other;clanJ	superfamily	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Gynuella	Gynuella sunshinyii YC6258	Fatty acid desaturase
+A0A0K1PKM5	PF00487_other;clanI;I2	superfamily	Myxococcota		Polyangiales	Labilithrix	Labilithrix luteola	Fatty acid desaturase domain-containing protein
+A0A0K1Q3S7	PF00487_other;clanG;G1	superfamily	Myxococcota		Polyangiales	Labilithrix	Labilithrix luteola	Fatty acid desaturase
+A0A0L6CV57	PF00487_other;clanG;G2	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Roseovarius	Roseovarius tolerans	Fatty acid desaturase (EC 1.14.19.-)
+A0A0M6ZVE4	PF00487_other;clanG;G1	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Roseibium	Roseibium album	Fatty acid desaturase
+A0A0M9VJL2	PF00487_other;clanG;G1	superfamily	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacterium	Flavobacterium akiainvivens	Fatty acid desaturase
+A0A2P1PQU4	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Ahniella	Ahniella affigens	Fatty acid desaturase domain-containing protein
+A0A419RUL5	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Aurantiacibacter	Aurantiacibacter aquimixticola	Fatty acid desaturase domain-containing protein
+A0A511FCQ4	PF00487_other;clanG;G1	superfamily	Actinomycetota	Actinomycetes	Micrococcales	Cellulomonas	Cellulomonas hominis	Fatty acid desaturase domain-containing protein
+A0A511H7R3	PF00487_other;clanI;I1	superfamily	Myxococcota	Myxococcia	Myxococcales	Myxococcus	Myxococcus virescens	Fatty acid desaturase
+A0A8J3Z7N2	PF00487_other;clanI;I1	superfamily	Actinomycetota	Actinomycetes	Micromonosporales	Virgisporangium	Virgisporangium aurantiacum	Fatty acid desaturase domain-containing protein
+A0A8J4DQQ9	PF00487_other;clanI;I2	superfamily	Actinomycetota	Actinomycetes	Micromonosporales	Virgisporangium	Virgisporangium aliadipatigenens	Fatty acid desaturase domain-containing protein
+A0A8J7DD55	PF00487_other;clanI;I1	superfamily	Cyanobacteriota	Cyanophyceae	Nostocales	Desmonostoc	Desmonostoc muscorum LEGE 12446	Fatty acid desaturase
+A0A8J7F3F1	PF00487_other;clanI;I2	superfamily	Cyanobacteriota	Cyanophyceae	Oscillatoriales	Plectonema	Plectonema cf. radiosum LEGE 06105	Fatty acid desaturase
+A0ABR6FY45	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Paraburkholderia	Paraburkholderia silvatlantica	Fatty acid desaturase
+A0ABR6NA04	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingobium	Sphingobium lignivorans	Fatty acid desaturase
+A0ABR6ZFD2	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Undibacterium	Undibacterium umbellatum	Fatty acid desaturase
+A0ABT0U5P4	PF00487_other;clanI;I1	superfamily	Planctomycetota	Planctomycetia	Pirellulales	Aporhodopirellula	Aporhodopirellula aestuarii	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT0U8N7	PF00487_other;clanI;I1	superfamily	Planctomycetota	Planctomycetia	Pirellulales	Aporhodopirellula	Aporhodopirellula aestuarii	Fatty acid desaturase family protein
+A0ABU3YJ01	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobium	Rhizobium brockwellii	Fatty acid desaturase family protein (EC 1.14.19.-)
+A0ACG3QLT6	PF00487_other;clanI;I2	superfamily	Spirochaetota	Leptospiria	Leptospirales	Leptospira	Leptospira venezuelensis	Fatty acid desaturase
+A0ACG3YL15	PF00487_other;clanH;H1	superfamily	Myxococcota	Myxococcia	Myxococcales	Archangium	Archangium violaceum	Fatty acid desaturase (EC 1.14.19.-)
+K0VM37	PF00487_other;clanG;G1	superfamily	Actinomycetota	Actinomycetes	Mycobacteriales	Mycolicibacterium	Mycolicibacterium vaccae ATCC 25954	Fatty acid desaturase
+K6H2Z7	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria			SAR86 cluster bacterium SAR86E	Stearoyl-CoA 9-desaturase
+K9TM98	PF00487_other;clanI;I2	superfamily	Cyanobacteriota	Cyanophyceae	Oscillatoriales	Oxynema	Oxynema acuminatum PCC 6304	Fatty acid desaturase
+A0A150WIY3	PF00487_other;clanI;I1	superfamily	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrio	Bdellovibrio bacteriovorus	Fatty acid desaturase domain-containing protein
+A0A1Z4N270	PF00487_other;clanI;I1	superfamily	Cyanobacteriota	Cyanophyceae	Nostocales	Tolypothrix	Tolypothrix tenuis PCC 7101	Fatty acid desaturase domain-containing protein
+A0A202B8B2	PF00487_other;clanG;G1	superfamily	Pseudomonadota	Betaproteobacteria	Neisseriales	Chromobacterium	Chromobacterium violaceum	Acyl-CoA desaturase
+A0A212UAC0	PF00487_other;clanI;I2	superfamily	Bacteroidota	Cytophagia	Cytophagales	Hymenobacter	Hymenobacter gelipurpurascens	Fatty acid desaturase
+A0A2S7K6E4	PF00487_other;clanG;G2	superfamily	Pseudomonadota	Alphaproteobacteria	Parvularculales	Hyphococcus	Hyphococcus luteus	Fatty acid desaturase domain-containing protein
+A0A2S7K700	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Parvularculales	Hyphococcus	Hyphococcus luteus	Fatty acid desaturase domain-containing protein
+A0A2S7KW03	PF00487_other;clanG	superfamily	Bacteroidota	Flavobacteriia	Flavobacteriales	Polaribacter	Polaribacter filamentus	Fatty acid desaturase domain-containing protein
+A0A317CKA4	PF00487_other;clanG;G2	superfamily	Pseudomonadota	Gammaproteobacteria	Thiotrichales	Leucothrix	Leucothrix arctica	Fatty acid desaturase domain-containing protein
+A0A317ECH1	PF00487_other;clanJ	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	Zavarzinia	Zavarzinia compransoris	Fatty acid desaturase
+A0A317EEI2	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	Zavarzinia	Zavarzinia aquatilis	Fatty acid desaturase
+A0A3E0WVD2	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Chromatiales	Alkalilimnicola	Alkalilimnicola ehrlichii	Fatty acid desaturase
+A0A3E0WVE5	PF00487_other;clanJ	superfamily	Pseudomonadota	Gammaproteobacteria	Chromatiales	Alkalilimnicola	Alkalilimnicola ehrlichii	Fatty acid desaturase domain-containing protein
+A0A3E0WY23	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Chromatiales	Alkalilimnicola	Alkalilimnicola ehrlichii	Fatty acid desaturase domain-containing protein
+A0A3E0X0S0	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Chromatiales	Alkalilimnicola	Alkalilimnicola ehrlichii	Fatty acid desaturase domain-containing protein
+A0A4D7JJ73	PF00487_other;clanI;I2	superfamily	Bacteroidota	Cytophagia	Cytophagales	Mangrovivirga	Mangrovivirga cuniculi	Fatty acid desaturase
+A0A4P2VY07	PF00487_other;clanI;I1	superfamily	Bdellovibrionota	Oligoflexia	Silvanigrellales	Fluviispira	Fluviispira sanaruensis	Omega-3 fatty acid desaturase
+A0A4R8MN97	PF00487_other;clanI;I2	superfamily	Spirochaetota	Leptospiria	Leptospirales	Leptospira	Leptospira meyeri	Fatty acid desaturase
+A0A4R9GLP3	PF00487_other;clanJ	superfamily	Spirochaetota	Leptospiria	Leptospirales	Leptospira	Leptospira fluminis	Fatty acid desaturase
+A0A4U0P304	PF00487_other;clanG;G1	superfamily	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Sphingobacterium	Sphingobacterium olei	Fatty acid desaturase domain-containing protein
+A0A4V6PZ92	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Betaproteobacteria	Neisseriales	Paludibacterium	Paludibacterium purpuratum	Beta-carotene hydroxylase
+A0A4Y6Q3B6	PF00487_other;clanH;H1	superfamily		Deltaproteobacteria	Bradymonadales	Persicimonas	Persicimonas caeni	Acyl-CoA desaturase
+A0A4Y8SCU7	PF00487_other;clanI;I1	superfamily	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Mucilaginibacter	Mucilaginibacter psychrotolerans	Fatty acid desaturase domain-containing protein
+A0A4Y9EMH4	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Glacieibacterium	Glacieibacterium arshaanense	Beta-carotene hydroxylase
+A0A4Y9KN65	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Bradyrhizobium	Bradyrhizobium frederickii	Fatty acid desaturase domain-containing protein
+A0A540X645	PF00487_other;clanI;I1	superfamily	Myxococcota	Myxococcia	Myxococcales	Myxococcus	Myxococcus llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogochensis	Fatty acid desaturase
+A0A5C5WLJ8	PF00487_other;clanI;I2	superfamily	Planctomycetota	Planctomycetia	Planctomycetales	Thalassoglobus	Thalassoglobus neptunius	Fatty acid desaturase
+A0A5C5X5I1	PF00487_other;superfamily	superfamily	Planctomycetota	Planctomycetia	Planctomycetales	Thalassoglobus	Thalassoglobus neptunius	Fatty acid desaturase
+A0A5C5X8Y2	PF00487_other;clanI;I2	superfamily	Planctomycetota	Planctomycetia	Planctomycetales	Rubinisphaera	Rubinisphaera italica	Fatty acid desaturase
+A0A5C5ZXV7	PF00487_other;clanG;G2	superfamily	Planctomycetota	Planctomycetia	Pirellulales	Stieleria	Stieleria varia	Delta(12)-fatty-acid desaturase (EC 1.14.19.6)
+A0A6C2UE68	PF00487_other;clanI;I1	superfamily	Kiritimatiellota	Kiritimatiellia	Kiritimatiellales	Pontiella	Pontiella desulfatans	Fatty acid desaturase domain-containing protein
+A0A6C2UI74	PF00487_other;clanI;I1	superfamily	Kiritimatiellota	Kiritimatiellia	Kiritimatiellales	Pontiella	Pontiella sulfatireligans	Fatty acid desaturase domain-containing protein
+A0A6C7E2B3	PF00487_other;clanI;I1	superfamily	Actinomycetota	Acidimicrobiia	Acidimicrobiales	Ilumatobacter	Ilumatobacter coccineus (strain NBRC 103263 / KCTC 29153 / YM16-304)	Fatty acid desaturase domain-containing protein
+A0A6C7E498	PF00487_other;clanI;I1	superfamily	Actinomycetota	Acidimicrobiia	Acidimicrobiales	Ilumatobacter	Ilumatobacter coccineus (strain NBRC 103263 / KCTC 29153 / YM16-304)	Fatty acid desaturase domain-containing protein
+A0A6C7EC44	PF00487_other;clanI;I1	superfamily	Actinomycetota	Acidimicrobiia	Acidimicrobiales	Ilumatobacter	Ilumatobacter coccineus (strain NBRC 103263 / KCTC 29153 / YM16-304)	Fatty acid desaturase domain-containing protein
+A0A6M5Z6A5	PF00487_other;clanG;G2	superfamily	Planctomycetota	Planctomycetia	Gemmatales	Frigoriglobus	Frigoriglobus tundricola	Fatty acid desaturase domain-containing protein
+A0A6M8B7X3	PF00487_other;clanI;I1	superfamily	Cyanobacteriota	Cyanophyceae	Oculatellales	Thermoleptolyngbya	Thermoleptolyngbya sichuanensis A183	Fatty acid desaturase domain-containing protein
+A0A6M8FBP3	PF00487_other;clanG	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Aquipseudomonas	Aquipseudomonas campi	Fatty acid desaturase
+A0A6M8FS41	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Aquipseudomonas	Aquipseudomonas campi	Fatty acid desaturase
+A0A7W7R291	PF00487_other;clanI;I1	superfamily	Actinomycetota	Actinomycetes	Kitasatosporales	Kitasatospora	Kitasatospora kifunensis (Streptomyces kifunensis)	Fatty acid desaturase
+A0A7W7YFS2	PF00487_other;clanI;I1	superfamily	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Prosthecobacter	Prosthecobacter vanneervenii	Fatty acid desaturase
+A0A7W8D6B9	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Chiayiivirga	Chiayiivirga flava	Fatty acid desaturase
+A0A7Z7N9J4	PF00487_other;clanJ	superfamily	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacterium	Mycobacterium simulans	Fatty acid desaturase domain-containing protein
+A0A809RF98	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	Sulfuriferula	Sulfuriferula nivalis	Fatty acid desaturase domain-containing protein
+A0A838Y457	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Stappia	Stappia taiwanensis	Fatty acid desaturase
+A0A838Y935	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Betaproteobacteria	Neisseriales	Aquitalea	Aquitalea aquatica	Fatty acid desaturase
+A0A8J7IHG9	PF00487_other;clanI;I1	superfamily	Cyanobacteriota	Cyanophyceae	Nostocales	Dendronalium	Dendronalium phyllosphericum CENA369	Fatty acid desaturase
+A0A8J7LAT2	PF00487_other;clanH;H1	superfamily	Cyanobacteriota	Cyanophyceae	Nostocales	Amazonocrinis	Amazonocrinis nigriterrae CENA67	Acyl-CoA desaturase
+A0A8J7SGC0	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	Marivibrio	Marivibrio halodurans	Fatty acid desaturase (EC 1.14.19.-)
+A0A8J8FFH5	PF00487_other;clanG;G1	superfamily	Bacteroidota	Chitinophagia	Chitinophagales	Limnovirga	Limnovirga soli	Fatty acid desaturase domain-containing protein
+A0A8S8XF21	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	Roseiterribacter	Roseiterribacter gracilis	Fatty acid desaturase domain-containing protein
+A0A919SYI5	PF00487_other;clanG;G1	superfamily	Actinomycetota	Actinomycetes	Micromonosporales	Actinoplanes	Actinoplanes auranticolor	Fatty acid desaturase domain-containing protein
+A0A975H3Y4	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Ottowia	Ottowia testudinis	Fatty acid desaturase (EC 1.14.19.-)
+A0ABN6N737	PF00487_other;clanH;H1	superfamily	Myxococcota	Myxococcia	Myxococcales	Anaeromyxobacter	Anaeromyxobacter paludicola	Fatty acid desaturase domain-containing protein
+A0ABP7BM41	PF00487_other;clanH;H1	superfamily	Actinomycetota	Actinomycetes	Streptosporangiales	Nonomuraea	Nonomuraea antimicrobica	Fatty acid desaturase domain-containing protein
+A0ABQ6JBD1	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Shewanella	Shewanella glacialipiscicola	Selenide, water dikinase
+A0A0D8BAF0	PF00487_other;clanI;I1	superfamily	Actinomycetota	Actinomycetes	Frankiales	Frankia	Frankia torreyi	Fatty acid desaturase
+A0A0F5I732	PF00487_other;clanI;I1	superfamily	Bacillota	Bacilli	Caryophanales	Bacillus	Bacillus thermotolerans (Quasibacillus thermotolerans)	Fatty acid desaturase
+A0A0P1FMQ9	PF00487_other;clanG;G2	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Thalassovita	Thalassovita autumnalis	Fatty acid desaturase (EC 1.14.19.-)
+A0A0P1INK4	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Cognatishimia	Cognatishimia activa	Fatty acid desaturase
+A0A0P7J5Z7	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Aliiroseovarius	Aliiroseovarius crassostreae	Fatty acid desaturase domain-containing protein
+A0A0P9MKL0	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas congelans	Fatty acid desaturase
+A0A0Q9YVC5	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Gammaproteobacteria	Candidatus Berkiellales	Candidatus Berkiella	Candidatus Berkiella aquae	Acyl-CoA desaturase
+A0A0S3PX22	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Variibacter	Variibacter gotjawalensis	Fatty acid desaturase
+A0A161V0M3	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Pseudovibrio	Pseudovibrio axinellae	Fatty acid desaturase
+A0A161XXT7	PF00487_other;superfamily	superfamily	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Pseudoalteromonas	Pseudoalteromonas luteoviolacea DSM 6061	Fatty acid desaturase domain-containing protein
+A0A161ZVD1	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Pseudoalteromonas	Pseudoalteromonas luteoviolacea DSM 6061	Fatty acid desaturase domain-containing protein
+A0A172U0Z7	PF00487_other;clanG;G1	superfamily	Bacteroidota	Chitinophagia	Chitinophagales	Flavisolibacter	Flavisolibacter tropicus	Linoleoyl-CoA desaturase
+A0A290WVS6	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Janthinobacterium	Janthinobacterium svalbardense	Fatty acid desaturase domain-containing protein
+A0A2A2TG94	PF00487_other;clanG;G2	superfamily	Cyanobacteriota	Cyanophyceae	Nostocales	Brunnivagina	Brunnivagina elsteri CCALA 953	Fatty acid desaturase
+A0A3N4RMC4	PF00487_other;clanI;I1	superfamily	Actinomycetota	Actinomycetes	Kitasatosporales	Kitasatospora	Kitasatospora cineracea	Fatty acid desaturase
+A0A515EQJ0	PF00487_other;clanG;G1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Rhodoferax	Rhodoferax aquaticus	Acyl-CoA desaturase
+A0A516GXS3	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	Ferrovibrio	Ferrovibrio terrae	Fatty acid desaturase domain-containing protein
+A0A516GXV9	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	Ferrovibrio	Ferrovibrio terrae	Fatty acid desaturase domain-containing protein
+A0A517M5J3	PF00487_other;clanG;G2	superfamily	Planctomycetota	Planctomycetia	Pirellulales	Rosistilla	Rosistilla ulvae	Delta(12)-fatty-acid desaturase (EC 1.14.19.6)
+A0A517N274	PF00487_other;clanG;G1	superfamily	Planctomycetota	Planctomycetia	Pirellulales	Adhaeretor	Adhaeretor mobilis	Stearoyl-CoA 9-desaturase (EC 1.14.19.-)
+A0A844AXV7	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Caenimonas	Caenimonas koreensis DSM 17982	Fatty acid desaturase domain-containing protein
+A0A9X7JSG2	PF00487_other;clanI;I2	superfamily	Actinomycetota	Actinomycetes	Streptosporangiales	Streptosporangium	Streptosporangium nondiastaticum	Fatty acid desaturase domain-containing protein
+A0A9Y2IQ62	PF00487_other;clanI;I2	superfamily	Actinomycetota	Actinomycetes	Pseudonocardiales	Amycolatopsis	Amycolatopsis carbonis	Fatty acid desaturase (EC 1.14.19.-)
+A0ABS2K0L9	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Dyella	Dyella flava	Fatty acid desaturase
+A0ABS3DFK5	PF00487_other;clanI;I1	superfamily	Myxococcota	Myxococcia	Myxococcales	Corallococcus	Corallococcus macrosporus	Fatty acid desaturase
+A0ABS7PJB7	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Alteriqipengyuania	Alteriqipengyuania abyssalis	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT3GFA4	PF00487_other;clanJ	superfamily	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Luteolibacter	Luteolibacter arcticus	Fatty acid desaturase
+A0ABT3L6Y6	PF00487_other;clanG;G1	superfamily	Cyanobacteriota	Cyanophyceae	Spirulinales	Spirulina	Spirulina subsalsa FACHB-351	Acyl-CoA desaturase
+A0ABT3SXG3	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Seongchinamella	Candidatus Seongchinamella marina	Fatty acid desaturase
+A0ABY1U251	PF00487_other;clanJ	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas syringae pv. avii	Fatty acid desaturase
+A5FB10	PF00487_other;clanG;G1	superfamily	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacterium	Flavobacterium johnsoniae (strain ATCC 17061 / DSM 2064 / JCM 8514 / BCRC 14874 / CCUG 350202 / NBRC 14942 / NCIMB 11054 / UW101) (Cytophaga johnsonae)	Fatty acid desaturase
+A6G0F8	PF00487_other;clanI;I1	superfamily	Myxococcota		Nannocystales	Plesiocystis	Plesiocystis pacifica SIR-1	Fatty acid desaturase domain-containing protein
+A6G418	PF00487_other;clanH;H2	superfamily	Myxococcota		Nannocystales	Plesiocystis	Plesiocystis pacifica SIR-1	Fatty acid desaturase domain-containing protein
+A6GEC4	PF00487_other;clanI;I1	superfamily	Myxococcota		Nannocystales	Plesiocystis	Plesiocystis pacifica SIR-1	Fatty acid desaturase domain-containing protein
+A7HWA3	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Parvibaculum	Parvibaculum lavamentivorans (strain DS-1 / DSM 13023 / NCIMB 13966)	Fatty acid desaturase
+A9FXA0	PF00487_other;clanI;I2	superfamily	Myxococcota		Polyangiales	Sorangium	Sorangium cellulosum (strain So ce56) (Polyangium cellulosum (strain So ce56))	Delta(12)-fatty acid dehydrogenase (EC 1.14.99.33)
+A9GRP1	PF00487_other;clanG;G1	superfamily	Myxococcota		Polyangiales	Sorangium	Sorangium cellulosum (strain So ce56) (Polyangium cellulosum (strain So ce56))	Fatty acid desaturase
+A0A6M0RF09	PF00487_other;clanG;G1	superfamily	Cyanobacteriota			Adonisia	Adonisia turfae CCMR0081	Cytochrome b5 heme-binding domain-containing protein
+A0A6V8JWZ8	PF00487_other;clanG;G1	superfamily	Actinomycetota	Actinomycetes	Micromonosporales	Phytohabitans	Phytohabitans houttuyneae	Membrane protein
+A0A069E4X0	PF00487_other;clanG;G2	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomonadales	Hyphomonas	Hyphomonas adhaerens MHS-3	Fatty acid desaturase
+A0A073IZB9	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Pseudosulfitobacter	Pseudosulfitobacter pseudonitzschiae	Fatty acid desaturase
+A0A1E2RXU6	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Methyloligella	Methyloligella halotolerans	Fatty acid desaturase
+A0A1E2RZN1	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Methyloligella	Methyloligella halotolerans	Fatty acid desaturase
+A0A1E3W6V2	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Methyloceanibacter	Methyloceanibacter superfactus	Fatty acid desaturase domain-containing protein
+A0A1E5JNF5	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionella	Legionella parisiensis	Fatty acid desaturase domain-containing protein
+A0A1H8Z637	PF00487_other;clanG	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas soli	Fatty acid desaturase (EC 1.14.19.-)
+A0A1I4LG63	PF00487_other;superfamily	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Shimia	Shimia aestuarii	Sphingolipid delta-4 desaturase
+A0A1I4T140	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	Nitrosomonas	Nitrosomonas nitrosa	Fatty acid desaturase
+A0A1M7PKQ2	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Duganella	Duganella sacchari	Delta-9 acyl-phospholipid desaturase
+A0A225DH69	PF00487_other;clanH;H1	superfamily	Planctomycetota	Planctomycetia	Gemmatales	Fimbriiglobus	Fimbriiglobus ruber	Fatty acid desaturase
+A0A239C3S4	PF00487_other;clanG;G1	superfamily	Bacteroidota	Flavobacteriia	Flavobacteriales	Dokdonia	Dokdonia pacifica	Linoleoyl-CoA desaturase
+A0A239CEN6	PF00487_other;clanI;I1	superfamily	Bacteroidota	Flavobacteriia	Flavobacteriales	Dokdonia	Dokdonia pacifica	Fatty acid desaturase
+A0A239FVV3	PF00487_other;superfamily	superfamily	Bacteroidota	Cytophagia	Cytophagales	Ekhidna	Ekhidna lutea	Sphingolipid delta-4 desaturase
+A0A239Q3T1	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Paracoccus	Paracoccus seriniphilus	Fatty acid desaturase
+A0A2W1JMJ9	PF00487_other;clanG;G1	superfamily	Cyanobacteriota	Cyanophyceae	Acaryochloridales	Acaryochloris	Acaryochloris thomasi RCC1774	NADPH-dependent stearoyl-CoA 9-desaturase (EC 1.14.19.-)
+A0A366E369	PF00487_other;clanI;I1	superfamily	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardia	Nocardia puris	Fatty acid desaturase
+A0A366HWL8	PF00487_other;clanI;I1	superfamily	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Roseimicrobium	Roseimicrobium gellanilyticum	Fatty acid desaturase
+A0A3R8TA82	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Aquabacterium	Aquabacterium soli	Fatty acid desaturase
+A0A4Q7LJP5	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Sphaerotilus	Sphaerotilus mobilis	Fatty acid desaturase
+A0A4R5VFP3	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Antarcticimicrobium	Antarcticimicrobium luteum	Fatty acid desaturase domain-containing protein
+A0A4V1Z8X2	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Vibrionales	Aliivibrio	Aliivibrio finisterrensis	Fatty acid desaturase
+A0A4V2VAF0	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobium	Rhizobium azibense	Fatty acid desaturase
+A0A501W6M4	PF00487_other;clanH;H1	superfamily	Bacteroidota	Cytophagia	Cytophagales	Pontibacter	Pontibacter mangrovi	Acyl-CoA desaturase
+A0A517XRA2	PF00487_other;clanI;I2	superfamily	Planctomycetota	Planctomycetia	Gemmatales	Urbifossiella	Urbifossiella limnaea	Fatty acid desaturase
+A0A517ZLX9	PF00487_other;clanI;I1	superfamily	Planctomycetota	Planctomycetia	Planctomycetales	Symmachiella	Symmachiella dynata	Fatty acid desaturase
+A0A518ASQ5	PF00487_other;clanI;I1	superfamily	Planctomycetota	Planctomycetia	Pirellulales	Aeoliella	Aeoliella mucimassa	Fatty acid desaturase
+A0A518BKZ0	PF00487_other;clanI;I1	superfamily	Planctomycetota	Planctomycetia		Engelhardtia	Engelhardtia mirabilis	Fatty acid desaturase
+A0A518HX55	PF00487_other;clanI;I1	superfamily	Planctomycetota	Planctomycetia	Pirellulales	Stieleria	Stieleria neptunia	Fatty acid desaturase
+A0A5B0WV35	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Pseudohalioglobus	Pseudohalioglobus sediminis	Fatty acid desaturase domain-containing protein
+A0A5B0WW02	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Pseudohalioglobus	Pseudohalioglobus sediminis	Fatty acid desaturase family protein
+A0A5C6XA62	PF00487_other;clanG;G2	superfamily		Deltaproteobacteria	Bradymonadales	Lujinxingia	Lujinxingia vulgaris	Fatty acid desaturase domain-containing protein
+A0A5S3NA50	PF00487_other;clanG;G1	superfamily	Bacteroidota	Flavobacteriia	Flavobacteriales	Polaribacter	Polaribacter aestuariivivens	Acyl-CoA desaturase
+A0A5S9F5R4	PF00487_other;clanG	superfamily	Planctomycetota	Candidatus Uabimicrobiia	Candidatus Uabimicrobiales	Candidatus Uabimicrobium	Uabimicrobium amorphum	Fatty acid desaturase
+I4B5F6	PF00487_other;clanG;G1	superfamily	Spirochaetota	Leptospiria	Leptospirales	Turneriella	Turneriella parva (strain ATCC BAA-1111 / DSM 21527 / NCTC 11395 / H) (Leptospira parva)	Fatty acid desaturase
+I4B847	PF00487_other;clanI;I1	superfamily	Spirochaetota	Leptospiria	Leptospirales	Turneriella	Turneriella parva (strain ATCC BAA-1111 / DSM 21527 / NCTC 11395 / H) (Leptospira parva)	Fatty acid desaturase
+J0Q5K2	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Bartonella	Candidatus Bartonella washoeensis Sb944nv	Fatty acid desaturase domain-containing protein
+J9DZT4	PF00487_other;clanG;G2	superfamily	Pseudomonadota	Alphaproteobacteria			alpha proteobacterium IMCC14465	Fatty acid desaturase domain-containing protein
+Q8KP04	PF00487_other;clanI;I1	superfamily					uncultured bacterium CSLC2	Fatty acid desaturase
+U7DDJ0	PF00487_other;clanG;G2	superfamily	Fibrobacterota	Chitinivibrionia	Chitinivibrionales	Chitinivibrio	Chitinivibrio alkaliphilus ACht1	Fatty acid desaturase
+A0A1H0LES3	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Filomicrobium	Filomicrobium insigne	Fatty acid desaturase
+A0A1I1XFC5	PF00487_other;clanI;I1	superfamily	Myxococcota		Nannocystales	Nannocystis	Nannocystis exedens	Fatty acid desaturase
+A0A1J0VW75	PF00487_other;clanJ	superfamily	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardia	Nocardia mangyaensis	Fatty acid desaturase domain-containing protein
+A0A1X7D5V0	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Trinickia	Trinickia caryophylli (Paraburkholderia caryophylli)	Predicted metal-dependent hydrolase
+A0A1X9N435	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Oceanicoccus	Oceanicoccus sagamiensis	Fatty acid desaturase domain-containing protein
+A0A1Y0I4R5	PF00487_other;clanG;G1	superfamily	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Oleiphilus	Oleiphilus messinensis	Fatty acid desaturase
+A0A2C9EEJ2	PF00487_other;clanG;G2	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas protegens (strain DSM 19095 / LMG 27888 / CFBP 6595 / CHA0)	Fatty acid desaturase DesA (EC 1.14.19.-)
+A0A2D0NAF9	PF00487_other;clanG;G1	superfamily	Bacteroidota	Saprospiria	Saprospirales	Flavilitoribacter	Flavilitoribacter nigricans (strain ATCC 23147 / DSM 23189 / NBRC 102662 / NCIMB 1420 / SS-2) (Lewinella nigricans)	Fatty acid desaturase domain-containing protein
+A0A2K8T0X5	PF00487_other;clanG;G2	superfamily	Cyanobacteriota	Cyanophyceae	Nostocales	Nostoc	Nostoc flagelliforme CCNUN1	FAD3, acyl-lipid omega-3 desaturase
+A0A2K9LFK1	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Ketobacter	Ketobacter alkanivorans	Fatty acid desaturase domain-containing protein
+A0A2K9NV90	PF00487_other;clanI;I2	superfamily	Bdellovibrionota	Bacteriovoracia	Bacteriovoracales	Bacteriovorax	Bacteriovorax stolpii (Bdellovibrio stolpii)	Fatty acid desaturase
+A0A2K9NV96	PF00487_other;clanH;H1	superfamily	Bdellovibrionota	Bacteriovoracia	Bacteriovoracales	Bacteriovorax	Bacteriovorax stolpii (Bdellovibrio stolpii)	Fatty acid desaturase domain-containing protein
+A0A2K9NW62	PF00487_other;clanH;H2	superfamily	Bdellovibrionota	Bacteriovoracia	Bacteriovoracales	Bacteriovorax	Bacteriovorax stolpii (Bdellovibrio stolpii)	Fatty acid desaturase domain-containing protein
+A0A2K9NXC4	PF00487_other;clanI;I1	superfamily	Bdellovibrionota	Bacteriovoracia	Bacteriovoracales	Bacteriovorax	Bacteriovorax stolpii (Bdellovibrio stolpii)	Uncharacterized protein
+A0A2U2HIG8	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Massilia	Massilia glaciei	Fatty acid desaturase domain-containing protein
+A0A2U2HK33	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Massilia	Massilia glaciei	Fatty acid desaturase
+A0A3A8NVA8	PF00487_other;clanI;I1	superfamily	Myxococcota	Myxococcia	Myxococcales	Corallococcus	Corallococcus sicarius	Fatty acid desaturase
+A0A3A8NYP4	PF00487_other;clanJ	superfamily	Myxococcota	Myxococcia	Myxococcales	Corallococcus	Corallococcus sicarius	Fatty acid desaturase
+A0A3A9WDX6	PF00487_other;clanI;I1	superfamily	Actinomycetota	Actinomycetes	Kitasatosporales	Streptomyces	Streptomyces radicis	Fatty acid desaturase domain-containing protein
+A0A3S1A9X4	PF00487_other;clanG;G2	superfamily	Cyanobacteriota	Cyanophyceae	Nostocales	Chlorogloeopsis	Chlorogloeopsis fritschii PCC 6912	Fatty acid desaturase domain-containing protein
+A0A432MP98	PF00487_other;clanI;I1	superfamily	Planctomycetota	Planctomycetia	Isosphaerales	Tautonia	Tautonia sociabilis	Fatty acid desaturase
+A0A433URT9	PF00487_other;clanI;I1	superfamily	Cyanobacteriota	Cyanophyceae	Nostocales	Dulcicalothrix	Dulcicalothrix desertica PCC 7102	Dihydrorhizobitoxine desaturase
+A0A437KQH6	PF00487_other;clanG;G1	superfamily	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacterium	Flavobacterium sufflavum	Acyl-CoA desaturase
+A0A437LXW3	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonas	Sphingomonas crocodyli	Fatty acid desaturase
+A0A437LYJ9	PF00487_other;superfamily	superfamily	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonas	Sphingomonas crocodyli	Beta-carotene ketolase
+A0A6H1UDE4	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Ferrimonas	Ferrimonas lipolytica	2Fe-2S iron-sulfur cluster binding domain-containing protein
+A0A6S6Z9S6	PF00487_other;clanG;G1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Achromobacter	Achromobacter kerstersii	NADPH-dependent stearoyl-CoA 9-desaturase (EC 1.14.19.-)
+A0A7C9BH28	PF00487_other;superfamily	superfamily	Bacteroidota	Cytophagia	Cytophagales	Salmonirosea	Salmonirosea aquatica	Fatty acid desaturase domain-containing protein
+A0A7M1B3V4	PF00487_other;clanG;G1	superfamily	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Sulfurimonas	Sulfurimonas sediminis	Acyl-CoA desaturase
+A0A7M2YXD5	PF00487_other;clanH;H1	superfamily	Actinomycetota	Thermoleophilia	Gaiellales	Gaiella	Gaiella occulta	Fatty-acid desaturase
+A0A7R6PJX8	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Neptunomonas	Neptunomonas japonica JAMM 1380	Fatty acid desaturase domain-containing protein
+A0ABP9AV52	PF00487_other;clanH;H1	superfamily	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Olivibacter	Olivibacter ginsenosidimutans	Fatty acid desaturase domain-containing protein
+A0ABT5DCQ8	PF00487_other;clanI;I2	superfamily	Myxococcota	Myxococcia	Myxococcales	Allostigmatella	Allostigmatella ashevillensis	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT5HG20	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Asticcacaulis	Asticcacaulis machinosus	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT5HUI6	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Asticcacaulis	Asticcacaulis aquaticus	Fatty acid desaturase
+A0ABT5N3J1	PF00487_other;clanG;G2	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Curvibacter	Curvibacter cyanobacteriorum	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT5N9G3	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas shahriarae	Fatty acid desaturase domain-containing protein
+A0ABT5NRH0	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas fontis	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT5NRI1	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas fontis	Fatty acid desaturase (EC 1.14.19.-)
+A0ABT7PNY4	PF00487_other;clanI;I1	superfamily	Planctomycetota	Planctomycetia	Pirellulales	Roseiconus	Roseiconus lacunae	Fatty acid desaturase (EC 1.14.19.-)
+A0ABU1YQC2	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Roseateles	Roseateles saccharophilus (Pseudomonas saccharophila)	Fatty acid desaturase
+A0ABU5UCG5	PF00487_other;clanI;I1	superfamily	Cyanobacteriota	Cyanophyceae	Nostocales	Nodularia	Nodularia harveyana UHCC-0300	Fatty acid desaturase (EC 1.14.19.-)
+A0ABU9NMB6	PF00487_other;clanI;I2	superfamily	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacterium	Flavobacterium polysaccharolyticum	Fatty acid desaturase
+A0ABV4P4Y6	PF00487_other;clanG	superfamily	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Microbulbifer	Microbulbifer epialgicus	Fatty acid desaturase
+A0ABV5BR93	PF00487_other;clanI;I2	superfamily	Spirochaetota	Leptospiria	Leptospirales	Leptospira	Leptospira wolffii	Fatty acid desaturase family protein
+A0ABW3NYJ4	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingobium	Sphingobium olei	Fatty acid desaturase (EC 1.14.19.-)
+A0ABW9A3Q1	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Herbaspirillum	Herbaspirillum lusitanum	Fatty acid desaturase family protein
+A0ABW9EI23	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Paraburkholderia	Paraburkholderia strydomiana	Fatty acid desaturase (EC 1.14.19.-)
+A0ABX3RG72	PF00487_other;clanI;I2	superfamily	Actinomycetota	Actinomycetes	Mycobacteriales	Mycolicibacter	Mycolicibacter arupensis	Fatty acid desaturase domain-containing protein
+A0ABX4E498	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas umsongensis	Fatty acid desaturase domain-containing protein
+A0ABX4NKC4	PF00487_other;clanI;I1	superfamily	Spirochaetota	Leptospiria	Leptospirales	Leptospira	Leptospira barantonii	Fatty acid desaturase
+A0ABX9ZLI8	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Pandoraea	Pandoraea apista	Fatty acid desaturase domain-containing protein
+A0ABY5ANN8	PF00487_other;clanI;I1	superfamily	Cyanobacteriota	Cyanophyceae	Oscillatoriales	Sodalinema	[Phormidium] yuhuli AB48	Fatty acid desaturase (EC 1.14.19.-)
+A0ACF9RE53	PF00487_other;clanH;H1	superfamily	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrio	Photobacterium sp. (strain ATCC 43367)	Acyl-CoA desaturase
+A0ACG1U0E6	PF00487_other;clanJ	superfamily	Cyanobacteriota	Cyanophyceae	Oculatellales	Vacuolonema	Vacuolonema iberomarrocanum LEGE 07170	Fatty acid desaturase
+Q52468	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas syringae	Fatty acid desaturase
+Q6ACI0	PF00487_other;clanG;G1	superfamily	Actinomycetota	Actinomycetes	Micrococcales	Leifsonia	Leifsonia xyli subsp. xyli (strain CTCB07)	Delta fatty acid desaturase
+Q7NP86	PF00487_other;clanG;G2	superfamily	Cyanobacteriota	Cyanophyceae	Gloeobacterales	Gloeobacter	Gloeobacter violaceus (strain ATCC 29082 / PCC 7421)	Gll0171 protein
+Q7U5K7	PF00487_other;clanG;G2	superfamily	Cyanobacteriota	Cyanophyceae	Synechococcales	Parasynechococcus	Parasynechococcus marenigrum (strain WH8102)	Possible fatty acid desaturase
+W4LBY2	PF00487_other;clanJ	superfamily	Candidatus Tectimicrobiota	Candidatus Entotheonellia	Candidatus Entotheonellales	Candidatus Entotheonella	Candidatus Entotheonella gemina	Fatty acid desaturase domain-containing protein
+W4LC83	PF00487_other;clanI;I1	superfamily	Candidatus Tectimicrobiota	Candidatus Entotheonellia	Candidatus Entotheonellales	Candidatus Entotheonella	Entotheonella factor	Fatty acid desaturase domain-containing protein
+W4LKH6	PF00487_other;clanI;I1	superfamily	Candidatus Tectimicrobiota	Candidatus Entotheonellia	Candidatus Entotheonellales	Candidatus Entotheonella	Entotheonella factor	Fatty acid desaturase domain-containing protein
+W4LRA4	PF00487_other;clanI;I1	superfamily	Candidatus Tectimicrobiota	Candidatus Entotheonellia	Candidatus Entotheonellales	Candidatus Entotheonella	Candidatus Entotheonella gemina	Fatty acid desaturase domain-containing protein
+W4LS96	PF00487_other;clanI;I1	superfamily	Candidatus Tectimicrobiota	Candidatus Entotheonellia	Candidatus Entotheonellales	Candidatus Entotheonella	Candidatus Entotheonella gemina	Fatty acid desaturase domain-containing protein
+Q93HS4	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Bradyrhizobium	Bradyrhizobium elkanii	Dihydrorhizobitoxine desaturase (EC 1.14.19.61)
+A0ABY4QPS1	PF00487_other;clanI;I2	superfamily	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacterium	Candidatus Mycobacterium methanotrophicum	Fatty acid desaturase (EC 1.14.19.-)
+A0ABY8PFZ9	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonas	Pseudomonas viciae	Guanitoxin biosynthesis L-arginine gamma (S) hydroxylase
+A0ABZ1XUZ0	PF00487_other;clanI;I1	superfamily	Actinomycetota	Actinomycetes	Kitasatosporales	Streptomyces	Streptomyces melanogenes	Fatty acid desaturase (EC 1.14.19.-)
+A0ACE2LVP1	PF00487_other;clanI;I1	superfamily	Actinomycetota	Actinomycetes	Glycomycetales	Stackebrandtia	Stackebrandtia soli	Fatty acid desaturase
+A0ACH0DBI7	PF00487_other;clanJ	superfamily	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Bradyrhizobium	Bradyrhizobium arachidis	Fatty acid desaturase (EC 1.14.19.-)
+A0ACN3JQ61	PF00487_other;clanJ	superfamily	Cyanobacteriota	Cyanophyceae	Oscillatoriales	Oxynema	Oxynema mangrovii CENA135	Fatty acid desaturase
+A0ACN3QEU1	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Ketobacter	Ketobacter nezhaii	Fatty acid desaturase domain-containing protein
+B2J675	PF00487_other;clanI;I1	superfamily	Cyanobacteriota	Cyanophyceae	Nostocales	Nostoc	Nostoc punctiforme (strain ATCC 29133 / PCC 73102)	Fatty acid desaturase
+B3RBG4	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Betaproteobacteria	Burkholderiales	Cupriavidus	Cupriavidus taiwanensis (strain DSM 17343 / BCRC 17206 / CCUG 44338 / CIP 107171 / LMG 19424 / R1) (Ralstonia taiwanensis (strain LMG 19424))	Fatty acid desaturase domain-containing protein
+E0U8J0	PF00487_other;clanG;G1	superfamily	Cyanobacteriota	Cyanophyceae	Chroococcales	Gloeothece	Gloeothece verrucosa (strain PCC 7822) (Cyanothece sp. (strain PCC 7822))	Fatty acid desaturase
+E0ULP2	PF00487_other;superfamily	superfamily	Cyanobacteriota	Cyanophyceae	Chroococcales	Gloeothece	Gloeothece verrucosa (strain PCC 7822) (Cyanothece sp. (strain PCC 7822))	Fatty acid desaturase
+E1X0R8	PF00487_other;clanH;H2	superfamily	Bdellovibrionota	Bacteriovoracia	Bacteriovoracales	Halobacteriovorax	Halobacteriovorax marinus (strain ATCC BAA-682 / DSM 15412 / SJ) (Bacteriovorax marinus)	Desaturase
+E1X0R9	PF00487_other;clanH;H2	superfamily	Bdellovibrionota	Bacteriovoracia	Bacteriovoracales	Halobacteriovorax	Halobacteriovorax marinus (strain ATCC BAA-682 / DSM 15412 / SJ) (Bacteriovorax marinus)	Desaturase
+L8N2Z3	PF00487_other;clanG;G1	superfamily	Cyanobacteriota	Cyanophyceae	Pseudanabaenales	Pseudanabaena	Pseudanabaena biceps PCC 7429	Linoleoyl-CoA desaturase (EC 1.14.19.3)
+S7T9E2	PF00487_other;clanI;I2	superfamily	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Alkalidesulfovibrio	Alkalidesulfovibrio alkalitolerans DSM 16529	Fatty acid desaturase
+U2WRI6	PF00487_other;clanI;I1	superfamily	Pseudomonadota	Alphaproteobacteria		Candidatus Micropelagius	Candidatus Micropelagius thuwalensis	Aminotransferase protein (EC 2.6.1.52)
+U4T572	PF00487_other;clanI;I2	superfamily	Pseudomonadota	Gammaproteobacteria	Moraxellales	Psychrobacter	Psychrobacter aquaticus CMS 56	Fatty acid desaturase domain-containing protein
+P9WNZ3	PF00487_other;clanG;G1	superfamily_swissprot	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacterium	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	NADPH-dependent stearoyl-CoA 9-desaturase (EC 1.14.19.n4) (Delta(9)-stearoyl desaturase) (Stearoyl-CoA 9-desaturase (NADPH)) (Stearoyl-CoA Delta(9)-desaturase)
+Q54795	PF00487_other;clanG;G1	superfamily_swissprot	Cyanobacteriota	Cyanophyceae	Oscillatoriales	Limnospira	Limnospira platensis (Arthrospira platensis)	sn-1 linoleoyl-lipid 6-desaturase (EC 1.14.19.46) (Delta 6-acyl-lipid desaturase) (Delta(6)-desaturase) (Delta-6 desaturase)
+P20388	PF00487_other;clanG;G2	superfamily_swissprot	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechocystis	Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa)	sn-1 oleoyl-lipid 12-desaturase (EC 1.14.19.45) (Acyl-lipid delta12-desaturase) (Delta(12)-fatty-acid desaturase)
+Q08871	PF00487_other;clanG;G1	superfamily_swissprot	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechocystis	Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa)	sn-1 linoleoyl-lipid 6-desaturase (EC 1.14.19.46) (Delta(6)-desaturase) (Delta-6 acyl-lipid desaturase) (Delta-6 desaturase) (Linoleoyl-CoA desaturase)
+Q79EF1	PF00487_other;clanG;G2	superfamily_swissprot	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechocystis	Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa)	sn-1 acyl-lipid omega-3 desaturase (ferredoxin) (EC 1.14.19.36) (Delta(15)-fatty-acid desaturase) (Delta 15 desaturase) (Omega 3 acyl-lipid desaturase) (Omega 3 desaturase)
+A0A0H3C677	PF00487_other;clanI;I1	superfamily_swissprot	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Caulobacter	Caulobacter vibrioides (strain NA1000 / CB15N) (Caulobacter crescentus)	Ceramide hydroxylase
+C5BK13	PF00487_other;clanH;H1	superfamily_swissprot	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Teredinibacter	Teredinibacter turnerae (strain ATCC 39867 / T7901)	Decanoyl-[acyl-carrier protein] acetylenase (EC 1.14.19.78) (Decanoyl-[acyl-carrier protein] desaturase/acetylenase)
+O34653	PF00487_other;clanG;G2	superfamily_swissprot	Bacillota	Bacilli	Caryophanales	Bacillus	Bacillus subtilis (strain 168)	Fatty acid desaturase (EC 1.14.19.-) (Delta(5) acyl-lipid desaturase) (Delta(5) desaturase)
+P9WNZ2	PF00487_other;clanG;G1	superfamily_swissprot	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacterium	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	NADPH-dependent stearoyl-CoA 9-desaturase (EC 1.14.19.n4) (Delta(9)-stearoyl desaturase) (Stearoyl-CoA 9-desaturase (NADPH)) (Stearoyl-CoA Delta(9)-desaturase)
+Q54794	PF00487_other;clanG;G2	superfamily_swissprot	Cyanobacteriota	Cyanophyceae	Oscillatoriales	Limnospira	Limnospira platensis (Arthrospira platensis)	sn-1 oleoyl-lipid 12-desaturase (EC 1.14.19.45) (Delta(12)-fatty-acid desaturase) (Delta12 desaturase)
+Q55230	PF00487_other;clanG;G2	superfamily_swissprot	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechocystis	Synechocystis sp. (strain PCC 6714) (Aphanocapsa sp. (strain PCC 6714))	sn-1 oleoyl-lipid 12-desaturase (EC 1.14.19.45) (Delta(12)-fatty-acid desaturase)
+Q55231	PF00487_other;clanG;G2	superfamily_swissprot	Cyanobacteriota	Cyanophyceae	Chroococcales	Picosynechococcus	Picosynechococcus sp. (strain ATCC 27264 / PCC 7002 / PR-6) (Agmenellum quadruplicatum)	sn-1 oleoyl-lipid 12-desaturase (EC 1.14.19.45) (Delta(12)-fatty-acid desaturase)
+Q55406	PF00487_other;clanH;H1	superfamily_swissprot	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechocystis	Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa)	sn-1 stearoyl-lipid 9-desaturase (EC 1.14.19.28) (Delta(9) acyl-lipid desaturase)
+Q6E7K8	PF00487_other;clanH;H1	superfamily_swissprot	Cyanobacteriota	Cyanophyceae	Coleofasciculales	Moorena	Moorena producens (strain JHB)	Hex-5-enoyl-[acyl-carrier protein] acetylenase (EC 1.14.19.40) (Jamaicamide biosynthesis protein B)
+Q704E9	PF00487_other;clanH;H1	superfamily_swissprot	Cyanobacteriota	Cyanophyceae	Nostocales	Nostoc	Nostoc sp. (strain 36)	sn-2 palmitoyl-lipid 9-desaturase (EC 1.14.19.27) (Delta(9)-fatty-acid desaturase) (Delta-9 acyl-lipid desaturase)
+Q704F0	PF00487_other;clanG;G2	superfamily_swissprot	Cyanobacteriota	Cyanophyceae	Nostocales	Nostoc	Nostoc sp. (strain 36)	sn-1 acyl-lipid omega-3 desaturase (ferredoxin) (EC 1.14.19.36) (Delta(15)-fatty-acid desaturase) (Delta 15 desaturase) (Omega 3 acyl-lipid desaturase) (Omega 3 desaturase)
+Q79F72	PF00487_other;clanG;G2	superfamily_swissprot	Cyanobacteriota	Cyanophyceae	Nostocales	Trichormus	Anabaena variabilis	sn-1 oleoyl-lipid 12-desaturase (EC 1.14.19.45) (Delta(12)-fatty-acid desaturase)
+Q79F73	PF00487_other;clanH;H1	superfamily_swissprot	Cyanobacteriota	Cyanophyceae	Nostocales	Trichormus	Anabaena variabilis	sn-1 stearoyl-lipid 9-desaturase (EC 1.14.19.28) (Delta(9) acyl-lipid desaturase)
+P54972	PF00487_other;superfamily	superfamily_swissprot	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Paracoccus	Paracoccus sp. (strain N81106 / MBIC 01143) (Agrobacterium aurantiacum)	Beta-carotene ketolase (EC 1.14.99.63) (Beta-carotene oxygenase)
+Q44261	PF00487_other;superfamily	superfamily_swissprot	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Paracoccus	Paracoccus sp. (strain PC1) (Alcaligenes sp. (strain PC1))	Beta-carotene ketolase (EC 1.14.99.63) (Beta-carotene oxygenase)
