@@ -32,36 +32,36 @@ All 29 ORFs place in the expected groups: 22 in `AMO_archaeal`, 1 in `AMO_bacter
 The longest branch of this tree is A0A4Z0F839 (0.599; a tip of `other_PF02461`), then A0A1C3X0K8 (0.499) and A0A2M8R783 (0.435).
 
 **Root.**
-The archaeal tips form a clade separated from the bacterial tips by one edge of the ML tree (UFBoot 100), and `CuMMO_A.rooted.newick` is rooted on that edge.
+The archaeal tips form a clan separated from the bacterial tips by one edge of the ML tree (UFBoot 100), and `CuMMO_A.rooted.newick` is rooted on that edge.
 That root is a choice (the bacterial and archaeal families have no outgroup here), not a result; use the unrooted tree for EPA-ng.
 Support values on the nodes of the path between the original and the new root of the rooted copy are not reliable; read supports from `CuMMO_A.newick`.
 
 **Labels and support.**
-`CuMMO_A.classification.tsv` labels every tip from the NCBI lineage and the protein name in UniProt, nothing from memory: `CuMMO_A;AMO_archaeal;<order or genus>` (Nitrosopumilales, Nitrososphaerales, Nitrosotaleales, Nitrosocaldales, Cenarchaeales, Marine Group I, Nitrosotenuis), `CuMMO_A;AMO_bacterial;AOB_Betaproteobacteria` (Nitrosomonadaceae), `...;AOB_Gammaproteobacteria` (*Nitrosococcus*, *Nitrosoglobus*, *Nitrosacidicoccus*), `...;comammox_Nitrospira` (Nitrospiraceae; clade A and B are not separated because the three tips are all in one clade and no UniProt entry states the clade), `CuMMO_A;pMMO;typeI_Methylococcales`, `pMMO;typeII;Methylocystaceae` and `Beijerinckiaceae`, `pMMO;Verrucomicrobiota` (Methylacidiphilae), `pMMO;Methylomirabilota`, `CuMMO_A;hydrocarbon_MO;Actinomycetota` and `CuMMO_A;other_PF02461;<phylum>` for tips from other bacteria.
+`CuMMO_A.classification.tsv` labels every tip from the NCBI lineage and the protein name in UniProt, nothing from memory: `CuMMO_A;AMO_archaeal;<order or genus>` (Nitrosopumilales, Nitrososphaerales, Nitrosotaleales, Nitrosocaldales, Cenarchaeales, Marine Group I, Nitrosotenuis), `CuMMO_A;AMO_bacterial;AOB_Betaproteobacteria` (Nitrosomonadaceae), `...;AOB_Gammaproteobacteria` (*Nitrosococcus*, *Nitrosoglobus*, *Nitrosacidicoccus*), `...;comammox_Nitrospira` (Nitrospiraceae; clan A and B are not separated because the three tips are all in one clan and no UniProt entry states the clan), `CuMMO_A;pMMO;typeI_Methylococcales`, `pMMO;typeII;Methylocystaceae` and `Beijerinckiaceae`, `pMMO;Verrucomicrobiota` (Methylacidiphilae), `pMMO;Methylomirabilota`, `CuMMO_A;hydrocarbon_MO;Actinomycetota` and `CuMMO_A;other_PF02461;<phylum>` for tips from other bacteria.
 Archaeal tips without a lineage below Archaea or Nitrososphaerota are `AMO_archaeal;unspecified` or `AMO_archaeal;Nitrososphaerota_unspecified`; they are the majority of the archaea.
-`pMMO;pxmA` are the three tips with the UniProt gene name `pxmA` (two Methylococcales, one environmental sequence); they fall among type I Methylococcales tips in a clade with UFBoot 35, so the pxmA label is not supported as a clade here.
-The tree has a clade of Methylococcales and *Methylocystis* tips (6 tips, UFBoot 95) that mixes the type I and type II labels.
+`pMMO;pxmA` are the three tips with the UniProt gene name `pxmA` (two Methylococcales, one environmental sequence); they fall among type I Methylococcales tips in a clan with UFBoot 35, so the pxmA label is not supported as a clan here.
+The tree has a clan of Methylococcales and *Methylocystis* tips (6 tips, UFBoot 95) that mixes the type I and type II labels.
 
-Monophyly (from `scripts/tree_check.py` on the tree rooted as above, full output `CuMMO_A.monophyly.tsv`; UFBoot of the clade edge):
+Monophyly (from `scripts/tree_check.py` on the tree rooted as above, full output `CuMMO_A.monophyly.tsv`; UFBoot of the clan edge):
 
 | Label | Tips | Result |
 |---|---|---|
 | archaeal against bacterial tips | 135, 123 | split by one edge, UFBoot 100 |
-| `AMO_archaeal;Nitrosocaldales` | 2 | not monophyletic (split by the basal bifurcation of the archaeal clade) |
-| `AMO_archaeal;Nitrosotaleales` | 2 | not monophyletic: the clade also holds 2 environmental amplicons (UFBoot 86) |
+| `AMO_archaeal;Nitrosocaldales` | 2 | not monophyletic (split by the basal bifurcation of the archaeal clan) |
+| `AMO_archaeal;Nitrosotaleales` | 2 | not monophyletic: the clan also holds 2 environmental amplicons (UFBoot 86) |
 | `AMO_archaeal;Nitrosopumilales` (4), `Nitrososphaerales` (3), the unspecified labels | | not monophyletic; the backbone of the archaeal tree is poorly supported (many UFBoot values below 50) |
 | `AMO_bacterial;AOB_Betaproteobacteria` | 17 | monophyletic, UFBoot 97, sister to comammox Nitrospira (UFBoot 100 for the pair) |
-| `AMO_bacterial;AOB_Gammaproteobacteria` | 6 | monophyletic, UFBoot 100, inside a 53-tip clade with the Methylococcales, Methylocystaceae and Beijerinckiaceae (UFBoot 94) |
+| `AMO_bacterial;AOB_Gammaproteobacteria` | 6 | monophyletic, UFBoot 100, inside a 53-tip clan with the Methylococcales, Methylocystaceae and Beijerinckiaceae (UFBoot 94) |
 | `comammox_Nitrospira` | 3 | monophyletic, UFBoot 100 |
 | `pMMO;Verrucomicrobiota` | 10 | monophyletic, UFBoot 100 |
 | `pMMO;Methylomirabilota` | 2 | monophyletic, UFBoot 100 |
-| `pMMO;typeII;Methylocystaceae` and `Beijerinckiaceae` | 18, 2 | not separate clades: the type II tips are inside the 53-tip clade (UFBoot 94) together with Methylococcales and gamma AOB tips |
-| `pMMO;typeI_Methylococcales` | 42 | not monophyletic (the gamma AOB and the type II tips are inside the same clade) |
+| `pMMO;typeII;Methylocystaceae` and `Beijerinckiaceae` | 18, 2 | not separate clans: the type II tips are inside the 53-tip clan (UFBoot 94) together with Methylococcales and gamma AOB tips |
+| `pMMO;typeI_Methylococcales` | 42 | not monophyletic (the gamma AOB and the type II tips are inside the same clan) |
 | `pMMO;pxmA` | 3 | not monophyletic (UFBoot 34) |
 | `other_PF02461` | 19 | not monophyletic |
 
-Changes against the first tree (261 tips, LG+F+I+G4): the Verrucomicrobiota clade (10 tips) is 100 (was 99), beta AOB 97 (98), the Methylocystaceae and Beijerinckiaceae tips are no longer a separate clade but part of a 53-tip clade (UFBoot 94; the earlier 16-tip clade had 89), Nitrosocaldales are no longer a clade (was UFBoot 93), the 6 Actinomycetota and Bacillota tips moved from the base of the bacterial clade to a clade next to the Verrucomicrobiota (UFBoot 54), and the longest branch is A0A4Z0F839 (0.599, was A0A7D5R6V2 with 2.25).
-The backbone between the large groups has UFBoot values of 27 to 62; trust the labels with supported clades and use the nearest-reference identity, not the deep topology, for the others.
+Changes against the first tree (261 tips, LG+F+I+G4): the Verrucomicrobiota clan (10 tips) is 100 (was 99), beta AOB 97 (98), the Methylocystaceae and Beijerinckiaceae tips are no longer a separate clan but part of a 53-tip clan (UFBoot 94; the earlier 16-tip clan had 89), Nitrosocaldales are no longer a clan (was UFBoot 93), the 6 Actinomycetota and Bacillota tips moved from the base of the bacterial clan to a clan next to the Verrucomicrobiota (UFBoot 54), and the longest branch is A0A4Z0F839 (0.599, was A0A7D5R6V2 with 2.25).
+The backbone between the large groups has UFBoot values of 27 to 62; trust the labels with supported clans and use the nearest-reference identity, not the deep topology, for the others.
 
 **Search profiles.**
 `CuMMO_A.hmm` (hmmbuild of `CuMMO_A.alnfaa`, 196 positions, so it matches the alignment hmmalign maps hits to); `CuMMO_A_archaeal.hmm` and `CuMMO_A_bacterial.hmm` are the same alignment split by domain, for searching only.
@@ -72,8 +72,8 @@ Re-run: `scripts/pool.R`, `select_reps.R`, `label_refs.R` (paths on the annotati
 ## Clans from the tree (replaces the lineage-based labels above)
 
 The first labels came from UniProt names and lineages (pMMO, AMO_bacterial, type I, type II and so on).
-They are not clades: gamma-proteobacterial ammonia oxidisers sit inside the pMMO sequences, "pMMO" and "other_PF02461" are mixed, and the type I and type II labels are split between two clades.
-`CuMMO_A.classification.tsv` now holds clans that are clades of the unrooted tree (rooted for the table on the archaeal/bacterial split, which has UFBoot 100); `CuMMO_A.clans.tsv` has the tips and UFBoot of each, the lineage-based label of every tip is kept in the `classification` column of `CuMMO_A.taxonomy.tsv`, and `label_clans.py` makes the table.
+They are not clans: gamma-proteobacterial ammonia oxidisers sit inside the pMMO sequences, "pMMO" and "other_PF02461" are mixed, and the type I and type II labels are split between two clans.
+`CuMMO_A.classification.tsv` now holds clans, each one side of a split of the unrooted tree (the archaeal/bacterial split, UFBoot 100, is used only to define the sides; the root is not known); `CuMMO_A.clans.tsv` has the tips and UFBoot of each, the lineage-based label of every tip is kept in the `classification` column of `CuMMO_A.taxonomy.tsv`, and `label_clans.py` makes the table.
 Supports are read from the bipartitions of `CuMMO_A.newick`, not from node labels after rerooting.
 
 | Clan | Tips | UFBoot |
@@ -86,17 +86,17 @@ Supports are read from the bipartitions of `CuMMO_A.newick`, not from node label
 | `gammaproteobacterial_AOB_AMO` | 6 | 100 |
 | `Methylococcales_pMMO` | 30 | 94 |
 | `Methylocystaceae_and_Beijerinckiaceae_pMMO` | 16 | 94 |
-| `pxmA_clade_pMMO_paralogs` | 19 | 100 |
+| `pxmA_clan_pMMO_paralogs` | 19 | 100 |
 | `Verrucomicrobiota_pMMO` | 10 | 100 |
 | `Methylomirabilota_pMMO` | 2 | 100 |
-| `distant_family_members;Pseudomonadota_clade1` | 5 | 100 |
-| `distant_family_members;Pseudomonadota_clade2` | 3 | 95 |
-| `distant_family_members;environmental_clade` | 2 | 99 |
+| `distant_family_members;Pseudomonadota_clan1` | 5 | 100 |
+| `distant_family_members;Pseudomonadota_clan2` | 3 | 95 |
+| `distant_family_members;environmental_clan` | 2 | 99 |
 | `distant_family_members;Actinomycetota_and_Bacillota` | 6 | 100 |
 | `unresolved` | 4 | |
 
-- Ammonia oxidation has at least three origins in this tree: the archaeal clan, the clan of the beta-proteobacterial AOB with the comammox *Nitrospira* (a single clade, UFBoot 100), and the gamma-proteobacterial AOB, which lie in the same clade (UFBoot 94, 53 tips) as the Methylococcales and Methylocystaceae pMMO sequences.
+- Ammonia oxidation has at least three origins in this tree: the archaeal clan, the clan of the beta-proteobacterial AOB with the comammox *Nitrospira* (a single clan, UFBoot 100), and the gamma-proteobacterial AOB, which lie in the same clan (UFBoot 94, 53 tips) as the Methylococcales and Methylocystaceae pMMO sequences.
   The position of the gamma AOB as sister of the Methylococcales has UFBoot 65 only, and the bacterial tree has no outgroup, so the direction (methane to ammonia or the reverse) is not shown by the tree.
-- The 19 tips of `pxmA_clade_pMMO_paralogs` (UFBoot 100) hold the three pxmA-named sequences together with Methylococcales (12) and Methylocystis (4) sequences, mostly named only by locus tags; this looks like a paralog family, but the gene names were not checked.
-- The backbone between the bacterial clans is weak (the 98-tip clade that holds all of them except the beta AOB and comammox clade has UFBoot 52).
-- The Archaeal clan has no sublabels, because the lineage-based ones (Nitrosopumilales and so on) are not clades and 108 of the 135 tips are not named below Archaea or Nitrososphaerota.
+- The 19 tips of `pxmA_clan_pMMO_paralogs` (UFBoot 100) hold the three pxmA-named sequences together with Methylococcales (12) and Methylocystis (4) sequences, mostly named only by locus tags; this looks like a paralog family, but the gene names were not checked.
+- The backbone between the bacterial clans is weak (the 98-tip clan that holds all of them except the beta AOB and comammox clan has UFBoot 52).
+- The Archaeal clan has no sublabels, because the lineage-based ones (Nitrosopumilales and so on) are not clans and 108 of the 135 tips are not named below Archaea or Nitrososphaerota.

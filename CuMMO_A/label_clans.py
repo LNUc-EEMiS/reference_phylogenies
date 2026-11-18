@@ -1,4 +1,4 @@
-"""Clan labels of CuMMO_A from the tree: every clan is a clade of the unrooted tree (rooted on the archaeal/bacterial split) with the UFBoot value given in the table.
+"""Clan labels of CuMMO_A from the tree: every clan is a set of tips that forms one side of a split of the unrooted tree (the tree is drawn with the archaeal/bacterial split as the root only to define the sides; the true root is not known) with the UFBoot value given in the table.
 Supports are read from the bipartitions of CuMMO_A.newick, not from node labels after rerooting.
 Usage (from the repository root): python3 CuMMO_A/label_clans.py"""
 import sys, collections, csv
@@ -25,7 +25,7 @@ S = lambda nd: sup.get(canon(x.taxon.label for x in nd.leaf_nodes()), "NA")
 leaves = lambda nd: frozenset(x.taxon.label for x in nd.leaf_nodes())
 nodes = [n for n in t.postorder_node_iter() if not n.is_leaf()]
 def find(n, kinds, outside=None):
-    """The clade of size n whose tips have exactly the old labels in kinds (name -> count)."""
+    """The clan of size n whose tips have exactly the old labels in kinds (name -> count)."""
     out = []
     for nd in nodes:
         L = nd.leaf_nodes()
@@ -44,18 +44,18 @@ clans = [
  ("bacterial_CuMMO;gammaproteobacterial_AOB_AMO", find(6, {G: 6})),
  ("bacterial_CuMMO;Methylococcales_pMMO", find(30, {"pMMO;typeI_Methylococcales": 29, "other_PF02461;other": 1})),
  ("bacterial_CuMMO;Methylocystaceae_and_Beijerinckiaceae_pMMO", find(16, {"pMMO;typeII;Methylocystaceae": 14, "pMMO;typeII;Beijerinckiaceae": 2})),
- ("bacterial_CuMMO;pxmA_clade_pMMO_paralogs", find(19, {"pMMO;pxmA": 3, "pMMO;typeI_Methylococcales": 12, "pMMO;typeII;Methylocystaceae": 4})),
+ ("bacterial_CuMMO;pxmA_clan_pMMO_paralogs", find(19, {"pMMO;pxmA": 3, "pMMO;typeI_Methylococcales": 12, "pMMO;typeII;Methylocystaceae": 4})),
  ("bacterial_CuMMO;Verrucomicrobiota_pMMO", find(10, {"pMMO;Verrucomicrobiota": 10})),
  ("bacterial_CuMMO;Methylomirabilota_pMMO", find(2, {"pMMO;Methylomirabilota": 2})),
- ("bacterial_CuMMO;distant_family_members;Pseudomonadota_clade1", find(5, {"other_PF02461;Pseudomonadota": 5})),
- ("bacterial_CuMMO;distant_family_members;Pseudomonadota_clade2", find(3, {"other_PF02461;Pseudomonadota": 3}, outside=find(5, {"other_PF02461;Pseudomonadota": 5}))),
- ("bacterial_CuMMO;distant_family_members;environmental_clade", find(2, {"other_PF02461;other": 2})),
+ ("bacterial_CuMMO;distant_family_members;Pseudomonadota_clan1", find(5, {"other_PF02461;Pseudomonadota": 5})),
+ ("bacterial_CuMMO;distant_family_members;Pseudomonadota_clan2", find(3, {"other_PF02461;Pseudomonadota": 3}, outside=find(5, {"other_PF02461;Pseudomonadota": 5}))),
+ ("bacterial_CuMMO;distant_family_members;environmental_clan", find(2, {"other_PF02461;other": 2})),
  ("bacterial_CuMMO;distant_family_members;Actinomycetota_and_Bacillota", find(6, {"other_PF02461;Actinomycetota": 4, "other_PF02461;Bacillota": 1, "hydrocarbon_MO;Actinomycetota": 1})),
 ]
 new = {}
 for a in arch:
     new[a] = "archaeal_AMO"
-for path, nd in clans:           # general clades first, subclades later overwrite
+for path, nd in clans:           # general clans first, subclans later overwrite
     for x in leaves(nd):
         new[x] = path
 for a in old:
