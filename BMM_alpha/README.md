@@ -39,10 +39,10 @@ A label is given to the clade (the smallest clade in the rooted tree) that conta
 
 | Group in the file | Group of Yang et al. | Exemplars in the tree (accession) | Clade UFBoot | Tips |
 |---|---|---|---|---|
-| `group1_toluene_monooxygenase` | 1, toluene MOs | TmoA *P. mendocina* KR1 (Q00456), Tbu *R. pickettii* (Q51939), TouA *P. stutzeri* OX1 (Q6IV66, O87798), XamoA *Xanthobacter* (O87082) | 58 | 55 |
-| `group1_toluene_monooxygenase;Tmo_Tbu_Tou_toluene_xylene` | | Q00456, Q51939, Q6IV66 | 88 | 24 |
-| `group1_toluene_monooxygenase;likely_member` | 1, outside the exemplar clade | 8 tips with no characterised member that lie inside the next supported clade around group 1 (UFBoot 100, 63 tips, long stem): *Pseudonocardia* A0A511DK53, three Bacillota (A0A7X0HR00, A0ACA8ZC85, G8U0C2), *Halobellus* A0ABD6CQW2, *Labilithrix* A0A0K1PLV7 (annotated TmoA), *Mycolicibacterium* A0A7I7X865, *Streptomyces* A0ABT1PN43 | 100 (clade of 63) | 8 |
-| `group1_toluene_monooxygenase;Xamo_Iso_propene_isoprene` | 1, subgroup with propene and isoprene | O87082, XamoA of *Paraburkholderia hiiakae* | 97 | 11 |
+| `group1_aromatic_and_alkene_monooxygenase` | 1, toluene MOs and the propene and isoprene MOs | TmoA *P. mendocina* KR1 (Q00456), Tbu *R. pickettii* (Q51939), TouA *P. stutzeri* OX1 (Q6IV66, O87798), XamoA *Xanthobacter* (O87082) | 58 | 55 |
+| `group1_aromatic_and_alkene_monooxygenase;Tmo_Tbu_Tou_toluene_xylene` | | Q00456, Q51939, Q6IV66 | 88 | 24 |
+| `group1_aromatic_and_alkene_monooxygenase;likely_member` | 1, outside the exemplar clade | 8 tips with no characterised member that lie inside the next supported clade around group 1 (UFBoot 100, 63 tips, long stem): *Pseudonocardia* A0A511DK53, three Bacillota (A0A7X0HR00, A0ACA8ZC85, G8U0C2), *Halobellus* A0ABD6CQW2, *Labilithrix* A0A0K1PLV7 (annotated TmoA), *Mycolicibacterium* A0A7I7X865, *Streptomyces* A0ABT1PN43 | 100 (clade of 63) | 8 |
+| `group1_aromatic_and_alkene_monooxygenase;Xamo_Iso_propene_isoprene` | 1, subgroup with propene and isoprene | O87082, XamoA of *Paraburkholderia hiiakae* | 97 | 11 |
 | `group2_phenol_monooxygenase` | 2, phenol MOs | DmpN *Pseudomonas* CF600 (P19732), TomA3 *B. cepacia* G4 (Q8VSV8), PhyC *C. metallidurans* (Q1LMG3), PheN (Q84AQ2), PhcN and AphN *Comamonas* (Q9S147, Q9ZNP4) | 68 | 80 |
 | `group3_soluble_methane_and_butane_monooxygenase` | 3, sMMO and relatives | MmoX of *M. capsulatus* and *M. trichosporium* (P22869, P27353), BmoX of *T. butanivorans* and *B. petroleovorans* (Q8KQF0, Q5VJ90) | 100 | 19 |
 | `group4_alkene_monooxygenase` | 4, alkene MOs | EtnC (Q6XBI6), AmoC of Halieaceae PE-TB08W (A0A3G9E9D5) | 100 | 7 |
@@ -77,3 +77,10 @@ Two assignments were added by hand after looking at the tree (the sister clades 
 Names of the groups in full: group 6 is the propane 1-monooxygenase (terminal oxidation of propane; Yang et al. group 6), and group 5 the propane 2-monooxygenase together with the tetrahydrofuran monooxygenase (subterminal oxidation).
 
 Group 2 (`group2_phenol_monooxygenase`) was extended by hand with 17 tips that had been left outside the exemplar clade; the list of 80 phenol monooxygenase tips was checked by the supervisor against the tree (annotations and position). The group now has 80 tips and is not the smallest clade holding its exemplars, and its UFBoot value (68) refers to the exemplar clade.
+
+Naming of the umbrella and of group 1:
+- `alkane_monooxygenase` is an umbrella over groups 3, 5 and 6 (one clade of 44 tips, UFBoot 97).
+  The name is kept although the tetrahydrofuran monooxygenase of group 5 does not act on an alkane and methane and propane are oxidised at different positions in different groups.
+  Group 4 (alkene monooxygenase) is the sister of this clade (UFBoot 100 for the 51 tips) and is not under the umbrella.
+- Group 1 holds the aromatic oxidisers (Tmo, Tbu, Tou: toluene and xylene) and a subclade with alkene substrates (XamoA, propene; IsoA, isoprene), so it is named by both substrate types.
+  Alkene oxidation would then have arisen at least twice, in group 1 and in group 4 (an interpretation from the tree, not tested).
