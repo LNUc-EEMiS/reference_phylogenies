@@ -68,3 +68,35 @@ The backbone between the large groups has UFBoot values of 27 to 62; trust the l
 Over 7,374 UniProt PF02461/PF12942 proteins the combined profile gives a hit for all (the profile was built from 258 of them, so this is not an independent test); 900 proteins of PF14100, PF04896, PF04744 and PF02167 give no hit at E = 1000.
 
 Re-run: `scripts/pool.R`, `select_reps.R`, `label_refs.R` (paths on the annotation machine, `/data/users/dl/cummo_trees/`) built the reference set; the sequences, alignment and tree are all here.
+
+## Clans from the tree (replaces the lineage-based labels above)
+
+The first labels came from UniProt names and lineages (pMMO, AMO_bacterial, type I, type II and so on).
+They are not clades: gamma-proteobacterial ammonia oxidisers sit inside the pMMO sequences, "pMMO" and "other_PF02461" are mixed, and the type I and type II labels are split between two clades.
+`CuMMO_A.classification.tsv` now holds clans that are clades of the unrooted tree (rooted for the table on the archaeal/bacterial split, which has UFBoot 100); `CuMMO_A.clans.tsv` has the tips and UFBoot of each, the lineage-based label of every tip is kept in the `classification` column of `CuMMO_A.taxonomy.tsv`, and `label_clans.py` makes the table.
+Supports are read from the bipartitions of `CuMMO_A.newick`, not from node labels after rerooting.
+
+| Clan | Tips | UFBoot |
+|---|---|---|
+| `archaeal_AMO` | 135 | 100 |
+| `bacterial_CuMMO` (umbrella) | 123 | 100 |
+| `betaproteobacterial_AOB_and_comammox_AMO` | 20 | 100 |
+| subclan `betaproteobacterial_AOB` | 17 | 97 |
+| subclan `comammox_Nitrospira` | 3 | 100 |
+| `gammaproteobacterial_AOB_AMO` | 6 | 100 |
+| `Methylococcales_pMMO` | 30 | 94 |
+| `Methylocystaceae_and_Beijerinckiaceae_pMMO` | 16 | 94 |
+| `pxmA_clade_pMMO_paralogs` | 19 | 100 |
+| `Verrucomicrobiota_pMMO` | 10 | 100 |
+| `Methylomirabilota_pMMO` | 2 | 100 |
+| `distant_family_members;Pseudomonadota_clade1` | 5 | 100 |
+| `distant_family_members;Pseudomonadota_clade2` | 3 | 95 |
+| `distant_family_members;environmental_clade` | 2 | 99 |
+| `distant_family_members;Actinomycetota_and_Bacillota` | 6 | 100 |
+| `unresolved` | 4 | |
+
+- Ammonia oxidation has at least three origins in this tree: the archaeal clan, the clan of the beta-proteobacterial AOB with the comammox *Nitrospira* (a single clade, UFBoot 100), and the gamma-proteobacterial AOB, which lie in the same clade (UFBoot 94, 53 tips) as the Methylococcales and Methylocystaceae pMMO sequences.
+  The position of the gamma AOB as sister of the Methylococcales has UFBoot 65 only, and the bacterial tree has no outgroup, so the direction (methane to ammonia or the reverse) is not shown by the tree.
+- The 19 tips of `pxmA_clade_pMMO_paralogs` (UFBoot 100) hold the three pxmA-named sequences together with Methylococcales (12) and Methylocystis (4) sequences, mostly named only by locus tags; this looks like a paralog family, but the gene names were not checked.
+- The backbone between the bacterial clans is weak (the 98-tip clade that holds all of them except the beta AOB and comammox clade has UFBoot 52).
+- The Archaeal clan has no sublabels, because the lineage-based ones (Nitrosopumilales and so on) are not clades and 108 of the 135 tips are not named below Archaea or Nitrososphaerota.
