@@ -39,9 +39,9 @@ A label is given to the clade (the smallest clade in the rooted tree) that conta
 
 | Group in the file | Group of Yang et al. | Exemplars in the tree (accession) | Clade UFBoot | Tips |
 |---|---|---|---|---|
-| `group1_TMO` | 1, toluene MOs | TmoA *P. mendocina* KR1 (Q00456), Tbu *R. pickettii* (Q51939), TouA *P. stutzeri* OX1 (Q6IV66, O87798), XamoA *Xanthobacter* (O87082) | 91 | 55 |
-| `group1_TMO;tmo_tbu_tou` | | Q00456, Q51939, Q6IV66 | 89 | 24 |
-| `group1_TMO;TMO_likely` | 1, outside the exemplar clade | 8 tips with no characterised member that lie inside the next supported clade around group 1 (UFBoot 94, 63 tips, long stem): *Pseudonocardia* A0A511DK53, three Bacillota (A0A7X0HR00, A0ACA8ZC85, G8U0C2), *Halobellus* A0ABD6CQW2, *Labilithrix* A0A0K1PLV7 (annotated TmoA), *Mycolicibacterium* A0A7I7X865, *Streptomyces* A0ABT1PN43 | 94 (clade of 63) | 8 |
+| `group1_TMO` | 1, toluene MOs | TmoA *P. mendocina* KR1 (Q00456), Tbu *R. pickettii* (Q51939), TouA *P. stutzeri* OX1 (Q6IV66, O87798), XamoA *Xanthobacter* (O87082) | 58 | 55 |
+| `group1_TMO;tmo_tbu_tou` | | Q00456, Q51939, Q6IV66 | 88 | 24 |
+| `group1_TMO;TMO_likely` | 1, outside the exemplar clade | 8 tips with no characterised member that lie inside the next supported clade around group 1 (UFBoot 100, 63 tips, long stem): *Pseudonocardia* A0A511DK53, three Bacillota (A0A7X0HR00, A0ACA8ZC85, G8U0C2), *Halobellus* A0ABD6CQW2, *Labilithrix* A0A0K1PLV7 (annotated TmoA), *Mycolicibacterium* A0A7I7X865, *Streptomyces* A0ABT1PN43 | 100 (clade of 63) | 8 |
 | `group1_TMO;xamo_iso` | 1, subgroup with propene and isoprene | O87082, XamoA of *Paraburkholderia hiiakae* | 97 | 11 |
 | `group2_PhMO` | 2, phenol MOs | DmpN *Pseudomonas* CF600 (P19732), TomA3 *B. cepacia* G4 (Q8VSV8), PhyC *C. metallidurans* (Q1LMG3), PheN (Q84AQ2), PhcN and AphN *Comamonas* (Q9S147, Q9ZNP4) | 68 | 63 |
 | `group3_sMMO_BMO` | 3, sMMO and relatives | MmoX of *M. capsulatus* and *M. trichosporium* (P22869, P27353), BmoX of *T. butanivorans* and *B. petroleovorans* (Q8KQF0, Q5VJ90) | 100 | 15 |
@@ -52,7 +52,7 @@ A label is given to the clade (the smallest clade in the rooted tree) that conta
 
 Every group is monophyletic by construction (the clade is the smallest that holds its exemplars), and no exemplar of another group falls inside any of them.
 Support is high for groups 3 to 6 and the two subgroups of group 1, and weak for group 2 (UFBoot 68).
-Group 1 is a clade of 55 tips with UFBoot 91, but it also holds uncharacterised clades (13 actinobacterial tips annotated propane 2-monooxygenase, and tips of Sneathiella, Zavarzinia, Emcibacter and others that carry no characterised member), so the label says that they lie between the exemplars, not that they are toluene monooxygenases.
+Group 1 is a clade of 55 tips with UFBoot 58 (the supported clade around it has 63 tips, UFBoot 100), but it also holds uncharacterised clades (13 actinobacterial tips annotated propane 2-monooxygenase, and tips of Sneathiella, Zavarzinia, Emcibacter and others that carry no characterised member), so the label says that they lie between the exemplars, not that they are toluene monooxygenases.
 The 40 unassigned tips include a large clade (about 80 tips, many annotated propane 2-monooxygenase or YHS-domain protein, from Actinomycetota, Bacillota and Pseudomonadota) with no characterised member, and a clade of four sequences next to group 3 (three Mycobacteriaceae, including *Candidatus* Mycobacterium methanotrophicum, and *Oleomonas*); Yang et al. list an Smo of *Mycobacterium* NBB4 in group 3, but I have no accession for it, so I did not label this clade.
 Group 7 (a new group defined in Yang et al. 2024) has no sequence in the reference: I did not find its definition or accessions.
 The group 4 clade has only two exemplars, both from Yang et al.'s list, and group 6 rests on organism names; treat the groups 4 and 6 labels as provisional.
@@ -65,4 +65,6 @@ Self-search of the 204 references with the trimmed profile: lowest score 191.8 b
 The ten Swiss-Prot beta subunits: nine do not reach E 1e-3 and one (TmoE, Q00460) scores 27.7 bits, so the beta subunits are not separated from distant members by a score but by identity: a hit is called an alpha subunit when it is at least 50% identical to a reference alpha subunit over at least 60 aa (BLASTP against the references).
 Distant family members found by the profile score 30 to 36 bits and are 27 to 30% identical to the nearest reference alpha subunit; short true fragments of alpha subunits can score as low (32 to 42 bits for fragments of 108 to 191 aa), so scores below 100 bits need the identity check.
 
-The eight `TMO_likely` tips were unassigned in the first labelling because the label covers only the smallest clade holding the exemplars (UFBoot 91); the exemplar clade is nested in clades that add them step by step (58, 60, 88 and 94), and the 63-tip clade at UFBoot 94 has a long stem (0.886). The label means "likely toluene-monooxygenase-like", from the position in the tree, not from function.
+The eight `TMO_likely` tips were unassigned in the first labelling because the label covers only the smallest clade holding the exemplars (UFBoot 58); the exemplar clade is nested in clades that add them step by step (60, 88, 94 and 100), and the 63-tip clade at UFBoot 100 has a long stem (0.886). The label means "likely toluene-monooxygenase-like", from the position in the tree, not from function.
+
+Correction of the support values: a first version of this table read the UFBoot values after rerooting the consensus tree without moving the node labels, so every value on the path between the original root and the new root was shifted by one node (group 1 was given 91 instead of 58, and the 63-tip clade 94 instead of 100). The values above are taken from the bipartitions of the unrooted consensus tree. Groups 2 to 6 and the xamo_iso subgroup are unchanged. The support of the root clade (52 to 56) has not been rechecked.
