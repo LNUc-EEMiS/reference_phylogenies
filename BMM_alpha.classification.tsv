@@ -5,7 +5,7 @@ A0A0C4YEC2	BMM_alpha;group2_PhMO
 A0A0C5J8C4	BMM_alpha;group1_TMO;tmo_tbu_tou
 A0A0C5J946	BMM_alpha;group1_TMO;tmo_tbu_tou
 A0A0C5JLK5	BMM_alpha;group2_PhMO
-A0A0K1PLV7	BMM_alpha;unassigned
+A0A0K1PLV7	BMM_alpha;group1_TMO;TMO_likely
 A0A0P1LT57	BMM_alpha;unassigned
 A0A0U5BC15	BMM_alpha;unassigned
 A0A0X1T4H1	BMM_alpha;group2_PhMO
@@ -73,7 +73,7 @@ A0A4Y5QZM8	BMM_alpha;group5_Pr2MO_THF
 A0A501PKL8	BMM_alpha;group1_TMO
 A0A501PLX4	BMM_alpha;unassigned
 A0A511D5H2	BMM_alpha;unassigned
-A0A511DK53	BMM_alpha;unassigned
+A0A511DK53	BMM_alpha;group1_TMO;TMO_likely
 A0A5B0BHI0	BMM_alpha;group1_TMO
 A0A5C4JNQ8	BMM_alpha;unassigned
 A0A5C8P9A4	BMM_alpha;group2_PhMO
@@ -86,13 +86,13 @@ A0A6C1B1X5	BMM_alpha;group2_PhMO
 A0A6G8QA40	BMM_alpha;group5_Pr2MO_THF
 A0A6J5DEF9	BMM_alpha;group2_PhMO
 A0A6L8W3H2	BMM_alpha;group1_TMO
-A0A7I7X865	BMM_alpha;unassigned
+A0A7I7X865	BMM_alpha;group1_TMO;TMO_likely
 A0A7I9ZMY0	BMM_alpha;group6_Pr1MO
 A0A7L6ANZ5	BMM_alpha;group1_TMO;tmo_tbu_tou
 A0A7U6GHQ7	BMM_alpha;group1_TMO;tmo_tbu_tou
 A0A7U6GHQ9	BMM_alpha;group2_PhMO
 A0A7W2ARB6	BMM_alpha;unassigned
-A0A7X0HR00	BMM_alpha;unassigned
+A0A7X0HR00	BMM_alpha;group1_TMO;TMO_likely
 A0A7X0PJW3	BMM_alpha;group2_PhMO
 A0A839HKA0	BMM_alpha;group2_PhMO
 A0A839NBI5	BMM_alpha;unassigned
@@ -105,7 +105,7 @@ A0A8B6M927	BMM_alpha;group3_sMMO_BMO
 A0A916JAM8	BMM_alpha;group1_TMO;tmo_tbu_tou
 A0A9E5JQE3	BMM_alpha;unassigned
 A0A9E6XZA3	BMM_alpha;group1_TMO
-A0ABD6CQW2	BMM_alpha;unassigned
+A0ABD6CQW2	BMM_alpha;group1_TMO;TMO_likely
 A0ABM8NMW8	BMM_alpha;group1_TMO;xamo_iso
 A0ABN1HXD4	BMM_alpha;unassigned
 A0ABN1URX1	BMM_alpha;group1_TMO
@@ -119,7 +119,7 @@ A0ABS8JXK0	BMM_alpha;group2_PhMO
 A0ABS9K129	BMM_alpha;group2_PhMO
 A0ABS9YZE2	BMM_alpha;group6_Pr1MO
 A0ABS9Z106	BMM_alpha;group6_Pr1MO
-A0ABT1PN43	BMM_alpha;unassigned
+A0ABT1PN43	BMM_alpha;group1_TMO;TMO_likely
 A0ABT3T1U1	BMM_alpha;group1_TMO;tmo_tbu_tou
 A0ABT6GKQ4	BMM_alpha;group1_TMO;xamo_iso
 A0ABT6GKR4	BMM_alpha;group6_Pr1MO
@@ -145,7 +145,7 @@ A0ABY5DT12	BMM_alpha;group5_Pr2MO_THF
 A0ABY5E6P7	BMM_alpha;group2_PhMO
 A0ABZ2FGU3	BMM_alpha;unassigned
 A0ABZ3FMU2	BMM_alpha;unassigned
-A0ACA8ZC85	BMM_alpha;unassigned
+A0ACA8ZC85	BMM_alpha;group1_TMO;TMO_likely
 A0ACH4G0R2	BMM_alpha;group2_PhMO
 A0QTU8	BMM_alpha;group5_Pr2MO_THF
 A1K4T1	BMM_alpha;group5_Pr2MO_THF
@@ -161,7 +161,7 @@ E9RFS9	BMM_alpha;group5_Pr2MO_THF
 F3L0J3	BMM_alpha;group2_PhMO
 F5RH91	BMM_alpha;group2_PhMO
 G7GLX0	BMM_alpha;unassigned
-G8U0C2	BMM_alpha;unassigned
+G8U0C2	BMM_alpha;group1_TMO;TMO_likely
 H0E7Y0	BMM_alpha;group5_Pr2MO_THF
 J7H9I8	BMM_alpha;group2_PhMO
 J9A236	BMM_alpha;group2_PhMO
