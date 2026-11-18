@@ -1,0 +1,1198 @@
+IQ-TREE 3.1.4 built Sep 29 2026
+
+Input file name: cummo_A.trim.alnfaa
+Type of analysis: tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 664407
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Piyumal Demotte, Hector Banos,
+Andrew J. Roger, Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman,
+Matthew W. Hahn, Mario dos Reis, Le Sy Vinh, Gavin Huttley, Robert Lanfear, Bui Quang Minh (2026)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Molecular Biology and Evolution, msag117.
+https://doi.org/10.1093/molbev/msag117
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+NOTE: Alignment sequence type is auto-detected. If in doubt, specify it via -st option.
+Input data: 258 sequences with 196 amino-acid sites
+Number of constant sites: 2 (= 1.02041% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 2 (= 1.02041% of all sites)
+Number of parsimony informative sites: 188
+Number of distinct site patterns: 196
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+FO+G4
+
+State frequencies: (estimated with maximum likelihood)
+
+  pi(A) = 0.1200
+  pi(R) = 0.0317
+  pi(N) = 0.0228
+  pi(D) = 0.0206
+  pi(C) = 0.0212
+  pi(Q) = 0.0231
+  pi(E) = 0.0250
+  pi(G) = 0.0987
+  pi(H) = 0.0138
+  pi(I) = 0.0736
+  pi(L) = 0.1096
+  pi(K) = 0.0179
+  pi(M) = 0.0414
+  pi(F) = 0.0583
+  pi(P) = 0.0334
+  pi(S) = 0.0632
+  pi(T) = 0.0694
+  pi(W) = 0.0302
+  pi(Y) = 0.0260
+  pi(V) = 0.1000
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 2.0043
+
+ Category  Relative_rate  Proportion
+  1         0.2938         0.2500
+  2         0.6555         0.2500
+  3         1.0701         0.2500
+  4         1.9806         0.2500
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -20049.0325 (s.e. 740.1833)
+Unconstrained log-likelihood (without tree): -1034.5105
+Number of free parameters (#branches + #model parameters): 533
+Akaike information criterion (AIC) score: 41164.0650
+Corrected Akaike information criterion (AICc) score: 610408.0650
+Bayesian information criterion (BIC) score: 42911.3002
+
+**************************** WARNING ****************************
+Number of parameters (K, model parameters and branch lengths): 533
+Sample size (n, alignment length): 196
+
+Given that K>=n, the parameter estimates might be inaccurate.
+Thus, phylogenetic estimates should be interpreted with caution.
+
+Ideally, it is desirable that n >> K. When selecting optimal models,
+1. use AIC or BIC if n > 40K;
+2. use AICc or BIC if 40K >= n > K;
+3. be extremely cautious if n <= K
+
+To improve the situation (3), consider the following options:
+  1. Increase the sample size (n)
+  2. Decrease the number of parameters (K) to be estimated. If
+     possible:
+     a. Remove the least important sequences from the alignment
+     b. Specify some of the parameter values for the substitution
+        model (e.g., the nucleotide or amino acid frequencies)
+     c. Specify some of the parameter values for the rates-across-
+        sites model (e.g., the shape parameter for the discrete
+        Gamma distribution, the proportion of invariable sites, or
+        the rates of change for different rate categories under
+        the FreeRate model)
+
+Reference:
+Burnham KR, Anderson DR (2002). Model Selection and Multimodel
+Inference: A Practical Information-Theoretic Approach. Springer,
+New York.
+************************ END OF WARNING ***********************
+
+Total tree length (sum of branch lengths): 25.6844
+Sum of internal branch lengths: 13.9556 (54.3351% of tree length)
+
+WARNING: 66 near-zero internal branches (<0.0051) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'A0A060HNG6' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++--A0A060HNG6
+|
+|        +**K0ILE5
+|     +--| (81)
+|     |  |  +--F4ZVM5
+|     |  +--| (79)
+|     |     +--C0KGR4
+|  +**| (47)
+|  |  |           +**C7DV02
+|  |  |        +**| (57)
+|  |  |        |  +**C7DV08
+|  |  |     +**| (75)
+|  |  |     |  +--C7DV16
+|  |  |  +--| (65)
+|  |  |  |  |  +--H9CBQ8
+|  |  |  |  +--| (56)
+|  |  |  |     |  +--C7DV03
+|  |  |  |     +--| (82)
+|  |  |  |        +--C7DV10
+|  |  +**| (16)
+|  |     |        +--D0UHH2
+|  |     |     +**| (20)
+|  |     |     |  +--C7DV39
+|  |     |  +--| (49)
+|  |     |  |  |  +--X5CC85
+|  |     |  |  +**| (28)
+|  |     |  |     |                 +--D0UHI0
+|  |     |  |     |              +--| (75)
+|  |     |  |     |              |  |           +--A0A2H4L7C3
+|  |     |  |     |              |  |        +--| (61)
+|  |     |  |     |              |  |        |  |                                      +--A0A060PQY3
+|  |     |  |     |              |  |        |  |                                   +**| (62)
+|  |     |  |     |              |  |        |  |                                   |  +--B2KPP7
+|  |     |  |     |              |  |        |  |                                +**| (44)
+|  |     |  |     |              |  |        |  |                                |  |                                      +**H9NMI9
+|  |     |  |     |              |  |        |  |                                |  |                                   +**| (3)
+|  |     |  |     |              |  |        |  |                                |  |                                   |  |  +--D5JYU7
+|  |     |  |     |              |  |        |  |                                |  |                                   |  +**| (28)
+|  |     |  |     |              |  |        |  |                                |  |                                   |     +--H9NN07
+|  |     |  |     |              |  |        |  |                                |  |                                +**| (3)
+|  |     |  |     |              |  |        |  |                                |  |                                |  +--B0FNF7
+|  |     |  |     |              |  |        |  |                                |  |                             +**| (6)
+|  |     |  |     |              |  |        |  |                                |  |                             |  +--H9NMZ8
+|  |     |  |     |              |  |        |  |                                |  |                          +**| (9)
+|  |     |  |     |              |  |        |  |                                |  |                          |  +**E3UUU3
+|  |     |  |     |              |  |        |  |                                |  |                       +**| (19)
+|  |     |  |     |              |  |        |  |                                |  |                       |  +**D3GBR2
+|  |     |  |     |              |  |        |  |                                |  |                    +**| (81)
+|  |     |  |     |              |  |        |  |                                |  |                    |  +**H9NMB5
+|  |     |  |     |              |  |        |  |                                |  |                 +**| (5)
+|  |     |  |     |              |  |        |  |                                |  |                 |  +--D5JYD4
+|  |     |  |     |              |  |        |  |                                |  |              +**| (3)
+|  |     |  |     |              |  |        |  |                                |  |              |  +**C0KGV0
+|  |     |  |     |              |  |        |  |                                |  |           +**| (1)
+|  |     |  |     |              |  |        |  |                                |  |           |  |        +**D5JYN8
+|  |     |  |     |              |  |        |  |                                |  |           |  |     +**| (5)
+|  |     |  |     |              |  |        |  |                                |  |           |  |     |  |        +**D5JYS4
+|  |     |  |     |              |  |        |  |                                |  |           |  |     |  |     +**| (8)
+|  |     |  |     |              |  |        |  |                                |  |           |  |     |  |     |  +--D5JYI3
+|  |     |  |     |              |  |        |  |                                |  |           |  |     |  |  +**| (4)
+|  |     |  |     |              |  |        |  |                                |  |           |  |     |  |  |  |  +**D5JYS2
+|  |     |  |     |              |  |        |  |                                |  |           |  |     |  |  |  +**| (77)
+|  |     |  |     |              |  |        |  |                                |  |           |  |     |  |  |     +**H9NN25
+|  |     |  |     |              |  |        |  |                                |  |           |  |     |  +**| (5)
+|  |     |  |     |              |  |        |  |                                |  |           |  |     |     +**D5JYD3
+|  |     |  |     |              |  |        |  |                                |  |           |  |  +**| (0)
+|  |     |  |     |              |  |        |  |                                |  |           |  |  |  |  +**D5JYE8
+|  |     |  |     |              |  |        |  |                                |  |           |  |  |  +**| (75)
+|  |     |  |     |              |  |        |  |                                |  |           |  |  |     +**W5RRB5
+|  |     |  |     |              |  |        |  |                                |  |           |  +**| (2)
+|  |     |  |     |              |  |        |  |                                |  |           |     |  +**W5RRB0
+|  |     |  |     |              |  |        |  |                                |  |           |     +**| (4)
+|  |     |  |     |              |  |        |  |                                |  |           |        +--W5RRB6
+|  |     |  |     |              |  |        |  |                                |  |        +**| (4)
+|  |     |  |     |              |  |        |  |                                |  |        |  +**A0A2R6TA60
+|  |     |  |     |              |  |        |  |                                |  |     +**| (8)
+|  |     |  |     |              |  |        |  |                                |  |     |  |  +--W5RRB8
+|  |     |  |     |              |  |        |  |                                |  |     |  +**| (12)
+|  |     |  |     |              |  |        |  |                                |  |     |     +--D5JYD6
+|  |     |  |     |              |  |        |  |                                |  |  +**| (65)
+|  |     |  |     |              |  |        |  |                                |  |  |  +**D5JYJ4
+|  |     |  |     |              |  |        |  |                                |  +--| (53)
+|  |     |  |     |              |  |        |  |                                |     |  +--E2I8N1
+|  |     |  |     |              |  |        |  |                                |     +--| (55)
+|  |     |  |     |              |  |        |  |                                |        +--A5HAX6
+|  |     |  |     |              |  |        |  |                             +--| (54)
+|  |     |  |     |              |  |        |  |                             |  +**C0KGP8
+|  |     |  |     |              |  |        |  |                          +**| (20)
+|  |     |  |     |              |  |        |  |                          |  +**D5JYJ6
+|  |     |  |     |              |  |        |  |                       +**| (48)
+|  |     |  |     |              |  |        |  |                       |  |                                   +--D9J261
+|  |     |  |     |              |  |        |  |                       |  |                                +**| (63)
+|  |     |  |     |              |  |        |  |                       |  |                                |  |  +--J9ZZX0
+|  |     |  |     |              |  |        |  |                       |  |                                |  +**| (72)
+|  |     |  |     |              |  |        |  |                       |  |                                |     |                 +--B2L3B6
+|  |     |  |     |              |  |        |  |                       |  |                                |     |              +--| (67)
+|  |     |  |     |              |  |        |  |                       |  |                                |     |              |  +--C5WBZ9
+|  |     |  |     |              |  |        |  |                       |  |                                |     |           +**| (54)
+|  |     |  |     |              |  |        |  |                       |  |                                |     |           |  |  +--C5WC01
+|  |     |  |     |              |  |        |  |                       |  |                                |     |           |  +--| (87)
+|  |     |  |     |              |  |        |  |                       |  |                                |     |           |     +--V5L0A0
+|  |     |  |     |              |  |        |  |                       |  |                                |     |        +**| (28)
+|  |     |  |     |              |  |        |  |                       |  |                                |     |        |  +--V5L086
+|  |     |  |     |              |  |        |  |                       |  |                                |     |     +--| (58)
+|  |     |  |     |              |  |        |  |                       |  |                                |     |     |  +--V5KZS3
+|  |     |  |     |              |  |        |  |                       |  |                                |     |  +--| (75)
+|  |     |  |     |              |  |        |  |                       |  |                                |     |  |  +--C5WC03
+|  |     |  |     |              |  |        |  |                       |  |                                |     +--| (92)
+|  |     |  |     |              |  |        |  |                       |  |                                |        +--C5WC02
+|  |     |  |     |              |  |        |  |                       |  |                             +--| (51)
+|  |     |  |     |              |  |        |  |                       |  |                             |  |     +**E2I8N6
+|  |     |  |     |              |  |        |  |                       |  |                             |  |  +--| (61)
+|  |     |  |     |              |  |        |  |                       |  |                             |  |  |  +--E2FKX5
+|  |     |  |     |              |  |        |  |                       |  |                             |  +--| (89)
+|  |     |  |     |              |  |        |  |                       |  |                             |     |  +**V6ATZ6
+|  |     |  |     |              |  |        |  |                       |  |                             |     +--| (76)
+|  |     |  |     |              |  |        |  |                       |  |                             |        +--B0LJW4
+|  |     |  |     |              |  |        |  |                       |  |                          +**| (56)
+|  |     |  |     |              |  |        |  |                       |  |                          |  +--C7DV27
+|  |     |  |     |              |  |        |  |                       |  |                       +--| (69)
+|  |     |  |     |              |  |        |  |                       |  |                       |  |     +--B2KPQ0
+|  |     |  |     |              |  |        |  |                       |  |                       |  |  +**| (70)
+|  |     |  |     |              |  |        |  |                       |  |                       |  |  |  +--E0X5W8
+|  |     |  |     |              |  |        |  |                       |  |                       |  +--| (97)
+|  |     |  |     |              |  |        |  |                       |  |                       |     +--E0X5Z1
+|  |     |  |     |              |  |        |  |                       |  |                    +**| (42)
+|  |     |  |     |              |  |        |  |                       |  |                    |  |           +--D7PVN7
+|  |     |  |     |              |  |        |  |                       |  |                    |  |        +--| (76)
+|  |     |  |     |              |  |        |  |                       |  |                    |  |        |  |        +**A0A7K4N0U1
+|  |     |  |     |              |  |        |  |                       |  |                    |  |        |  |     +--| (74)
+|  |     |  |     |              |  |        |  |                       |  |                    |  |        |  |     |  |  +--D5JYV6
+|  |     |  |     |              |  |        |  |                       |  |                    |  |        |  |     |  +--| (99)
+|  |     |  |     |              |  |        |  |                       |  |                    |  |        |  |     |     +--B2XVX4
+|  |     |  |     |              |  |        |  |                       |  |                    |  |        |  |  +--| (94)
+|  |     |  |     |              |  |        |  |                       |  |                    |  |        |  |  |  +--D5JYX9
+|  |     |  |     |              |  |        |  |                       |  |                    |  |        |  +--| (90)
+|  |     |  |     |              |  |        |  |                       |  |                    |  |        |     |           +--A7LJ01
+|  |     |  |     |              |  |        |  |                       |  |                    |  |        |     |        +--| (99)
+|  |     |  |     |              |  |        |  |                       |  |                    |  |        |     |        |  +--D7PVT1
+|  |     |  |     |              |  |        |  |                       |  |                    |  |        |     |     +--| (73)
+|  |     |  |     |              |  |        |  |                       |  |                    |  |        |     |     |  +--A7LJ03
+|  |     |  |     |              |  |        |  |                       |  |                    |  |        |     |  +--| (77)
+|  |     |  |     |              |  |        |  |                       |  |                    |  |        |     |  |  +--D0UHT8
+|  |     |  |     |              |  |        |  |                       |  |                    |  |        |     +--| (80)
+|  |     |  |     |              |  |        |  |                       |  |                    |  |        |        +--E3UUV3
+|  |     |  |     |              |  |        |  |                       |  |                    |  |     +**| (52)
+|  |     |  |     |              |  |        |  |                       |  |                    |  |     |  |  +**A7LJ43
+|  |     |  |     |              |  |        |  |                       |  |                    |  |     |  +--| (96)
+|  |     |  |     |              |  |        |  |                       |  |                    |  |     |     |  +--F6KVI4
+|  |     |  |     |              |  |        |  |                       |  |                    |  |     |     +**| (66)
+|  |     |  |     |              |  |        |  |                       |  |                    |  |     |        +--C5WC15
+|  |     |  |     |              |  |        |  |                       |  |                    |  |  +--| (57)
+|  |     |  |     |              |  |        |  |                       |  |                    |  |  |  +--B0LJW8
+|  |     |  |     |              |  |        |  |                       |  |                    |  +**| (55)
+|  |     |  |     |              |  |        |  |                       |  |                    |     |  +--B5AMW9
+|  |     |  |     |              |  |        |  |                       |  |                    |     +**| (44)
+|  |     |  |     |              |  |        |  |                       |  |                    |        +--E0X5U8
+|  |     |  |     |              |  |        |  |                       |  |                 +**| (38)
+|  |     |  |     |              |  |        |  |                       |  |                 |  +--L7V097
+|  |     |  |     |              |  |        |  |                       |  |              +**| (29)
+|  |     |  |     |              |  |        |  |                       |  |              |  |  +--A0A0C5CDR2
+|  |     |  |     |              |  |        |  |                       |  |              |  +--| (77)
+|  |     |  |     |              |  |        |  |                       |  |              |     +--K7RZR4
+|  |     |  |     |              |  |        |  |                       |  |           +**| (31)
+|  |     |  |     |              |  |        |  |                       |  |           |  +--A0RUM1
+|  |     |  |     |              |  |        |  |                       |  |        +**| (32)
+|  |     |  |     |              |  |        |  |                       |  |        |  +**D9J263
+|  |     |  |     |              |  |        |  |                       |  |     +**| (22)
+|  |     |  |     |              |  |        |  |                       |  |     |  |     +--X5CFX3
+|  |     |  |     |              |  |        |  |                       |  |     |  |  +--| (78)
+|  |     |  |     |              |  |        |  |                       |  |     |  |  |  |        +--A9CT53
+|  |     |  |     |              |  |        |  |                       |  |     |  |  |  |     +--| (90)
+|  |     |  |     |              |  |        |  |                       |  |     |  |  |  |     |  |  +--Q0QMD7
+|  |     |  |     |              |  |        |  |                       |  |     |  |  |  |     |  +--| (67)
+|  |     |  |     |              |  |        |  |                       |  |     |  |  |  |     |     +--D7PVL3
+|  |     |  |     |              |  |        |  |                       |  |     |  |  |  |  +--| (64)
+|  |     |  |     |              |  |        |  |                       |  |     |  |  |  |  |  +--X5D3E7
+|  |     |  |     |              |  |        |  |                       |  |     |  |  |  +**| (53)
+|  |     |  |     |              |  |        |  |                       |  |     |  |  |     +--C8CK65
+|  |     |  |     |              |  |        |  |                       |  |     |  +**| (67)
+|  |     |  |     |              |  |        |  |                       |  |     |     +--Q0QMF8
+|  |     |  |     |              |  |        |  |                       |  |  +**| (46)
+|  |     |  |     |              |  |        |  |                       |  |  |  +**D9J260
+|  |     |  |     |              |  |        |  |                       |  +--| (52)
+|  |     |  |     |              |  |        |  |                       |     +--Q0QME9
+|  |     |  |     |              |  |        |  |                    +--| (63)
+|  |     |  |     |              |  |        |  |                    |  |  +--C5WC13
+|  |     |  |     |              |  |        |  |                    |  +**| (63)
+|  |     |  |     |              |  |        |  |                    |     +--F6KVI5
+|  |     |  |     |              |  |        |  |                 +**| (78)
+|  |     |  |     |              |  |        |  |                 |  +--C5WBZ8
+|  |     |  |     |              |  |        |  |              +--| (94)
+|  |     |  |     |              |  |        |  |              |  +--J9ZZM0
+|  |     |  |     |              |  |        |  |           +--| (64)
+|  |     |  |     |              |  |        |  |           |  |           +**A0A128A5A7
+|  |     |  |     |              |  |        |  |           |  |        +--| (86)
+|  |     |  |     |              |  |        |  |           |  |        |  |     +--A0A2H1FEL8
+|  |     |  |     |              |  |        |  |           |  |        |  |  +**| (50)
+|  |     |  |     |              |  |        |  |           |  |        |  |  |  +--A0A1X9IFF3
+|  |     |  |     |              |  |        |  |           |  |        |  +**| (60)
+|  |     |  |     |              |  |        |  |           |  |        |     +**A0A1X9IFF7
+|  |     |  |     |              |  |        |  |           |  |     +--| (73)
+|  |     |  |     |              |  |        |  |           |  |     |  +--A0A1X9IFF9
+|  |     |  |     |              |  |        |  |           |  |  +--| (100)
+|  |     |  |     |              |  |        |  |           |  |  |  |  +--J9QCS2
+|  |     |  |     |              |  |        |  |           |  |  |  +--| (82)
+|  |     |  |     |              |  |        |  |           |  |  |     +--J9QDK9
+|  |     |  |     |              |  |        |  |           |  +--| (98)
+|  |     |  |     |              |  |        |  |           |     +--H9NJT3
+|  |     |  |     |              |  |        |  |        +**| (52)
+|  |     |  |     |              |  |        |  |        |  +--A8D4L6
+|  |     |  |     |              |  |        |  |     +--| (79)
+|  |     |  |     |              |  |        |  |     |  +--H9XP93
+|  |     |  |     |              |  |        |  |  +--| (96)
+|  |     |  |     |              |  |        |  |  |  |  +--H9XP86
+|  |     |  |     |              |  |        |  |  |  +--| (95)
+|  |     |  |     |              |  |        |  |  |     +--X5D1W3
+|  |     |  |     |              |  |        |  +--| (100)
+|  |     |  |     |              |  |        |     +--H9NJR9
+|  |     |  |     |              |  |     +--| (67)
+|  |     |  |     |              |  |     |  |  +--K0A1G7
+|  |     |  |     |              |  |     |  +--| (85)
+|  |     |  |     |              |  |     |     |     +**A0A2I7UGI1
+|  |     |  |     |              |  |     |     |  +**| (48)
+|  |     |  |     |              |  |     |     |  |  |                                                           +--A0A088MGP2
+|  |     |  |     |              |  |     |     |  |  |                                                        +--| (98)
+|  |     |  |     |              |  |     |     |  |  |                                                        |  |  +--A0A088MHE2
+|  |     |  |     |              |  |     |     |  |  |                                                        |  +--| (98)
+|  |     |  |     |              |  |     |     |  |  |                                                        |     +--A0A088MKB6
+|  |     |  |     |              |  |     |     |  |  |                                                     +--| (80)
+|  |     |  |     |              |  |     |     |  |  |                                                     |  |     +--A9Q6C3
+|  |     |  |     |              |  |     |     |  |  |                                                     |  |  +--| (40)
+|  |     |  |     |              |  |     |     |  |  |                                                     |  |  |  +--A0A0C1URN1
+|  |     |  |     |              |  |     |     |  |  |                                                     |  +--| (97)
+|  |     |  |     |              |  |     |     |  |  |                                                     |     |     +--A9QPE3
+|  |     |  |     |              |  |     |     |  |  |                                                     |     |  +--| (77)
+|  |     |  |     |              |  |     |     |  |  |                                                     |     |  |  +--A0A4Y8PHR1
+|  |     |  |     |              |  |     |     |  |  |                                                     |     +--| (99)
+|  |     |  |     |              |  |     |     |  |  |                                                     |        |  +**A0ABM9IEJ9
+|  |     |  |     |              |  |     |     |  |  |                                                     |        +--| (91)
+|  |     |  |     |              |  |     |     |  |  |                                                     |           +--A9Q6C6
+|  |     |  |     |              |  |     |     |  |  |                                                  +--| (100)
+|  |     |  |     |              |  |     |     |  |  |                                                  |  +---A0A8J2BW07
+|  |     |  |     |              |  |     |     |  |  |                                               +--| (54)
+|  |     |  |     |              |  |     |     |  |  |                                               |  |             +--A0A132MT27
+|  |     |  |     |              |  |     |     |  |  |                                               |  |          +--| (85)
+|  |     |  |     |              |  |     |     |  |  |                                               |  |          |  +--A0A1J4N8Y6
+|  |     |  |     |              |  |     |     |  |  |                                               |  |   +------| (100)
+|  |     |  |     |              |  |     |     |  |  |                                               |  |   |      +--A0AA35CNE8
+|  |     |  |     |              |  |     |     |  |  |                                               |  +---| (100)
+|  |     |  |     |              |  |     |     |  |  |                                               |      |  +--A0A1Y0CHI7
+|  |     |  |     |              |  |     |     |  |  |                                               |      +--| (100)
+|  |     |  |     |              |  |     |     |  |  |                                               |         |  +--A0ABS9YRS0
+|  |     |  |     |              |  |     |     |  |  |                                               |         +--| (100)
+|  |     |  |     |              |  |     |     |  |  |                                               |            +--A0ABX2K470
+|  |     |  |     |              |  |     |     |  |  |                                            +--| (87)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                             +**E1CBX0
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                          +--| (85)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                          |  +--A0A1Z4C2D7
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                       +--| (77)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                       |  |  +--A0A0F3IF62
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                       |  +--| (70)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                       |     |     +--A0A8S0XK29
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                       |     |  +--| (80)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                       |     |  |  +--A0ACH2UA24
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                       |     +--| (96)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                       |        |     +--A0A1R4HEV6
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                       |        |  +--| (75)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                       |        |  |  +--A0A1R4HJ02
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                       |        +--| (100)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                       |           +--V5DXJ0
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                    +--| (74)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                    |  |     +--A0ABY3C6U1
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                    |  |  +--| (52)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                    |  |  |  +--A0A2S6GFZ9
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                    |  +--| (82)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                    |     +--A0AA43TIT8
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                 +--| (78)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                 |  |                 +--A0AAU7NXV1
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                 |  |              +--| (89)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                 |  |              |  +--V5L720
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                 |  |           +--| (56)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                 |  |           |  +**A0A177MYY3
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                 |  |        +--| (52)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                 |  |        |  +--A0ABU4ULI3
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                 |  |     +--| (74)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                 |  |     |  +--A0A975MNI7
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                 |  |  +--| (80)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                 |  |  |  +--K7T2E9
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                 |  +--| (96)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |                 |     +--B9X0A3
+|  |     |  |     |              |  |     |     |  |  |                                            |  |              +--| (99)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |              |  +--G4SZ63
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           +--| (94)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |  |           +--A0ABP1CBP5
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |  |        +--| (94)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |  |        |  +--A0A1Y6D793
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |  |     +--| (91)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |  |     |  |  +--A0ABN8X5P2
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |  |     |  +--| (98)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |  |     |     +--W6JMN0
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |  |  +--| (95)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |  |  |  |     +--A0A8D5ANQ2
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |  |  |  |  +--| (34)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |  |  |  |  |  +--Q607G3
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |  |  |  +--| (28)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |  |  |     +--A0A5Q0BC00
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |  +--| (74)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |     |  +--D1MYY0
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |     +--| (100)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |        |  +--L0N069
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |        +**| (37)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |           |  +--A0AAU9C1B2
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |           +--| (80)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |           |              +--A0AAU9CBF7
+|  |     |  |     |              |  |     |     |  |  |                                            |  |        +--| (65)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |        |  |     +--A0A1Q2SP41
+|  |     |  |     |              |  |     |     |  |  |                                            |  |        |  |  +--| (97)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |        |  |  |  +--A0A7G1QAR7
+|  |     |  |     |              |  |     |     |  |  |                                            |  |        |  +--| (100)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |        |     |     +--A0A4P7BVX1
+|  |     |  |     |              |  |     |     |  |  |                                            |  |        |     |  +--| (99)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |        |     |  |  +--D5BWX5
+|  |     |  |     |              |  |     |     |  |  |                                            |  |        |     +--| (45)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |        |        |  +--O06643
+|  |     |  |     |              |  |     |     |  |  |                                            |  |        |        +--| (100)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |        |           +**Q9RAI1
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     +--| (94)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |  |  +--A0A512E1R5
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |  +--| (93)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |     |  +--A0A1I3Z8P3
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |     +--| (94)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |        |  +--A0ABZ0HNS5
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |        +--| (41)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |           |                    +**A0ACH2DCT9
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |           |                 +--| (64)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |           |                 |  +--A0A6B8M6X5
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |           |              +--| (98)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |           |              |  +--A0ABM8E5A2
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |           |           +--| (71)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |           |           |  +--A0A1W6MYV7
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |           |        +--| (99)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |           |        |  +--A0A6B8KJS9
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |           |     +--| (92)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |           |     |  +--Q50541
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |           |  +--| (100)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |           |  |  +--A0ACH3GPL0
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |           +--| (95)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |              |        +--A0A1W6MWI9
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |              |     +--| (42)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |              |     |  |  +--A0ABU7XJS5
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |              |     |  +--| (82)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |              |     |     |  +--A0ACH3GRT2
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |              |     |     +--| (100)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |              |     |        +**A0A2U1SPV3
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |              |  +--| (83)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |              |  |  +--A0A6B8KFE6
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |              +--| (100)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |                 |  +**A0A6B8M8W2
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |                 +--| (83)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |     |                    +--A0ABM8EBN5
+|  |     |  |     |              |  |     |     |  |  |                                            |  |  +--| (27)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |  |  |    +--A0A2T4U1K1
+|  |     |  |     |              |  |     |     |  |  |                                            |  |  |  +----| (100)
+|  |     |  |     |              |  |     |     |  |  |                                            |  |  |       +--A0A564ZNC4
+|  |     |  |     |              |  |     |     |  |  |                                            |  +--| (45)
+|  |     |  |     |              |  |     |     |  |  |                                            |     |  +--K7STI3
+|  |     |  |     |              |  |     |     |  |  |                                            |     +--| (62)
+|  |     |  |     |              |  |     |     |  |  |                                            |        |          +--A0A1H9DRV8
+|  |     |  |     |              |  |     |     |  |  |                                            |        |       +--| (97)
+|  |     |  |     |              |  |     |     |  |  |                                            |        |       |  +--A0A4R7PDW9
+|  |     |  |     |              |  |     |     |  |  |                                            |        |    +--| (95)
+|  |     |  |     |              |  |     |     |  |  |                                            |        |    |  +--A0A4P6X4K1
+|  |     |  |     |              |  |     |     |  |  |                                            |        +----| (100)
+|  |     |  |     |              |  |     |     |  |  |                                            |             |  +--A0A4Z0FBW3
+|  |     |  |     |              |  |     |     |  |  |                                            |             +--| (51)
+|  |     |  |     |              |  |     |     |  |  |                                            |                +-----A0A4Z0F839
+|  |     |  |     |              |  |     |     |  |  |                                         +--| (44)
+|  |     |  |     |              |  |     |     |  |  |                                         |  +---A0A2M8R783
+|  |     |  |     |              |  |     |     |  |  |                                      +--| (52)
+|  |     |  |     |              |  |     |     |  |  |                                      |  |        +--A0A0S4LPG4
+|  |     |  |     |              |  |     |     |  |  |                                      |  |     +--| (98)
+|  |     |  |     |              |  |     |     |  |  |                                      |  |     |  +--A0A0S4KUL9
+|  |     |  |     |              |  |     |     |  |  |                                      |  |  +--| (100)
+|  |     |  |     |              |  |     |     |  |  |                                      |  |  |  +--A0A0S4LM25
+|  |     |  |     |              |  |     |     |  |  |                                      |  +--| (100)
+|  |     |  |     |              |  |     |     |  |  |                                      |     |              +--A0A1H3PUN8
+|  |     |  |     |              |  |     |     |  |  |                                      |     |           +--| (86)
+|  |     |  |     |              |  |     |     |  |  |                                      |     |           |  +--A0A1G5SIF8
+|  |     |  |     |              |  |     |     |  |  |                                      |     |        +--| (84)
+|  |     |  |     |              |  |     |     |  |  |                                      |     |        |  |     +**Q04507
+|  |     |  |     |              |  |     |     |  |  |                                      |     |        |  |  +--| (80)
+|  |     |  |     |              |  |     |     |  |  |                                      |     |        |  |  |  +--P72066
+|  |     |  |     |              |  |     |     |  |  |                                      |     |        |  +--| (62)
+|  |     |  |     |              |  |     |     |  |  |                                      |     |        |     |     +--A0A0F7KK52
+|  |     |  |     |              |  |     |     |  |  |                                      |     |        |     |  +--| (67)
+|  |     |  |     |              |  |     |     |  |  |                                      |     |        |     |  |  +--A0A1I4WYX9
+|  |     |  |     |              |  |     |     |  |  |                                      |     |        |     +--| (96)
+|  |     |  |     |              |  |     |     |  |  |                                      |     |        |        +--A0A1I4UWT2
+|  |     |  |     |              |  |     |     |  |  |                                      |     |     +--| (99)
+|  |     |  |     |              |  |     |     |  |  |                                      |     |     |  +--A0A4Y1YMC0
+|  |     |  |     |              |  |     |     |  |  |                                      |     |  +--| (76)
+|  |     |  |     |              |  |     |     |  |  |                                      |     |  |  |     +--A0A1H8VK96
+|  |     |  |     |              |  |     |     |  |  |                                      |     |  |  |  +--| (95)
+|  |     |  |     |              |  |     |     |  |  |                                      |     |  |  |  |  |  +**A0A1I0B1Q7
+|  |     |  |     |              |  |     |     |  |  |                                      |     |  |  |  |  +--| (100)
+|  |     |  |     |              |  |     |     |  |  |                                      |     |  |  |  |     +**A0A1I3YYE6
+|  |     |  |     |              |  |     |     |  |  |                                      |     |  |  +--| (88)
+|  |     |  |     |              |  |     |     |  |  |                                      |     |  |     +--Q9AP85
+|  |     |  |     |              |  |     |     |  |  |                                      |     +--| (97)
+|  |     |  |     |              |  |     |     |  |  |                                      |        |        +--A0A1I5FI55
+|  |     |  |     |              |  |     |     |  |  |                                      |        |     +--| (67)
+|  |     |  |     |              |  |     |     |  |  |                                      |        |     |  +--P95404
+|  |     |  |     |              |  |     |     |  |  |                                      |        |  +--| (54)
+|  |     |  |     |              |  |     |     |  |  |                                      |        |  |  |  +--P96951
+|  |     |  |     |              |  |     |     |  |  |                                      |        |  |  +--| (66)
+|  |     |  |     |              |  |     |     |  |  |                                      |        |  |     +--O85076
+|  |     |  |     |              |  |     |     |  |  |                                      |        +--| (81)
+|  |     |  |     |              |  |     |     |  |  |                                      |           +--A0A1W6SSZ9
+|  |     |  |     |              |  |     |     |  |  |                                   +--| (95)
+|  |     |  |     |              |  |     |     |  |  |                                   |  |     +--K7SJW6
+|  |     |  |     |              |  |     |     |  |  |                                   |  |  +--| (99)
+|  |     |  |     |              |  |     |     |  |  |                                   |  |  |  +--K7SQ85
+|  |     |  |     |              |  |     |     |  |  |                                   |  +--| (66)
+|  |     |  |     |              |  |     |     |  |  |                                   |     |  +----A0A1C3X0K8
+|  |     |  |     |              |  |     |     |  |  |                                   |     +--| (95)
+|  |     |  |     |              |  |     |     |  |  |                                   |        |  +--A0A1H9JC80
+|  |     |  |     |              |  |     |     |  |  |                                   |        +--| (95)
+|  |     |  |     |              |  |     |     |  |  |                                   |           +--A0ACG2I526
+|  |     |  |     |              |  |     |     |  |  |                                +--| (95)
+|  |     |  |     |              |  |     |     |  |  |                                |  |                    +--A0ABU4UNK6
+|  |     |  |     |              |  |     |     |  |  |                                |  |                 +--| (64)
+|  |     |  |     |              |  |     |     |  |  |                                |  |                 |  +--F6K8L1
+|  |     |  |     |              |  |     |     |  |  |                                |  |              +--| (33)
+|  |     |  |     |              |  |     |     |  |  |                                |  |              |  |  +--A0A126T0Z2
+|  |     |  |     |              |  |     |     |  |  |                                |  |              |  +--| (51)
+|  |     |  |     |              |  |     |     |  |  |                                |  |              |     +--A0ABT1U3K5
+|  |     |  |     |              |  |     |     |  |  |                                |  |           +--| (100)
+|  |     |  |     |              |  |     |     |  |  |                                |  |           |  +**A0ABT1TK06
+|  |     |  |     |              |  |     |     |  |  |                                |  |        +--| (85)
+|  |     |  |     |              |  |     |     |  |  |                                |  |        |  +--H8GK95
+|  |     |  |     |              |  |     |     |  |  |                                |  |     +--| (51)
+|  |     |  |     |              |  |     |     |  |  |                                |  |     |  |     +**A0ABY3C8B7
+|  |     |  |     |              |  |     |     |  |  |                                |  |     |  |  +--| (99)
+|  |     |  |     |              |  |     |     |  |  |                                |  |     |  |  |  +--A0A2S6H6D0
+|  |     |  |     |              |  |     |     |  |  |                                |  |     |  +--| (53)
+|  |     |  |     |              |  |     |     |  |  |                                |  |     |     +--G3IS42
+|  |     |  |     |              |  |     |     |  |  |                                |  |  +--| (34)
+|  |     |  |     |              |  |     |     |  |  |                                |  |  |  |     +--A0A1R4GZ99
+|  |     |  |     |              |  |     |     |  |  |                                |  |  |  |  +--| (91)
+|  |     |  |     |              |  |     |     |  |  |                                |  |  |  |  |  |  +--F6K8L0
+|  |     |  |     |              |  |     |     |  |  |                                |  |  |  |  |  +--| (70)
+|  |     |  |     |              |  |     |     |  |  |                                |  |  |  |  |     +--V5BW20
+|  |     |  |     |              |  |     |     |  |  |                                |  |  |  +--| (89)
+|  |     |  |     |              |  |     |     |  |  |                                |  |  |     +--K7SQA5
+|  |     |  |     |              |  |     |     |  |  |                                |  +--| (100)
+|  |     |  |     |              |  |     |     |  |  |                                |     |     +--A0A1Y6D9S6
+|  |     |  |     |              |  |     |     |  |  |                                |     |  +--| (96)
+|  |     |  |     |              |  |     |     |  |  |                                |     |  |  +--A0A975RB54
+|  |     |  |     |              |  |     |     |  |  |                                |     +--| (94)
+|  |     |  |     |              |  |     |     |  |  |                                |        |  +--A0A1W6MQI7
+|  |     |  |     |              |  |     |     |  |  |                                |        +--| (97)
+|  |     |  |     |              |  |     |     |  |  |                                |           |  +--A0A9W6GWP5
+|  |     |  |     |              |  |     |     |  |  |                                |           +--| (85)
+|  |     |  |     |              |  |     |     |  |  |                                |              |  +**A0A3M9XUB5
+|  |     |  |     |              |  |     |     |  |  |                                |              +--| (56)
+|  |     |  |     |              |  |     |     |  |  |                                |                 +--A0A9W6GYF3
+|  |     |  |     |              |  |     |     |  |  +--------------------------------| (100)
+|  |     |  |     |              |  |     |     |  |                                   +--V5DIZ5
+|  |     |  |     |              |  |     |     +--| (87)
+|  |     |  |     |              |  |     |        +--B0LKZ6
+|  |     |  |     |              |  |  +--| (81)
+|  |     |  |     |              |  |  |  +--Q0QME5
+|  |     |  |     |              |  +--| (62)
+|  |     |  |     |              |     +--B0FN00
+|  |     |  |     |           +**| (40)
+|  |     |  |     |           |  +--A0A286LUQ4
+|  |     |  |     |        +--| (87)
+|  |     |  |     |        |  |  +--E2FKS0
+|  |     |  |     |        |  +--| (90)
+|  |     |  |     |        |     +--H9NHL8
+|  |     |  |     |     +**| (53)
+|  |     |  |     |     |  +--D0UHS1
+|  |     |  |     |  +--| (47)
+|  |     |  |     |  |  +--E5G9Q7
+|  |     |  |     +--| (93)
+|  |     |  |        |     +--D5GXC1
+|  |     |  |        |  +--| (80)
+|  |     |  |        |  |  |  +**Q0QMC5
+|  |     |  |        |  |  +**| (37)
+|  |     |  |        |  |     |  +--H9CBU2
+|  |     |  |        |  |     +**| (38)
+|  |     |  |        |  |        +--F6KVB0
+|  |     |  |        +--| (51)
+|  |     |  |           |  +--C7DV13
+|  |     |  |           +--| (100)
+|  |     |  |              |  +--I7H0B9
+|  |     |  |              +--| (81)
+|  |     |  |                 +--F6KVB3
+|  |     +--| (49)
+|  |        |  +--A0A345K4Q3
+|  |        +**| (50)
+|  |           +--H9CBJ9
++**| (54)
+|  +--A8D4N2
+|
+|     +--A1XT36
+|  +--| (79)
+|  |  +--C7DV66
++**| (10)
+   |  +--F2XHE8
+   +--| (28)
+      |  +--C5IHY6
+      +--| (94)
+         +--H9NHQ7
+
+Tree in newick format:
+
+(A0A060HNG6:0.0240700468,(((K0ILE5:0.0049085406,(F4ZVM5:0.0097867548,C0KGR4:0.0394467040)79:0.0094364536)81:0.0096246209,((((C7DV02:0.0047504790,C7DV08:0.0047366286)57:0.0000025242,C7DV16:0.0241631080)75:0.0000024266,(H9CBQ8:0.0147274195,(C7DV03:0.0145232680,C7DV10:0.0392431355)82:0.0094121228)56:0.0095538678)65:0.0191533578,(((D0UHH2:0.0199109771,C7DV39:0.0340938663)20:0.0000021110,(X5CC85:0.0195581511,((((((D0UHI0:0.0279828175,((((A0A2H4L7C3:0.0056606425,(((((((((((((A0A060PQY3:0.0051064705,B2KPP7:0.0097829581)62:0.0049270411,(((((((((((((H9NMI9:0.0000010000,(D5JYU7:0.0098771636,H9NN07:0.0102516613)28:0.0000026352)3:0.0000010000,B0FNF7:0.0100412803)3:0.0000010000,H9NMZ8:0.0101037390)6:0.0000010000,E3UUU3:0.0050233212)9:0.0000010000,D3GBR2:0.0050145467)19:0.0000010000,H9NMB5:0.0000010000)81:0.0000010000,D5JYD4:0.0148788476)5:0.0000010000,C0KGV0:0.0049169208)3:0.0000010000,(((D5JYN8:0.0049183244,(((D5JYS4:0.0049418264,D5JYI3:0.0098904765)8:0.0000022086,(D5JYS2:0.0049411088,H9NN25:0.0050551077)77:0.0049462462)4:0.0000021311,D5JYD3:0.0049878857)5:0.0000010000)5:0.0000010000,(D5JYE8:0.0049238654,W5RRB5:0.0000023471)75:0.0049258007)0:0.0000021998,(W5RRB0:0.0049134580,W5RRB6:0.0098626006)4:0.0000010000)2:0.0000010000)1:0.0000010000,A0A2R6TA60:0.0000010000)4:0.0000022448,(W5RRB8:0.0098577766,D5JYD6:0.0099879572)12:0.0000010000)8:0.0000021320,D5JYJ4:0.0049235366)65:0.0007322868,(E2I8N1:0.0100347124,A5HAX6:0.0305024806)55:0.0095852067)53:0.0096023490)44:0.0050727492,C0KGP8:0.0048271410)54:0.0099533928,D5JYJ6:0.0048828098)20:0.0000028552,((((((((((((D9J261:0.0147040943,(J9ZZX0:0.0296366963,((((((B2L3B6:0.0194288358,C5WBZ9:0.0207645376)67:0.0077885051,(C5WC01:0.0192480257,V5L0A0:0.0288317883)87:0.0136060356)54:0.0050823352,V5L086:0.0498308915)28:0.0000023267,V5KZS3:0.0267544083)58:0.0093220805,C5WC03:0.0063431237)75:0.0079970104,C5WC02:0.0203790554)92:0.0150645141)72:0.0000025395)63:0.0049500806,((E2I8N6:0.0000029705,E2FKX5:0.2310313866)61:0.0079955763,(V6ATZ6:0.0000028557,B0LJW4:0.0887051878)76:0.0075608501)89:0.0138026833)51:0.0098235038,C7DV27:0.0349317538)56:0.0000022009,((B2KPQ0:0.0099667989,E0X5W8:0.0198870988)70:0.0044425511,E0X5Z1:0.0099893136)97:0.0148986196)69:0.0099409736,((((D7PVN7:0.0248027277,(((A0A7K4N0U1:0.0000020426,(D5JYV6:0.0098730938,B2XVX4:0.0297674473)99:0.0295042163)74:0.0213309746,D5JYX9:0.0300821883)94:0.0488915201,((((A7LJ01:0.0393081433,D7PVT1:0.0320447842)99:0.0381619823,A7LJ03:0.0234954514)73:0.0135142512,D0UHT8:0.0365149697)77:0.0222712806,E3UUV3:0.0345131757)80:0.0334485511)90:0.0291730576)76:0.0103499523,(A7LJ43:0.0000020035,(F6KVI4:0.0205245762,C5WC15:0.0299168968)66:0.0044304492)96:0.0249941354)52:0.0047150291,B0LJW8:0.0603437390)57:0.0051179812,(B5AMW9:0.0148916617,E0X5U8:0.0572171783)44:0.0000020901)55:0.0049702361)42:0.0048172318,L7V097:0.0298890199)38:0.0000021516,(A0A0C5CDR2:0.0175335137,K7RZR4:0.0371532215)77:0.0131891619)29:0.0048545673,A0RUM1:0.0298871246)31:0.0049558044,D9J263:0.0050731917)32:0.0049098084,((X5CFX3:0.0100896335,(((A9CT53:0.0136298482,(Q0QMD7:0.0132651212,D7PVL3:0.0314331468)67:0.0098723768)90:0.0145331461,X5D3E7:0.0253575039)64:0.0069288158,C8CK65:0.0690185411)53:0.0000028256)78:0.0100842592,Q0QMF8:0.0202372028)67:0.0046786801)22:0.0000029569,D9J260:0.0000022021)46:0.0000022164,Q0QME9:0.0252165310)52:0.0148841248)48:0.0048975166,(C5WC13:0.0249190568,F6KVI5:0.0410862325)63:0.0000021740)63:0.0099304094,C5WBZ8:0.0300618911)78:0.0049704148,J9ZZM0:0.0302629276)94:0.0195657294,((((A0A128A5A7:0.0046857910,((A0A2H1FEL8:0.0487069308,A0A1X9IFF3:0.1304242501)50:0.0000022912,A0A1X9IFF7:0.0000021436)60:0.0048090859)86:0.0111949445,A0A1X9IFF9:0.0770235176)73:0.0139742164,(J9QCS2:0.0095606655,J9QDK9:0.0410615278)82:0.0130105143)100:0.0573213978,H9NJT3:0.0117350433)98:0.0373154592)64:0.0057127594,A8D4L6:0.0349238938)52:0.0049550362,H9XP93:0.0295767603)79:0.0109683484,(H9XP86:0.0119667913,X5D1W3:0.0301106286)95:0.0217980881)96:0.0301036263,H9NJR9:0.0315002412)100:0.1138366870)61:0.0069114715,(K0A1G7:0.0948809974,((A0A2I7UGI1:0.0000020908,((((((((((A0A088MGP2:0.2656647641,(A0A088MHE2:0.0504946180,A0A088MKB6:0.0322822755)98:0.0447084020)98:0.1073267740,((A9Q6C3:0.0435268906,A0A0C1URN1:0.3142347311)40:0.0151185963,((A9QPE3:0.0103310297,A0A4Y8PHR1:0.0101734324)77:0.0120751260,(A0ABM9IEJ9:0.0000020687,A9Q6C6:0.0602260237)91:0.0210074277)99:0.0904356865)97:0.1013836229)80:0.0807079701,A0A8J2BW07:0.3746601898)100:0.1653095455,(((A0A132MT27:0.0291135023,A0A1J4N8Y6:0.1258967298)85:0.1086476409,A0AA35CNE8:0.2271056383)100:0.6660055775,(A0A1Y0CHI7:0.1569334879,(A0ABS9YRS0:0.1128352633,A0ABX2K470:0.1100179946)100:0.1612649845)100:0.3141161160)100:0.3666993176)54:0.0655219425,((((((((((E1CBX0:0.0050957628,A0A1Z4C2D7:0.0305393340)85:0.0065653127,(A0A0F3IF62:0.0401973408,((A0A8S0XK29:0.0407311338,A0ACH2UA24:0.0226194980)80:0.0226437100,((A0A1R4HEV6:0.0092794403,A0A1R4HJ02:0.0360604841)75:0.0295542124,V5DXJ0:0.0661770982)100:0.0851434657)96:0.0510927678)70:0.0217971180)77:0.0197509148,((A0ABY3C6U1:0.0374504101,A0A2S6GFZ9:0.0181558399)52:0.0094705846,A0AA43TIT8:0.0153309948)82:0.0213668136)74:0.0217295358,((((((A0AAU7NXV1:0.0186923983,V5L720:0.0736476655)89:0.0322902569,A0A177MYY3:0.0000021161)56:0.0097480976,A0ABU4ULI3:0.0147312588)52:0.0130889335,A0A975MNI7:0.0165976353)74:0.0155640269,K7T2E9:0.0975847105)80:0.0309099621,B9X0A3:0.0610670677)96:0.0246530724)78:0.0178711395,G4SZ63:0.0113679408)99:0.1348530192,((((A0ABP1CBP5:0.0462899778,A0A1Y6D793:0.0329664201)94:0.0338576144,(A0ABN8X5P2:0.0403557958,W6JMN0:0.0080336927)98:0.0350177685)91:0.0214821601,((A0A8D5ANQ2:0.0752267803,Q607G3:0.0269028321)34:0.0273388518,A0A5Q0BC00:0.0959128614)28:0.0086180371)95:0.0681292968,(D1MYY0:0.0208546453,(L0N069:0.0448533624,(A0AAU9C1B2:0.0274765537,A0AAU9CBF7:0.0340194038)80:0.0212371614)37:0.0000021048)100:0.0731717156)74:0.0578193215)94:0.1039307591,((A0A1Q2SP41:0.0943889153,A0A7G1QAR7:0.1830491089)97:0.0769016101,((A0A4P7BVX1:0.0186444980,D5BWX5:0.0116341844)99:0.0515307950,(O06643:0.0199665611,Q9RAI1:0.0050077045)100:0.1097582144)45:0.0179084275)100:0.2303818640)65:0.0643346281,(A0A512E1R5:0.1722859945,(A0A1I3Z8P3:0.1090372992,(A0ABZ0HNS5:0.0892938835,(((((((A0ACH2DCT9:0.0000022615,A0A6B8M6X5:0.0098907902)64:0.0099961773,A0ABM8E5A2:0.0147597563)98:0.0202193112,A0A1W6MYV7:0.0306115515)71:0.0070894636,A0A6B8KJS9:0.0079002602)99:0.0370569797,Q50541:0.0335918626)92:0.0124933335,A0ACH3GPL0:0.0261770306)100:0.0870858241,(((A0A1W6MWI9:0.0186984603,(A0ABU7XJS5:0.0361181994,(A0ACH3GRT2:0.0142733044,A0A2U1SPV3:0.0002528780)100:0.0669853987)82:0.0382579282)42:0.0234696193,A0A6B8KFE6:0.0083281514)83:0.0380157666,(A0A6B8M8W2:0.0048888585,A0ABM8EBN5:0.0207005023)83:0.0272092480)100:0.1760111269)95:0.1514597100)41:0.0250874493)94:0.1358548276)93:0.0955948692)94:0.1248557939,(A0A2T4U1K1:0.0098242085,A0A564ZNC4:0.0365918545)100:0.4506335893)27:0.0443178038,(K7STI3:0.2672700810,(((A0A1H9DRV8:0.1599370141,A0A4R7PDW9:0.1144143861)97:0.0997572356,A0A4P6X4K1:0.2963353918)95:0.1653172748,(A0A4Z0FBW3:0.2195472240,A0A4Z0F839:0.5991574793)51:0.1010426037)100:0.4716219737)62:0.1216516554)45:0.0922919574)87:0.0988023419,A0A2M8R783:0.4347169433)44:0.0419034768,(((A0A0S4LPG4:0.0293043577,A0A0S4KUL9:0.0246196794)98:0.0434249153,A0A0S4LM25:0.0278983601)100:0.3109293299,(((((A0A1H3PUN8:0.0118813272,A0A1G5SIF8:0.0703540487)86:0.0150545010,((Q04507:0.0046948671,P72066:0.0259097113)80:0.0087846101,((A0A0F7KK52:0.0180061146,A0A1I4WYX9:0.0131573670)67:0.0131996983,A0A1I4UWT2:0.0287944315)96:0.0351325512)62:0.0115657229)84:0.0228142459,A0A4Y1YMC0:0.0679630091)99:0.0675588851,((A0A1H8VK96:0.0058481454,(A0A1I0B1Q7:0.0050513548,A0A1I3YYE6:0.0000020266)100:0.0300667103)95:0.0262097475,Q9AP85:0.0216154047)88:0.0146482203)76:0.0176558719,(((A0A1I5FI55:0.0104870599,P95404:0.0410709669)67:0.0156713034,(P96951:0.0362672921,O85076:0.0214924947)66:0.0193864781)54:0.0075874505,A0A1W6SSZ9:0.0078803248)81:0.0267509511)97:0.1621835177)100:0.2655975034)52:0.0536119011,((K7SJW6:0.2095214664,K7SQ85:0.2056323541)99:0.1909222661,(A0A1C3X0K8:0.4990805461,(A0A1H9JC80:0.3155473438,A0ACG2I526:0.2077032711)95:0.2288455382)95:0.2594713551)66:0.0978520544)95:0.1659230876,(((((((A0ABU4UNK6:0.0102977524,F6K8L1:0.0189872310)64:0.0071143463,(A0A126T0Z2:0.0079916710,A0ABT1U3K5:0.0119285912)51:0.0099361556)33:0.0081224522,A0ABT1TK06:0.0000021350)100:0.0732344319,H8GK95:0.0351665373)85:0.0367857617,((A0ABY3C8B7:0.0037192354,A0A2S6H6D0:0.0302909892)99:0.0401464364,G3IS42:0.0476338351)53:0.0162432959)51:0.0102805234,((A0A1R4GZ99:0.0275530459,(F6K8L0:0.0341539612,V5BW20:0.0266944931)70:0.0109944170)91:0.0206813490,K7SQA5:0.0590591013)89:0.0268523570)34:0.0073587934,((A0A1Y6D9S6:0.0653672820,A0A975RB54:0.0942420290)96:0.0340853208,(A0A1W6MQI7:0.0352678099,(A0A9W6GWP5:0.0185305814,(A0A3M9XUB5:0.0000025178,A0A9W6GYF3:0.0148645942)56:0.0061312505)85:0.0153272419)97:0.0439527508)94:0.0477991075)100:0.1958523040)95:0.2820641093,V5DIZ5:0.0527051684)100:2.9409733500)48:0.0044280853,B0LKZ6:0.0292836034)87:0.0650739734)85:0.0765654133)67:0.0079971284,Q0QME5:0.0317545486)81:0.0123120752,B0FN00:0.0404517222)62:0.0098460772)75:0.0162820151,A0A286LUQ4:0.0495581931)40:0.0000026443,(E2FKS0:0.0147515220,H9NHL8:0.0094876045)90:0.0097572698)87:0.0145420355,D0UHS1:0.0200817038)53:0.0047390284,E5G9Q7:0.0145352435)47:0.0095068330,((D5GXC1:0.0097875659,(Q0QMC5:0.0000028163,(H9CBU2:0.0149910815,F6KVB0:0.0250423405)38:0.0046108983)37:0.0047755997)80:0.0097815168,(C7DV13:0.0303140866,(I7H0B9:0.0148104176,F6KVB3:0.0356693923)81:0.0102514993)100:0.0296064452)51:0.0094981876)93:0.0143127830)28:0.0047885407)49:0.0090463166,(A0A345K4Q3:0.0149137637,H9CBJ9:0.0145616296)50:0.0000021277)49:0.0094297892)16:0.0000022121)47:0.0045918142,A8D4N2:0.0251573614)54:0.0049564669,((A1XT36:0.0100449258,C7DV66:0.0241918423)79:0.0142674195,(F2XHE8:0.0386553394,(C5IHY6:0.0435332813,H9NHQ7:0.0329186847)94:0.0305849025)28:0.0052511449)10:0.0000020585);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -20051.353621
+Robinson-Foulds distance between ML tree and consensus tree: 57
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--A0A060HNG6
+|
+|              +--K0ILE5
+|           +--| (81)
+|           |  |  +--F4ZVM5
+|           |  +--| (79)
+|           |     +--C0KGR4
+|        +--| (21)
+|        |  |        +--D0UHH2
+|        |  |     +--| (45)
+|        |  |     |  |  +--X5CC85
+|        |  |     |  +--| (29)
+|        |  |     |     +--C7DV39
+|        |  |  +--| (49)
+|        |  |  |  |                 +--D0UHI0
+|        |  |  |  |              +--| (75)
+|        |  |  |  |              |  |           +--A0A2H4L7C3
+|        |  |  |  |              |  |        +--| (61)
+|        |  |  |  |              |  |        |  |                                      +--A0A060PQY3
+|        |  |  |  |              |  |        |  |                                   +--| (62)
+|        |  |  |  |              |  |        |  |                                   |  +--B2KPP7
+|        |  |  |  |              |  |        |  |                                +--| (44)
+|        |  |  |  |              |  |        |  |                                |  |                                +--H9NMI9
+|        |  |  |  |              |  |        |  |                                |  |                             +--| (4)
+|        |  |  |  |              |  |        |  |                                |  |                             |  +--H9NMB5
+|        |  |  |  |              |  |        |  |                                |  |                          +--| (2)
+|        |  |  |  |              |  |        |  |                                |  |                          |  |  +--E3UUU3
+|        |  |  |  |              |  |        |  |                                |  |                          |  +--| (3)
+|        |  |  |  |              |  |        |  |                                |  |                          |     |  +--B0FNF7
+|        |  |  |  |              |  |        |  |                                |  |                          |     +--| (10)
+|        |  |  |  |              |  |        |  |                                |  |                          |        +--H9NMZ8
+|        |  |  |  |              |  |        |  |                                |  |                       +--| (30)
+|        |  |  |  |              |  |        |  |                                |  |                       |  |  +--D3GBR2
+|        |  |  |  |              |  |        |  |                                |  |                       |  +--| (9)
+|        |  |  |  |              |  |        |  |                                |  |                       |     +--H9NN07
+|        |  |  |  |              |  |        |  |                                |  |                    +--| (81)
+|        |  |  |  |              |  |        |  |                                |  |                    |  +--D5JYU7
+|        |  |  |  |              |  |        |  |                                |  |                 +--| (8)
+|        |  |  |  |              |  |        |  |                                |  |                 |  |  +--D5JYE8
+|        |  |  |  |              |  |        |  |                                |  |                 |  +--| (75)
+|        |  |  |  |              |  |        |  |                                |  |                 |     +--W5RRB5
+|        |  |  |  |              |  |        |  |                                |  |              +--| (3)
+|        |  |  |  |              |  |        |  |                                |  |              |  |     +--D5JYN8
+|        |  |  |  |              |  |        |  |                                |  |              |  |  +--| (5)
+|        |  |  |  |              |  |        |  |                                |  |              |  |  |  |  +--D5JYS2
+|        |  |  |  |              |  |        |  |                                |  |              |  |  |  +--| (77)
+|        |  |  |  |              |  |        |  |                                |  |              |  |  |     +--H9NN25
+|        |  |  |  |              |  |        |  |                                |  |              |  +--| (1)
+|        |  |  |  |              |  |        |  |                                |  |              |  |  |  +--W5RRB0
+|        |  |  |  |              |  |        |  |                                |  |              |  |  +--| (16)
+|        |  |  |  |              |  |        |  |                                |  |              |  |     +--D5JYD3
+|        |  |  |  |              |  |        |  |                                |  |              |  |
+|        |  |  |  |              |  |        |  |                                |  |              |  |  +--D5JYS4
+|        |  |  |  |              |  |        |  |                                |  |              |  +--| (17)
+|        |  |  |  |              |  |        |  |                                |  |              |     +--W5RRB6
+|        |  |  |  |              |  |        |  |                                |  |           +--| (5)
+|        |  |  |  |              |  |        |  |                                |  |           |  |  +--C0KGV0
+|        |  |  |  |              |  |        |  |                                |  |           |  +--| (14)
+|        |  |  |  |              |  |        |  |                                |  |           |     |  +--W5RRB8
+|        |  |  |  |              |  |        |  |                                |  |           |     +--| (30)
+|        |  |  |  |              |  |        |  |                                |  |           |        +--D5JYI3
+|        |  |  |  |              |  |        |  |                                |  |        +--| (5)
+|        |  |  |  |              |  |        |  |                                |  |        |  +--A0A2R6TA60
+|        |  |  |  |              |  |        |  |                                |  |     +--| (8)
+|        |  |  |  |              |  |        |  |                                |  |     |  |  +--D5JYD6
+|        |  |  |  |              |  |        |  |                                |  |     |  +--| (20)
+|        |  |  |  |              |  |        |  |                                |  |     |     +--D5JYD4
+|        |  |  |  |              |  |        |  |                                |  |  +--| (65)
+|        |  |  |  |              |  |        |  |                                |  |  |  +--D5JYJ4
+|        |  |  |  |              |  |        |  |                                |  +--| (53)
+|        |  |  |  |              |  |        |  |                                |     |  +--E2I8N1
+|        |  |  |  |              |  |        |  |                                |     +--| (55)
+|        |  |  |  |              |  |        |  |                                |        +--A5HAX6
+|        |  |  |  |              |  |        |  |                             +--| (54)
+|        |  |  |  |              |  |        |  |                             |  +--C0KGP8
+|        |  |  |  |              |  |        |  |                          +--| (33)
+|        |  |  |  |              |  |        |  |                          |  |                                   +--D9J261
+|        |  |  |  |              |  |        |  |                          |  |                                +--| (63)
+|        |  |  |  |              |  |        |  |                          |  |                                |  |  +--J9ZZX0
+|        |  |  |  |              |  |        |  |                          |  |                                |  +--| (72)
+|        |  |  |  |              |  |        |  |                          |  |                                |     |                 +--B2L3B6
+|        |  |  |  |              |  |        |  |                          |  |                                |     |              +--| (67)
+|        |  |  |  |              |  |        |  |                          |  |                                |     |              |  +--C5WBZ9
+|        |  |  |  |              |  |        |  |                          |  |                                |     |           +--| (54)
+|        |  |  |  |              |  |        |  |                          |  |                                |     |           |  |  +--C5WC01
+|        |  |  |  |              |  |        |  |                          |  |                                |     |           |  +--| (87)
+|        |  |  |  |              |  |        |  |                          |  |                                |     |           |     +--V5L0A0
+|        |  |  |  |              |  |        |  |                          |  |                                |     |        +--| (28)
+|        |  |  |  |              |  |        |  |                          |  |                                |     |        |  +--V5L086
+|        |  |  |  |              |  |        |  |                          |  |                                |     |     +--| (58)
+|        |  |  |  |              |  |        |  |                          |  |                                |     |     |  +--V5KZS3
+|        |  |  |  |              |  |        |  |                          |  |                                |     |  +--| (75)
+|        |  |  |  |              |  |        |  |                          |  |                                |     |  |  +--C5WC03
+|        |  |  |  |              |  |        |  |                          |  |                                |     +--| (92)
+|        |  |  |  |              |  |        |  |                          |  |                                |        +--C5WC02
+|        |  |  |  |              |  |        |  |                          |  |                             +--| (51)
+|        |  |  |  |              |  |        |  |                          |  |                             |  |     +--E2I8N6
+|        |  |  |  |              |  |        |  |                          |  |                             |  |  +--| (61)
+|        |  |  |  |              |  |        |  |                          |  |                             |  |  |  +--E2FKX5
+|        |  |  |  |              |  |        |  |                          |  |                             |  +--| (89)
+|        |  |  |  |              |  |        |  |                          |  |                             |     |  +--V6ATZ6
+|        |  |  |  |              |  |        |  |                          |  |                             |     +--| (76)
+|        |  |  |  |              |  |        |  |                          |  |                             |        +--B0LJW4
+|        |  |  |  |              |  |        |  |                          |  |                          +--| (56)
+|        |  |  |  |              |  |        |  |                          |  |                          |  +--C7DV27
+|        |  |  |  |              |  |        |  |                          |  |                       +--| (69)
+|        |  |  |  |              |  |        |  |                          |  |                       |  |     +--B2KPQ0
+|        |  |  |  |              |  |        |  |                          |  |                       |  |  +--| (70)
+|        |  |  |  |              |  |        |  |                          |  |                       |  |  |  +--E0X5W8
+|        |  |  |  |              |  |        |  |                          |  |                       |  +--| (97)
+|        |  |  |  |              |  |        |  |                          |  |                       |     +--E0X5Z1
+|        |  |  |  |              |  |        |  |                          |  |                    +--| (42)
+|        |  |  |  |              |  |        |  |                          |  |                    |  |           +--D7PVN7
+|        |  |  |  |              |  |        |  |                          |  |                    |  |        +--| (76)
+|        |  |  |  |              |  |        |  |                          |  |                    |  |        |  |        +--A0A7K4N0U1
+|        |  |  |  |              |  |        |  |                          |  |                    |  |        |  |     +--| (74)
+|        |  |  |  |              |  |        |  |                          |  |                    |  |        |  |     |  |  +--D5JYV6
+|        |  |  |  |              |  |        |  |                          |  |                    |  |        |  |     |  +--| (99)
+|        |  |  |  |              |  |        |  |                          |  |                    |  |        |  |     |     +--B2XVX4
+|        |  |  |  |              |  |        |  |                          |  |                    |  |        |  |  +--| (94)
+|        |  |  |  |              |  |        |  |                          |  |                    |  |        |  |  |  +--D5JYX9
+|        |  |  |  |              |  |        |  |                          |  |                    |  |        |  +--| (90)
+|        |  |  |  |              |  |        |  |                          |  |                    |  |        |     |           +--A7LJ01
+|        |  |  |  |              |  |        |  |                          |  |                    |  |        |     |        +--| (99)
+|        |  |  |  |              |  |        |  |                          |  |                    |  |        |     |        |  +--D7PVT1
+|        |  |  |  |              |  |        |  |                          |  |                    |  |        |     |     +--| (73)
+|        |  |  |  |              |  |        |  |                          |  |                    |  |        |     |     |  +--A7LJ03
+|        |  |  |  |              |  |        |  |                          |  |                    |  |        |     |  +--| (77)
+|        |  |  |  |              |  |        |  |                          |  |                    |  |        |     |  |  +--D0UHT8
+|        |  |  |  |              |  |        |  |                          |  |                    |  |        |     +--| (80)
+|        |  |  |  |              |  |        |  |                          |  |                    |  |        |        +--E3UUV3
+|        |  |  |  |              |  |        |  |                          |  |                    |  |     +--| (52)
+|        |  |  |  |              |  |        |  |                          |  |                    |  |     |  |  +--A7LJ43
+|        |  |  |  |              |  |        |  |                          |  |                    |  |     |  +--| (96)
+|        |  |  |  |              |  |        |  |                          |  |                    |  |     |     |  +--F6KVI4
+|        |  |  |  |              |  |        |  |                          |  |                    |  |     |     +--| (66)
+|        |  |  |  |              |  |        |  |                          |  |                    |  |     |        +--C5WC15
+|        |  |  |  |              |  |        |  |                          |  |                    |  |  +--| (57)
+|        |  |  |  |              |  |        |  |                          |  |                    |  |  |  +--B0LJW8
+|        |  |  |  |              |  |        |  |                          |  |                    |  +--| (55)
+|        |  |  |  |              |  |        |  |                          |  |                    |     |  +--B5AMW9
+|        |  |  |  |              |  |        |  |                          |  |                    |     +--| (44)
+|        |  |  |  |              |  |        |  |                          |  |                    |        +--E0X5U8
+|        |  |  |  |              |  |        |  |                          |  |                 +--| (38)
+|        |  |  |  |              |  |        |  |                          |  |                 |  +--L7V097
+|        |  |  |  |              |  |        |  |                          |  |              +--| (29)
+|        |  |  |  |              |  |        |  |                          |  |              |  |  +--A0A0C5CDR2
+|        |  |  |  |              |  |        |  |                          |  |              |  +--| (77)
+|        |  |  |  |              |  |        |  |                          |  |              |     +--K7RZR4
+|        |  |  |  |              |  |        |  |                          |  |           +--| (31)
+|        |  |  |  |              |  |        |  |                          |  |           |  +--A0RUM1
+|        |  |  |  |              |  |        |  |                          |  |        +--| (32)
+|        |  |  |  |              |  |        |  |                          |  |        |  +--D9J263
+|        |  |  |  |              |  |        |  |                          |  |     +--| (22)
+|        |  |  |  |              |  |        |  |                          |  |     |  |     +--X5CFX3
+|        |  |  |  |              |  |        |  |                          |  |     |  |  +--| (78)
+|        |  |  |  |              |  |        |  |                          |  |     |  |  |  |        +--A9CT53
+|        |  |  |  |              |  |        |  |                          |  |     |  |  |  |     +--| (90)
+|        |  |  |  |              |  |        |  |                          |  |     |  |  |  |     |  |  +--Q0QMD7
+|        |  |  |  |              |  |        |  |                          |  |     |  |  |  |     |  +--| (67)
+|        |  |  |  |              |  |        |  |                          |  |     |  |  |  |     |     +--D7PVL3
+|        |  |  |  |              |  |        |  |                          |  |     |  |  |  |  +--| (64)
+|        |  |  |  |              |  |        |  |                          |  |     |  |  |  |  |  +--X5D3E7
+|        |  |  |  |              |  |        |  |                          |  |     |  |  |  +--| (53)
+|        |  |  |  |              |  |        |  |                          |  |     |  |  |     +--C8CK65
+|        |  |  |  |              |  |        |  |                          |  |     |  +--| (67)
+|        |  |  |  |              |  |        |  |                          |  |     |     +--Q0QMF8
+|        |  |  |  |              |  |        |  |                          |  |  +--| (46)
+|        |  |  |  |              |  |        |  |                          |  |  |  +--D9J260
+|        |  |  |  |              |  |        |  |                          |  +--| (52)
+|        |  |  |  |              |  |        |  |                          |     +--Q0QME9
+|        |  |  |  |              |  |        |  |                       +--| (48)
+|        |  |  |  |              |  |        |  |                       |  +--D5JYJ6
+|        |  |  |  |              |  |        |  |                    +--| (63)
+|        |  |  |  |              |  |        |  |                    |  |  +--C5WC13
+|        |  |  |  |              |  |        |  |                    |  +--| (63)
+|        |  |  |  |              |  |        |  |                    |     +--F6KVI5
+|        |  |  |  |              |  |        |  |                 +--| (78)
+|        |  |  |  |              |  |        |  |                 |  +--C5WBZ8
+|        |  |  |  |              |  |        |  |              +--| (94)
+|        |  |  |  |              |  |        |  |              |  +--J9ZZM0
+|        |  |  |  |              |  |        |  |           +--| (64)
+|        |  |  |  |              |  |        |  |           |  |           +--A0A128A5A7
+|        |  |  |  |              |  |        |  |           |  |        +--| (86)
+|        |  |  |  |              |  |        |  |           |  |        |  |     +--A0A2H1FEL8
+|        |  |  |  |              |  |        |  |           |  |        |  |  +--| (50)
+|        |  |  |  |              |  |        |  |           |  |        |  |  |  +--A0A1X9IFF3
+|        |  |  |  |              |  |        |  |           |  |        |  +--| (60)
+|        |  |  |  |              |  |        |  |           |  |        |     +--A0A1X9IFF7
+|        |  |  |  |              |  |        |  |           |  |     +--| (73)
+|        |  |  |  |              |  |        |  |           |  |     |  +--A0A1X9IFF9
+|        |  |  |  |              |  |        |  |           |  |  +--| (100)
+|        |  |  |  |              |  |        |  |           |  |  |  |  +--J9QCS2
+|        |  |  |  |              |  |        |  |           |  |  |  +--| (82)
+|        |  |  |  |              |  |        |  |           |  |  |     +--J9QDK9
+|        |  |  |  |              |  |        |  |           |  +--| (98)
+|        |  |  |  |              |  |        |  |           |     +--H9NJT3
+|        |  |  |  |              |  |        |  |        +--| (52)
+|        |  |  |  |              |  |        |  |        |  +--A8D4L6
+|        |  |  |  |              |  |        |  |     +--| (79)
+|        |  |  |  |              |  |        |  |     |  +--H9XP93
+|        |  |  |  |              |  |        |  |  +--| (96)
+|        |  |  |  |              |  |        |  |  |  |  +--H9XP86
+|        |  |  |  |              |  |        |  |  |  +--| (95)
+|        |  |  |  |              |  |        |  |  |     +--X5D1W3
+|        |  |  |  |              |  |        |  +--| (100)
+|        |  |  |  |              |  |        |     +--H9NJR9
+|        |  |  |  |              |  |     +--| (67)
+|        |  |  |  |              |  |     |  |  +--K0A1G7
+|        |  |  |  |              |  |     |  +--| (85)
+|        |  |  |  |              |  |     |     |     +--A0A2I7UGI1
+|        |  |  |  |              |  |     |     |  +--| (48)
+|        |  |  |  |              |  |     |     |  |  |                                                           +--A0A088MGP2
+|        |  |  |  |              |  |     |     |  |  |                                                        +--| (98)
+|        |  |  |  |              |  |     |     |  |  |                                                        |  |  +--A0A088MHE2
+|        |  |  |  |              |  |     |     |  |  |                                                        |  +--| (98)
+|        |  |  |  |              |  |     |     |  |  |                                                        |     +--A0A088MKB6
+|        |  |  |  |              |  |     |     |  |  |                                                     +--| (80)
+|        |  |  |  |              |  |     |     |  |  |                                                     |  |     +--A9Q6C3
+|        |  |  |  |              |  |     |     |  |  |                                                     |  |  +--| (40)
+|        |  |  |  |              |  |     |     |  |  |                                                     |  |  |  +--A0A0C1URN1
+|        |  |  |  |              |  |     |     |  |  |                                                     |  +--| (97)
+|        |  |  |  |              |  |     |     |  |  |                                                     |     |     +--A9QPE3
+|        |  |  |  |              |  |     |     |  |  |                                                     |     |  +--| (77)
+|        |  |  |  |              |  |     |     |  |  |                                                     |     |  |  +--A0A4Y8PHR1
+|        |  |  |  |              |  |     |     |  |  |                                                     |     +--| (99)
+|        |  |  |  |              |  |     |     |  |  |                                                     |        |  +--A0ABM9IEJ9
+|        |  |  |  |              |  |     |     |  |  |                                                     |        +--| (91)
+|        |  |  |  |              |  |     |     |  |  |                                                     |           +--A9Q6C6
+|        |  |  |  |              |  |     |     |  |  |                                                  +--| (100)
+|        |  |  |  |              |  |     |     |  |  |                                                  |  +---A0A8J2BW07
+|        |  |  |  |              |  |     |     |  |  |                                               +--| (54)
+|        |  |  |  |              |  |     |     |  |  |                                               |  |             +--A0A132MT27
+|        |  |  |  |              |  |     |     |  |  |                                               |  |          +--| (85)
+|        |  |  |  |              |  |     |     |  |  |                                               |  |          |  +--A0A1J4N8Y6
+|        |  |  |  |              |  |     |     |  |  |                                               |  |   +------| (100)
+|        |  |  |  |              |  |     |     |  |  |                                               |  |   |      +--A0AA35CNE8
+|        |  |  |  |              |  |     |     |  |  |                                               |  +---| (100)
+|        |  |  |  |              |  |     |     |  |  |                                               |      |  +--A0A1Y0CHI7
+|        |  |  |  |              |  |     |     |  |  |                                               |      +--| (100)
+|        |  |  |  |              |  |     |     |  |  |                                               |         |  +--A0ABS9YRS0
+|        |  |  |  |              |  |     |     |  |  |                                               |         +--| (100)
+|        |  |  |  |              |  |     |     |  |  |                                               |            +--A0ABX2K470
+|        |  |  |  |              |  |     |     |  |  |                                            +--| (87)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                             +--E1CBX0
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                          +--| (85)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                          |  +--A0A1Z4C2D7
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                       +--| (77)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                       |  |  +--A0A0F3IF62
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                       |  +--| (70)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                       |     |     +--A0A8S0XK29
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                       |     |  +--| (80)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                       |     |  |  +--A0ACH2UA24
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                       |     +--| (96)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                       |        |     +--A0A1R4HEV6
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                       |        |  +--| (75)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                       |        |  |  +--A0A1R4HJ02
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                       |        +--| (100)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                       |           +--V5DXJ0
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                    +--| (74)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                    |  |     +--A0ABY3C6U1
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                    |  |  +--| (52)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                    |  |  |  +--A0A2S6GFZ9
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                    |  +--| (82)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                    |     +--A0AA43TIT8
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                 +--| (78)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                 |  |                 +--A0AAU7NXV1
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                 |  |              +--| (89)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                 |  |              |  +--V5L720
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                 |  |           +--| (56)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                 |  |           |  +--A0A177MYY3
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                 |  |        +--| (52)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                 |  |        |  +--A0ABU4ULI3
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                 |  |     +--| (74)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                 |  |     |  +--A0A975MNI7
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                 |  |  +--| (80)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                 |  |  |  +--K7T2E9
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                 |  +--| (96)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |                 |     +--B9X0A3
+|        |  |  |  |              |  |     |     |  |  |                                            |  |              +--| (99)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |              |  +--G4SZ63
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           +--| (94)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |  |                 +--A0ABP1CBP5
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |  |              +--| (94)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |  |              |  +--A0A1Y6D793
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |  |           +--| (91)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |  |           |  |  +--A0ABN8X5P2
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |  |           |  +--| (98)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |  |           |     +--W6JMN0
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |  |        +--| (54)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |  |        |  +--A0A5Q0BC00
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |  |     +--| (49)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |  |     |  +--A0A8D5ANQ2
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |  |  +--| (95)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |  |  |  +--Q607G3
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |  +--| (74)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |     |     +--D1MYY0
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |     |  +--| (46)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |     |  |  |  +--A0AAU9C1B2
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |     |  |  +--| (80)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |     |  |     +--A0AAU9CBF7
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |     +--| (100)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |           |        +--L0N069
+|        |  |  |  |              |  |     |     |  |  |                                            |  |        +--| (65)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |        |  |     +--A0A1Q2SP41
+|        |  |  |  |              |  |     |     |  |  |                                            |  |        |  |  +--| (97)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |        |  |  |  +--A0A7G1QAR7
+|        |  |  |  |              |  |     |     |  |  |                                            |  |        |  +--| (100)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |        |     |     +--A0A4P7BVX1
+|        |  |  |  |              |  |     |     |  |  |                                            |  |        |     |  +--| (99)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |        |     |  |  +--D5BWX5
+|        |  |  |  |              |  |     |     |  |  |                                            |  |        |     +--| (45)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |        |        |  +--O06643
+|        |  |  |  |              |  |     |     |  |  |                                            |  |        |        +--| (100)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |        |           +--Q9RAI1
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     +--| (94)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |  |  +--A0A512E1R5
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |  +--| (93)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |     |     +--A0A1I3Z8P3
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |     |  +--| (46)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |     |  |  +--A0ABZ0HNS5
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |     +--| (94)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |        |                    +--A0ACH2DCT9
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |        |                 +--| (64)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |        |                 |  +--A0A6B8M6X5
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |        |              +--| (98)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |        |              |  +--A0ABM8E5A2
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |        |           +--| (71)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |        |           |  +--A0A1W6MYV7
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |        |        +--| (99)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |        |        |  +--A0A6B8KJS9
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |        |     +--| (92)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |        |     |  +--Q50541
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |        |  +--| (100)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |        |  |  +--A0ACH3GPL0
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |        +--| (95)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |           |        +--A0A1W6MWI9
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |           |     +--| (42)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |           |     |  |  +--A0ABU7XJS5
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |           |     |  +--| (82)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |           |     |     |  +--A0ACH3GRT2
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |           |     |     +--| (100)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |           |     |        +--A0A2U1SPV3
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |           |  +--| (83)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |           |  |  +--A0A6B8KFE6
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |           +--| (100)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |              |  +--A0A6B8M8W2
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |              +--| (83)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |     |                 +--A0ABM8EBN5
+|        |  |  |  |              |  |     |     |  |  |                                            |  |  +--| (27)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |  |  |    +--A0A2T4U1K1
+|        |  |  |  |              |  |     |     |  |  |                                            |  |  |  +----| (100)
+|        |  |  |  |              |  |     |     |  |  |                                            |  |  |       +--A0A564ZNC4
+|        |  |  |  |              |  |     |     |  |  |                                            |  +--| (45)
+|        |  |  |  |              |  |     |     |  |  |                                            |     |  +--K7STI3
+|        |  |  |  |              |  |     |     |  |  |                                            |     +--| (62)
+|        |  |  |  |              |  |     |     |  |  |                                            |        |          +--A0A1H9DRV8
+|        |  |  |  |              |  |     |     |  |  |                                            |        |       +--| (97)
+|        |  |  |  |              |  |     |     |  |  |                                            |        |       |  +--A0A4R7PDW9
+|        |  |  |  |              |  |     |     |  |  |                                            |        |    +--| (95)
+|        |  |  |  |              |  |     |     |  |  |                                            |        |    |  +--A0A4P6X4K1
+|        |  |  |  |              |  |     |     |  |  |                                            |        +----| (100)
+|        |  |  |  |              |  |     |     |  |  |                                            |             |  +--A0A4Z0FBW3
+|        |  |  |  |              |  |     |     |  |  |                                            |             +--| (51)
+|        |  |  |  |              |  |     |     |  |  |                                            |                +-----A0A4Z0F839
+|        |  |  |  |              |  |     |     |  |  |                                         +--| (44)
+|        |  |  |  |              |  |     |     |  |  |                                         |  +----A0A2M8R783
+|        |  |  |  |              |  |     |     |  |  |                                      +--| (52)
+|        |  |  |  |              |  |     |     |  |  |                                      |  |        +--A0A0S4LPG4
+|        |  |  |  |              |  |     |     |  |  |                                      |  |     +--| (98)
+|        |  |  |  |              |  |     |     |  |  |                                      |  |     |  +--A0A0S4KUL9
+|        |  |  |  |              |  |     |     |  |  |                                      |  |  +--| (100)
+|        |  |  |  |              |  |     |     |  |  |                                      |  |  |  +--A0A0S4LM25
+|        |  |  |  |              |  |     |     |  |  |                                      |  +--| (100)
+|        |  |  |  |              |  |     |     |  |  |                                      |     |              +--A0A1H3PUN8
+|        |  |  |  |              |  |     |     |  |  |                                      |     |           +--| (86)
+|        |  |  |  |              |  |     |     |  |  |                                      |     |           |  +--A0A1G5SIF8
+|        |  |  |  |              |  |     |     |  |  |                                      |     |        +--| (84)
+|        |  |  |  |              |  |     |     |  |  |                                      |     |        |  |     +--Q04507
+|        |  |  |  |              |  |     |     |  |  |                                      |     |        |  |  +--| (80)
+|        |  |  |  |              |  |     |     |  |  |                                      |     |        |  |  |  +--P72066
+|        |  |  |  |              |  |     |     |  |  |                                      |     |        |  +--| (62)
+|        |  |  |  |              |  |     |     |  |  |                                      |     |        |     |     +--A0A0F7KK52
+|        |  |  |  |              |  |     |     |  |  |                                      |     |        |     |  +--| (67)
+|        |  |  |  |              |  |     |     |  |  |                                      |     |        |     |  |  +--A0A1I4WYX9
+|        |  |  |  |              |  |     |     |  |  |                                      |     |        |     +--| (96)
+|        |  |  |  |              |  |     |     |  |  |                                      |     |        |        +--A0A1I4UWT2
+|        |  |  |  |              |  |     |     |  |  |                                      |     |     +--| (99)
+|        |  |  |  |              |  |     |     |  |  |                                      |     |     |  +--A0A4Y1YMC0
+|        |  |  |  |              |  |     |     |  |  |                                      |     |  +--| (76)
+|        |  |  |  |              |  |     |     |  |  |                                      |     |  |  |     +--A0A1H8VK96
+|        |  |  |  |              |  |     |     |  |  |                                      |     |  |  |  +--| (95)
+|        |  |  |  |              |  |     |     |  |  |                                      |     |  |  |  |  |  +--A0A1I0B1Q7
+|        |  |  |  |              |  |     |     |  |  |                                      |     |  |  |  |  +--| (100)
+|        |  |  |  |              |  |     |     |  |  |                                      |     |  |  |  |     +--A0A1I3YYE6
+|        |  |  |  |              |  |     |     |  |  |                                      |     |  |  +--| (88)
+|        |  |  |  |              |  |     |     |  |  |                                      |     |  |     +--Q9AP85
+|        |  |  |  |              |  |     |     |  |  |                                      |     +--| (97)
+|        |  |  |  |              |  |     |     |  |  |                                      |        |        +--A0A1I5FI55
+|        |  |  |  |              |  |     |     |  |  |                                      |        |     +--| (67)
+|        |  |  |  |              |  |     |     |  |  |                                      |        |     |  +--P95404
+|        |  |  |  |              |  |     |     |  |  |                                      |        |  +--| (54)
+|        |  |  |  |              |  |     |     |  |  |                                      |        |  |  |  +--P96951
+|        |  |  |  |              |  |     |     |  |  |                                      |        |  |  +--| (66)
+|        |  |  |  |              |  |     |     |  |  |                                      |        |  |     +--O85076
+|        |  |  |  |              |  |     |     |  |  |                                      |        +--| (81)
+|        |  |  |  |              |  |     |     |  |  |                                      |           +--A0A1W6SSZ9
+|        |  |  |  |              |  |     |     |  |  |                                   +--| (95)
+|        |  |  |  |              |  |     |     |  |  |                                   |  |     +--K7SJW6
+|        |  |  |  |              |  |     |     |  |  |                                   |  |  +--| (99)
+|        |  |  |  |              |  |     |     |  |  |                                   |  |  |  +--K7SQ85
+|        |  |  |  |              |  |     |     |  |  |                                   |  +--| (66)
+|        |  |  |  |              |  |     |     |  |  |                                   |     |  +----A0A1C3X0K8
+|        |  |  |  |              |  |     |     |  |  |                                   |     +--| (95)
+|        |  |  |  |              |  |     |     |  |  |                                   |        |  +--A0A1H9JC80
+|        |  |  |  |              |  |     |     |  |  |                                   |        +--| (95)
+|        |  |  |  |              |  |     |     |  |  |                                   |           +--A0ACG2I526
+|        |  |  |  |              |  |     |     |  |  |                                +--| (95)
+|        |  |  |  |              |  |     |     |  |  |                                |  |                    +--A0ABU4UNK6
+|        |  |  |  |              |  |     |     |  |  |                                |  |                 +--| (64)
+|        |  |  |  |              |  |     |     |  |  |                                |  |                 |  +--F6K8L1
+|        |  |  |  |              |  |     |     |  |  |                                |  |              +--| (33)
+|        |  |  |  |              |  |     |     |  |  |                                |  |              |  |  +--A0A126T0Z2
+|        |  |  |  |              |  |     |     |  |  |                                |  |              |  +--| (51)
+|        |  |  |  |              |  |     |     |  |  |                                |  |              |     +--A0ABT1U3K5
+|        |  |  |  |              |  |     |     |  |  |                                |  |           +--| (100)
+|        |  |  |  |              |  |     |     |  |  |                                |  |           |  +--A0ABT1TK06
+|        |  |  |  |              |  |     |     |  |  |                                |  |        +--| (85)
+|        |  |  |  |              |  |     |     |  |  |                                |  |        |  +--H8GK95
+|        |  |  |  |              |  |     |     |  |  |                                |  |     +--| (51)
+|        |  |  |  |              |  |     |     |  |  |                                |  |     |  |     +--A0ABY3C8B7
+|        |  |  |  |              |  |     |     |  |  |                                |  |     |  |  +--| (99)
+|        |  |  |  |              |  |     |     |  |  |                                |  |     |  |  |  +--A0A2S6H6D0
+|        |  |  |  |              |  |     |     |  |  |                                |  |     |  +--| (53)
+|        |  |  |  |              |  |     |     |  |  |                                |  |     |     +--G3IS42
+|        |  |  |  |              |  |     |     |  |  |                                |  |  +--| (34)
+|        |  |  |  |              |  |     |     |  |  |                                |  |  |  |     +--A0A1R4GZ99
+|        |  |  |  |              |  |     |     |  |  |                                |  |  |  |  +--| (91)
+|        |  |  |  |              |  |     |     |  |  |                                |  |  |  |  |  |  +--F6K8L0
+|        |  |  |  |              |  |     |     |  |  |                                |  |  |  |  |  +--| (70)
+|        |  |  |  |              |  |     |     |  |  |                                |  |  |  |  |     +--V5BW20
+|        |  |  |  |              |  |     |     |  |  |                                |  |  |  +--| (89)
+|        |  |  |  |              |  |     |     |  |  |                                |  |  |     +--K7SQA5
+|        |  |  |  |              |  |     |     |  |  |                                |  +--| (100)
+|        |  |  |  |              |  |     |     |  |  |                                |     |     +--A0A1Y6D9S6
+|        |  |  |  |              |  |     |     |  |  |                                |     |  +--| (96)
+|        |  |  |  |              |  |     |     |  |  |                                |     |  |  +--A0A975RB54
+|        |  |  |  |              |  |     |     |  |  |                                |     +--| (94)
+|        |  |  |  |              |  |     |     |  |  |                                |        |  +--A0A1W6MQI7
+|        |  |  |  |              |  |     |     |  |  |                                |        +--| (97)
+|        |  |  |  |              |  |     |     |  |  |                                |           |  +--A0A9W6GWP5
+|        |  |  |  |              |  |     |     |  |  |                                |           +--| (85)
+|        |  |  |  |              |  |     |     |  |  |                                |              |  +--A0A3M9XUB5
+|        |  |  |  |              |  |     |     |  |  |                                |              +--| (56)
+|        |  |  |  |              |  |     |     |  |  |                                |                 +--A0A9W6GYF3
+|        |  |  |  |              |  |     |     |  |  +--------------------------------| (100)
+|        |  |  |  |              |  |     |     |  |                                   +--V5DIZ5
+|        |  |  |  |              |  |     |     +--| (87)
+|        |  |  |  |              |  |     |        +--B0LKZ6
+|        |  |  |  |              |  |  +--| (81)
+|        |  |  |  |              |  |  |  +--Q0QME5
+|        |  |  |  |              |  +--| (62)
+|        |  |  |  |              |     +--B0FN00
+|        |  |  |  |           +--| (40)
+|        |  |  |  |           |  +--A0A286LUQ4
+|        |  |  |  |        +--| (87)
+|        |  |  |  |        |  |  +--E2FKS0
+|        |  |  |  |        |  +--| (90)
+|        |  |  |  |        |     +--H9NHL8
+|        |  |  |  |     +--| (53)
+|        |  |  |  |     |  +--D0UHS1
+|        |  |  |  |  +--| (47)
+|        |  |  |  |  |  +--E5G9Q7
+|        |  |  |  +--| (93)
+|        |  |  |     |        +--D5GXC1
+|        |  |  |     |     +--| (47)
+|        |  |  |     |     |  +--Q0QMC5
+|        |  |  |     |  +--| (80)
+|        |  |  |     |  |  |  +--H9CBU2
+|        |  |  |     |  |  +--| (38)
+|        |  |  |     |  |     +--F6KVB0
+|        |  |  |     +--| (51)
+|        |  |  |        |  +--C7DV13
+|        |  |  |        +--| (100)
+|        |  |  |           |  +--I7H0B9
+|        |  |  |           +--| (81)
+|        |  |  |              +--F6KVB3
+|        |  +--| (49)
+|        |     |  +--A0A345K4Q3
+|        |     +--| (50)
+|        |        +--H9CBJ9
+|     +--| (47)
+|     |  |        +--C7DV02
+|     |  |     +--| (57)
+|     |  |     |  +--C7DV08
+|     |  |  +--| (75)
+|     |  |  |  +--C7DV16
+|     |  +--| (65)
+|     |     |  +--H9CBQ8
+|     |     +--| (56)
+|     |        |  +--C7DV03
+|     |        +--| (82)
+|     |           +--C7DV10
+|  +--| (54)
+|  |  +--A8D4N2
++--| (28)
+|  |     +--A1XT36
+|  |  +--| (79)
+|  |  |  +--C7DV66
+|  +--| (32)
+|     +--F2XHE8
+|
+|  +--C5IHY6
++--| (94)
+   +--H9NHQ7
+
+
+Consensus tree in newick format: 
+
+(A0A060HNG6:0.0240121784,(((((K0ILE5:0.0048970982,(F4ZVM5:0.0097803490,C0KGR4:0.0393961432)79:0.0094205565)81:0.0096161165,(((D0UHH2:0.0196109373,(X5CC85:0.0202175856,C7DV39:0.0299350819)29:0.0036224908)45:0.0045646999,((((((D0UHI0:0.0279363184,((((A0A2H4L7C3:0.0056552760,(((((((((((((A0A060PQY3:0.0051004086,B2KPP7:0.0097712240)62:0.0049210434,(((((((((((H9NMI9:0.0000025259,H9NMB5:0.0000025259)4:0.0000025259,(E3UUU3:0.0050173906,(B0FNF7:0.0100293820,H9NMZ8:0.0100916603)10:0.0000025259)3:0.0000025259)2:0.0000025259,(D3GBR2:0.0050086318,H9NN07:0.0102395411)9:0.0000025259)30:0.0000025259,D5JYU7:0.0098682415)81:0.0000025259,(D5JYE8:0.0049179389,W5RRB5:0.0000025259)75:0.0049199028)8:0.0000025259,((D5JYN8:0.0049124017,(D5JYS2:0.0049351253,H9NN25:0.0050491362)77:0.0049402492)5:0.0000025259,(W5RRB0:0.0049075421,D5JYD3:0.0049817926)16:0.0000025259)1:0.0000025259,(D5JYS4:0.0049358450,W5RRB6:0.0098506732)17:0.0000025259)3:0.0000025259,(C0KGV0:0.0049110013,(W5RRB8:0.0098458156,D5JYI3:0.0098784880)30:0.0000025259)14:0.0000025259)5:0.0000025259,A0A2R6TA60:0.0000025259)5:0.0000025259,(D5JYD6:0.0099769450,D5JYD4:0.0148606858)20:0.0000025259)8:0.0000025259,D5JYJ4:0.0049176221)65:0.0007320049,(E2I8N1:0.0100222800,A5HAX6:0.0304643153)55:0.0095727939)53:0.0095899103)44:0.0050663910,C0KGP8:0.0048213864)54:0.0099412820,((((((((((((D9J261:0.0146856404,(J9ZZX0:0.0295943754,((((((B2L3B6:0.0193942945,C5WBZ9:0.0207450675)67:0.0077770121,(C5WC01:0.0192178335,V5L0A0:0.0287934591)87:0.0135822435)54:0.0050757345,V5L086:0.0497667835)28:0.0000025259,V5KZS3:0.0267151337)58:0.0093080424,C5WC03:0.0063322548)75:0.0079855704,C5WC02:0.0203502123)92:0.0150437983)72:0.0000025259)63:0.0049431231,((E2I8N6:0.0000025259,E2FKX5:0.2305638468)61:0.0079835985,(V6ATZ6:0.0000023216,B0LJW4:0.0886001795)76:0.0075512890)89:0.0137834096)51:0.0098102506,C7DV27:0.0348813272)56:0.0000021239,((B2KPQ0:0.0099548698,E0X5W8:0.0198637163)70:0.0044351034,E0X5Z1:0.0099752699)97:0.0148790822)69:0.0099206659,((((D7PVN7:0.0247708461,(((A0A7K4N0U1:0.0000022340,(D5JYV6:0.0098561353,B2XVX4:0.0297176901)99:0.0294538923)74:0.0213111068,D5JYX9:0.0300059045)94:0.0488329603,((((A7LJ01:0.0392513313,D7PVT1:0.0320031910)99:0.0381082162,A7LJ03:0.0234693077)73:0.0134965338,D0UHT8:0.0364600247)77:0.0222223533,E3UUV3:0.0344945448)80:0.0334228449)90:0.0290695433)76:0.0103390746,(A7LJ43:0.0000025259,(F6KVI4:0.0204882840,C5WC15:0.0298665735)66:0.0044322489)96:0.0249592367)52:0.0047087883,B0LJW8:0.0602640553)57:0.0051109259,(B5AMW9:0.0148719092,E0X5U8:0.0571496855)44:0.0000025259)55:0.0049562966)42:0.0048187793,L7V097:0.0298504822)38:0.0000025259,(A0A0C5CDR2:0.0175129197,K7RZR4:0.0371049853)77:0.0131692813)29:0.0048478711,A0RUM1:0.0298482650)31:0.0049499311,D9J263:0.0050672595)32:0.0049038866,((X5CFX3:0.0100760476,(((A9CT53:0.0136113636,(Q0QMD7:0.0132441451,D7PVL3:0.0313895484)67:0.0098593302)90:0.0145104842,X5D3E7:0.0253223675)64:0.0069177547,C8CK65:0.0689162231)53:0.0000025259)78:0.0100396539,Q0QMF8:0.0201796048)67:0.0047026053)22:0.0000025259,D9J260:0.0000025259)46:0.0000025259,Q0QME9:0.0251851330)52:0.0148658043)33:0.0000025259,D5JYJ6:0.0048768233)48:0.0048914220,(C5WC13:0.0248880836,F6KVI5:0.0410342631)63:0.0000025259)63:0.0099163231,C5WBZ8:0.0300214337)78:0.0049428203,J9ZZM0:0.0302664825)94:0.0195299781,((((A0A128A5A7:0.0046785409,((A0A2H1FEL8:0.0486188347,A0A1X9IFF3:0.1299711276)50:0.0000025259,A0A1X9IFF7:0.0000025259)60:0.0048009139)86:0.0111733618,A0A1X9IFF9:0.0768810617)73:0.0139418418,(J9QCS2:0.0095451357,J9QDK9:0.0409932743)82:0.0129981121)100:0.0571231694,H9NJT3:0.0118430289)98:0.0371722963)64:0.0057095319,A8D4L6:0.0348513027)52:0.0049410240,H9XP93:0.0295061517)79:0.0110472382,(H9XP86:0.0119504115,X5D1W3:0.0300656202)95:0.0217051455)96:0.0300163797,H9NJR9:0.0314475159)100:0.1136493527)61:0.0068945589,(K0A1G7:0.0947053732,((A0A2I7UGI1:0.0000021528,((((((((((A0A088MGP2:0.2645478068,(A0A088MHE2:0.0505782273,A0A088MKB6:0.0320358699)98:0.0451220301)98:0.1069710502,((A9Q6C3:0.0435227266,A0A0C1URN1:0.3134716290)40:0.0148655873,((A9QPE3:0.0103090729,A0A4Y8PHR1:0.0101539644)77:0.0120445082,(A0ABM9IEJ9:0.0000025259,A9Q6C6:0.0601398987)91:0.0209667445)99:0.0903814493)97:0.1017086212)80:0.0803594775,A0A8J2BW07:0.3725900668)100:0.1661465089,(((A0A132MT27:0.0290462176,A0A1J4N8Y6:0.1256312960)85:0.1085056806,A0AA35CNE8:0.2264594562)100:0.6625026792,(A0A1Y0CHI7:0.1564650647,(A0ABS9YRS0:0.1124921949,A0ABX2K470:0.1096940943)100:0.1608245112)100:0.3140927247)100:0.3647903683)54:0.0647782004,((((((((((E1CBX0:0.0050808216,A0A1Z4C2D7:0.0304717632)85:0.0063359981,(A0A0F3IF62:0.0400196457,((A0A8S0XK29:0.0406453145,A0ACH2UA24:0.0225596602)80:0.0225631043,((A0A1R4HEV6:0.0092575837,A0A1R4HJ02:0.0359803146)75:0.0295027940,V5DXJ0:0.0659929323)100:0.0849465455)96:0.0509680131)70:0.0220360822)77:0.0196253947,((A0ABY3C6U1:0.0372693475,A0A2S6GFZ9:0.0182119233)52:0.0094381238,A0AA43TIT8:0.0153590661)82:0.0215767892)74:0.0218792039,((((((A0AAU7NXV1:0.0186491337,V5L720:0.0734647314)89:0.0322146744,A0A177MYY3:0.0000025259)56:0.0097254306,A0ABU4ULI3:0.0146988019)52:0.0130622358,A0A975MNI7:0.0165558063)74:0.0155209787,K7T2E9:0.0973466877)80:0.0305866031,B9X0A3:0.0611624465)96:0.0245007500)78:0.0167685851,G4SZ63:0.0119235307)99:0.1231926436,((((((A0ABP1CBP5:0.0459779662,A0A1Y6D793:0.0330411496)94:0.0325998439,(A0ABN8X5P2:0.0405982666,W6JMN0:0.0080111011)98:0.0358579028)91:0.0249743169,A0A5Q0BC00:0.0988444089)54:0.0246103245,A0A8D5ANQ2:0.0711362523)49:0.0162922504,Q607G3:0.0180885534)95:0.0633191485,((D1MYY0:0.0285895105,(A0AAU9C1B2:0.0355726355,A0AAU9CBF7:0.0257179355)80:0.0211555712)46:0.0000025259,L0N069:0.0367370738)100:0.0880679686)74:0.0509222721)94:0.1142704604,((A0A1Q2SP41:0.0956506411,A0A7G1QAR7:0.1810447218)97:0.0804854731,((A0A4P7BVX1:0.0185048769,D5BWX5:0.0117021476)99:0.0518035337,(O06643:0.0200418360,Q9RAI1:0.0048653447)100:0.1096848650)45:0.0123531872)100:0.2390333534)65:0.0644875732,(A0A512E1R5:0.1739008762,((A0A1I3Z8P3:0.1167146376,A0ABZ0HNS5:0.0860335293)46:0.0432523524,(((((((A0ACH2DCT9:0.0000025259,A0A6B8M6X5:0.0098621127)64:0.0099679702,A0ABM8E5A2:0.0147156254)98:0.0201646796,A0A1W6MYV7:0.0305291998)71:0.0070870048,A0A6B8KJS9:0.0078603729)99:0.0369658458,Q50541:0.0335355930)92:0.0121043542,A0ACH3GPL0:0.0264158794)100:0.0885246201,(((A0A1W6MWI9:0.0184381806,(A0ABU7XJS5:0.0360501218,(A0ACH3GRT2:0.0141935807,A0A2U1SPV3:0.0002875861)100:0.0667782663)82:0.0381529092)42:0.0232751571,A0A6B8KFE6:0.0087245137)83:0.0393711089,(A0A6B8M8W2:0.0048773163,A0ABM8EBN5:0.0206546675)83:0.0252641776)100:0.1720233608)95:0.1329704406)94:0.1225197327)93:0.0896015092)94:0.1252403847,(A0A2T4U1K1:0.0095274752,A0A564ZNC4:0.0367606884)100:0.4495179270)27:0.0434530699,(K7STI3:0.2637009443,(((A0A1H9DRV8:0.1591678401,A0A4R7PDW9:0.1145236970)97:0.1000649450,A0A4P6X4K1:0.2940283543)95:0.1649298857,(A0A4Z0FBW3:0.2195910506,A0A4Z0F839:0.5970071696)51:0.1005570700)100:0.4712912127)62:0.1223923357)45:0.0924210103)87:0.0992171931,A0A2M8R783:0.4348899733)44:0.0407731190,(((A0A0S4LPG4:0.0291992901,A0A0S4KUL9:0.0246111486)98:0.0432952570,A0A0S4LM25:0.0278221197)100:0.3091551841,(((((A0A1H3PUN8:0.0118542132,A0A1G5SIF8:0.0701918119)86:0.0150179811,((Q04507:0.0046836321,P72066:0.0258516176)80:0.0087658860,((A0A0F7KK52:0.0179654477,A0A1I4WYX9:0.0131257571)67:0.0131706346,A0A1I4UWT2:0.0287321870)96:0.0350416196)62:0.0115427313)84:0.0227273571,A0A4Y1YMC0:0.0678455444)99:0.0674082041,((A0A1H8VK96:0.0058255373,(A0A1I0B1Q7:0.0050406592,A0A1I3YYE6:0.0000025259)100:0.0300054465)95:0.0261497371,Q9AP85:0.0215583842)88:0.0145964488)76:0.0175604103,(((A0A1I5FI55:0.0104674103,P95404:0.0409753590)67:0.0156392710,(P96951:0.0361940383,O85076:0.0214507997)66:0.0193204242)54:0.0075652130,A0A1W6SSZ9:0.0078790604)81:0.0267463624)97:0.1625987360)100:0.2640955745)52:0.0533414937,((K7SJW6:0.2096803942,K7SQ85:0.2045220526)99:0.1904732042,(A0A1C3X0K8:0.4979147397,(A0A1H9JC80:0.3150380212,A0ACG2I526:0.2068902624)95:0.2280920212)95:0.2588159480)66:0.0977866210)95:0.1651645851,(((((((A0ABU4UNK6:0.0102762948,F6K8L1:0.0189535675)64:0.0071019784,(A0A126T0Z2:0.0079738866,A0ABT1U3K5:0.0119062901)51:0.0099164588)33:0.0081030515,A0ABT1TK06:0.0000022324)100:0.0730554038,H8GK95:0.0350551714)85:0.0368068181,((A0ABY3C8B7:0.0039154901,A0A2S6H6D0:0.0300300978)99:0.0399347439,G3IS42:0.0475347550)53:0.0161998166)51:0.0102004797,((A0A1R4GZ99:0.0275192585,(F6K8L0:0.0341104118,V5BW20:0.0266522234)70:0.0109620088)91:0.0206899479,K7SQA5:0.0589467482)89:0.0268010777)34:0.0073798667,((A0A1Y6D9S6:0.0652910067,A0A975RB54:0.0940443591)96:0.0339222875,(A0A1W6MQI7:0.0351579954,(A0A9W6GWP5:0.0184990667,(A0A3M9XUB5:0.0000025259,A0A9W6GYF3:0.0148401189)56:0.0061228943)85:0.0153472001)97:0.0438891180)94:0.0477154900)100:0.1953125057)95:0.2810966247,V5DIZ5:0.0525631453)100:2.9303243592)48:0.0044218818,B0LKZ6:0.0292374267)87:0.0649770956)85:0.0763951847)67:0.0079921317,Q0QME5:0.0317057587)81:0.0122942220,B0FN00:0.0403984208)62:0.0098331571)75:0.0162583310,A0A286LUQ4:0.0495159586)40:0.0000025259,(E2FKS0:0.0147313265,H9NHL8:0.0094745505)90:0.0097478544)87:0.0145620653,D0UHS1:0.0199962935)53:0.0047408079,E5G9Q7:0.0144443092)47:0.0042102760,(((D5GXC1:0.0146250155,Q0QMC5:0.0000025259)47:0.0049696268,(H9CBU2:0.0144692857,F6KVB0:0.0249479019)38:0.0000025259)80:0.0142556458,(C7DV13:0.0350282226,(I7H0B9:0.0147722175,F6KVB3:0.0353239656)81:0.0052643209)100:0.0302185062)51:0.0093939087)93:0.0201725193)49:0.0049328834,(A0A345K4Q3:0.0148493104,H9CBJ9:0.0145074855)50:0.0000028637)49:0.0094505781)21:0.0000025259,(((C7DV02:0.0047441801,C7DV08:0.0047303642)57:0.0000025259,C7DV16:0.0241307576)75:0.0000020702,(H9CBQ8:0.0147083977,(C7DV03:0.0145113582,C7DV10:0.0391956456)82:0.0093912278)56:0.0095422792)65:0.0191280011)47:0.0045892338,A8D4N2:0.0251182952)54:0.0049193848,((A1XT36:0.0100265640,C7DV66:0.0241692811)79:0.0094969580,F2XHE8:0.0394617990)32:0.0046965888)28:0.0000025259,(C5IHY6:0.0442462060,H9NHQ7:0.0316368581)94:0.0359128036);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t tree_lg/cummoA.treefile -m "LG+FO{0.120035,0.031737,0.0228108,0.0205771,0.0212177,0.0230777,0.0250487,0.0986832,0.0137979,0.0735985,0.109612,0.0178819,0.0414322,0.0583408,0.03338,0.0631663,0.0693888,0.0302361,0.0259941,0.0999842}+G4{2.00429}" --length 196
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s cummo_A.trim.alnfaa --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s cummo_A.trim.alnfaa --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Wed Nov 18 15:24:13 2026
+Total CPU time used: 14103.82873 seconds (3h:55m:3s)
+Total wall-clock time used: 1796.274782 seconds (0h:29m:56s)
+

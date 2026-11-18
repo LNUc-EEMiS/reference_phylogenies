@@ -1,0 +1,16 @@
+clan	tips	UFBoot
+archaeal_AMO	135	100
+bacterial_CuMMO	123	100
+bacterial_CuMMO;betaproteobacterial_AOB_and_comammox_AMO	20	100
+bacterial_CuMMO;betaproteobacterial_AOB_and_comammox_AMO;betaproteobacterial_AOB	17	97
+bacterial_CuMMO;betaproteobacterial_AOB_and_comammox_AMO;comammox_Nitrospira	3	100
+bacterial_CuMMO;gammaproteobacterial_AOB_AMO	6	100
+bacterial_CuMMO;Methylococcales_pMMO	30	94
+bacterial_CuMMO;Methylocystaceae_and_Beijerinckiaceae_pMMO	16	94
+bacterial_CuMMO;pxmA_clan_pMMO_paralogs	19	100
+bacterial_CuMMO;Verrucomicrobiota_pMMO	10	100
+bacterial_CuMMO;Methylomirabilota_pMMO	2	100
+bacterial_CuMMO;distant_family_members;Pseudomonadota_clan1	5	100
+bacterial_CuMMO;distant_family_members;Pseudomonadota_clan2	3	95
+bacterial_CuMMO;distant_family_members;environmental_clan	2	99
+bacterial_CuMMO;distant_family_members;Actinomycetota_and_Bacillota	6	100

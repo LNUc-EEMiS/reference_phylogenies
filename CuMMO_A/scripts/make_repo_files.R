@@ -1,0 +1,10 @@
+suppressMessages({library(readr); library(dplyr); library(stringr)})
+setwd("/data/users/dl/cummo_trees")
+R <- "refrepo"; dir.create(file.path(R, "CuMMO_A"), showWarnings = FALSE)
+r <- read_rds("seqs/reps_labelled.rds")
+r$lineage_label <- r$label
+r$label <- str_replace(r$label, "^(AMO_archaeal|AMO_bacterial|pMMO|hydrocarbon_MO|other_PF02461)(;|$)", "CuMMO_A;\\1\\2") %>% str_remove(";$")
+r$label <- str_replace(r$label, "^CuMMO_A;(AMO_archaeal);(.*)$", "CuMMO_A;\\1;\\2")
+write_tsv(r %>% transmute(acc, label), file.path(R, "CuMMO_A.classification.tsv"), col_names = FALSE)
+write_tsv(r %>% transmute(accession = acc, classification = label, lineage_label, reviewed = rev, evidence = pe, organism = org, protein_name = pname, gene_names = gene, length = len, cluster_size = csize, source_pfam = pfam, lineage = lin) , file.path(R, "CuMMO_A/CuMMO_A.taxonomy.tsv"))
+print(count(r, label))
