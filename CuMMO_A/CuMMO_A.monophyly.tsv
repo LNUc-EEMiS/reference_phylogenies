@@ -1,0 +1,31 @@
+archaeal split found; support 100
+label	n	n_under_mrca	support	purity
+AMO_archaeal	135	135	48	monophyletic
+AMO_archaeal;Cenarchaeales 1 - - single
+AMO_archaeal;MarineGroupI 1 - - single
+AMO_archaeal;Nitrosocaldales	2	135	48	not monophyletic (133 foreign)
+AMO_archaeal;Nitrosopumilales	4	47	46	not monophyletic (43 foreign)
+AMO_archaeal;Nitrososphaerales	3	132	67	not monophyletic (129 foreign)
+AMO_archaeal;Nitrososphaerota_unspecified	13	132	67	not monophyletic (119 foreign)
+AMO_archaeal;Nitrosotaleales	2	4	86	not monophyletic (2 foreign)
+AMO_archaeal;Nitrosotenuis 1 - - single
+AMO_archaeal;unspecified	108	133	85	not monophyletic (25 foreign)
+AMO_bacterial	26	98	52	not monophyletic (72 foreign)
+AMO_bacterial;AOB_Betaproteobacteria	17	17	97	monophyletic
+AMO_bacterial;AOB_Gammaproteobacteria	6	6	100	monophyletic
+AMO_bacterial;comammox_Nitrospira	3	3	100	monophyletic
+hydrocarbon_MO 1 - - single
+hydrocarbon_MO;Actinomycetota 1 - - single
+other_PF02461	19	103	95	not monophyletic (84 foreign)
+other_PF02461;Actinomycetota	4	6	100	not monophyletic (2 foreign)
+other_PF02461;Bacillota 1 - - single
+other_PF02461;Pseudomonadota	10	103	95	not monophyletic (93 foreign)
+other_PF02461;other	4	103	95	not monophyletic (99 foreign)
+pMMO	77	123	100	not monophyletic (46 foreign)
+pMMO;Methylomirabilota	2	2	100	monophyletic
+pMMO;Verrucomicrobiota	10	10	100	monophyletic
+pMMO;pxmA	3	13	34	not monophyletic (10 foreign)
+pMMO;typeII	20	122	95	not monophyletic (102 foreign)
+pMMO;typeII;Beijerinckiaceae	2	16	94	not monophyletic (14 foreign)
+pMMO;typeII;Methylocystaceae	18	122	95	not monophyletic (104 foreign)
+pMMO;typeI_Methylococcales	42	123	100	not monophyletic (81 foreign)
