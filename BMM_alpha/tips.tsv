@@ -7,7 +7,7 @@ A0A0C5J8C4	unreviewed	PG1C_06390	Toluene monooxygenase	Rugosibacter aromaticivor
 A0A0C5J946	unreviewed	PG1C_06880	Toluene monooxygenase	Rugosibacter aromaticivorans	500	group1_toluene_monooxygenase;Tmo_Tbu_Tou_toluene_xylene	
 A0A0C5JLK5	unreviewed	PG1C_06895	Phenol 2-monooxygenase	Rugosibacter aromaticivorans	516	group2_phenol_monooxygenase	
 A0A0K1PLV7	unreviewed	AKJ09_01040	Toluene-4-monooxygenase, subunit TmoA	Labilithrix luteola	509	unassigned	
-A0A0P1LT57	unreviewed	JGI8_00876	Phenol hydroxylase P3 protein	Candidatus Kryptonium thompsonii	512	unassigned	
+A0A0P1LT57	unreviewed	JGI8_00876	Phenol hydroxylase P3 protein	Candidatus Kryptonium thompsonii	512	group2_phenol_monooxygenase	
 A0A0U5BC15	unreviewed	tmoA	propane 2-monooxygenase (EC 1.14.13.227)	Aneurinibacillus soli	499	unassigned	
 A0A0X1T4H1	unreviewed	AWM79_17550	Phenol 2-monooxygenase	Pseudomonas agarici	518	group2_phenol_monooxygenase	
 A0A132MM65	unreviewed	LI90_586	propane 2-monooxygenase (EC 1.14.13.227)	Carbonactinospora thermoautotrophica	504	group1_toluene_monooxygenase	
@@ -16,7 +16,7 @@ A0A132MQ26	unreviewed	LI90_1607	propane 2-monooxygenase (EC 1.14.13.227)	Carbona
 A0A133XFW7	unreviewed	AT959_18125	Phenol 2-monooxygenase	Dechloromonas denitrificans	514	group2_phenol_monooxygenase	
 A0A1E3R5X4	unreviewed	BHQ17_24115	propane 2-monooxygenase (EC 1.14.13.227)	Mycolicibacterium holsaticum	533	group3_soluble_methane_and_butane_monooxygenase	
 A0A1E8FEV5	unreviewed	BFC17_20900	Phenol 2-monooxygenase	Marisediminitalea lipolytica	504	group2_phenol_monooxygenase	
-A0A1G6GEQ8	unreviewed	GA0111570_102278	propane 2-monooxygenase (EC 1.14.13.227)	Raineyella antarctica	542	unassigned	
+A0A1G6GEQ8	unreviewed	GA0111570_102278	propane 2-monooxygenase (EC 1.14.13.227)	Raineyella antarctica	542	group2_phenol_monooxygenase	
 A0A1G6GHR1	unreviewed	GA0111570_103301	propane 2-monooxygenase (EC 1.14.13.227)	Raineyella antarctica	522	group2_phenol_monooxygenase	
 A0A1H2QI56	unreviewed	SAMN05216215_100194	propane 2-monooxygenase (EC 1.14.13.227)	Saccharopolyspora shandongensis	498	group1_toluene_monooxygenase	
 A0A1H3UQ35	unreviewed	SAMN05421684_7780	propane 2-monooxygenase (EC 1.14.13.227)	Asanoa ishikariensis	598	group5_propane2_and_tetrahydrofuran_monooxygenase	
@@ -27,7 +27,7 @@ A0A1H9BIX4	unreviewed	SAMN04488038_102105	Phenol 2-monooxygenase P3 subunit	Soli
 A0A1H9BJ90	unreviewed	SAMN04488038_102117	Toluene 4-monooxygenase protein A	Solimonas aquatica	499	group1_toluene_monooxygenase;Tmo_Tbu_Tou_toluene_xylene	
 A0A1I3MZS9	unreviewed	SAMN05421852_103259	propane 2-monooxygenase (EC 1.14.13.227)	Thermoflavimicrobium dichotomicum	501	group1_toluene_monooxygenase	
 A0A1I3RBN7	unreviewed	SAMN05216429_102328	Phenol 2-monooxygenase P3 subunit	Marinobacter persicus	521	group2_phenol_monooxygenase	
-A0A1M4V2P3	unreviewed	SAMN02745225_01178	propane 2-monooxygenase (EC 1.14.13.227)	Ferrithrix thermotolerans DSM 19514	502	unassigned	
+A0A1M4V2P3	unreviewed	SAMN02745225_01178	propane 2-monooxygenase (EC 1.14.13.227)	Ferrithrix thermotolerans DSM 19514	502	group2_phenol_monooxygenase	
 A0A1M6PNX4	unreviewed	SAMN05443637_102379	propane 2-monooxygenase (EC 1.14.13.227)	Pseudonocardia thermophila	491	group1_toluene_monooxygenase;Xamo_Iso_propene_isoprene	
 A0A1R4HA30	unreviewed	mmoX	Methane monooxygenase component A alpha chain (EC 1.14.13.25)	Crenothrix polyspora	527	group3_soluble_methane_and_butane_monooxygenase	
 A0A1T4WDS0	unreviewed	SAMN02745130_01512	Phenol hydroxylase P3 protein	Thiothrix eikelboomii	514	group2_phenol_monooxygenase	
@@ -72,11 +72,11 @@ A0A4S4AMT7	unreviewed	E6O51_14315	YHS domain-containing protein	Pseudothauera rh
 A0A4U8Z7S5	unreviewed	prmA	Propane monooxygenase (Hydroxylase component) alpha subunit (EC 1.14.13.227)	Methylocella tundrae	552	group5_propane2_and_tetrahydrofuran_monooxygenase	
 A0A4Y5QZM8	unreviewed	thmXA	propane 2-monooxygenase (EC 1.14.13.227)	uncultured Pseudonocardia sp	545	group5_propane2_and_tetrahydrofuran_monooxygenase	
 A0A501PKL8	unreviewed	FIV46_07835	YHS domain-containing protein	Emcibacter nanhaiensis	499	group1_toluene_monooxygenase	
-A0A501PLX4	unreviewed	FIV46_08625	YHS domain-containing protein	Emcibacter nanhaiensis	507	unassigned	
-A0A511D5H2	unreviewed	mphN	propane 2-monooxygenase (EC 1.14.13.227)	Pseudonocardia asaccharolytica DSM 44247 = NBRC 16224	505	unassigned	
+A0A501PLX4	unreviewed	FIV46_08625	YHS domain-containing protein	Emcibacter nanhaiensis	507	group2_phenol_monooxygenase	
+A0A511D5H2	unreviewed	mphN	propane 2-monooxygenase (EC 1.14.13.227)	Pseudonocardia asaccharolytica DSM 44247 = NBRC 16224	505	group2_phenol_monooxygenase	
 A0A511DK53	unreviewed	mphN	propane 2-monooxygenase (EC 1.14.13.227)	Pseudonocardia sulfidoxydans NBRC 16205	504	unassigned	
 A0A5B0BHI0	unreviewed	FGF04_05950	propane 2-monooxygenase (EC 1.14.13.227)	Streptomyces apricus	505	group1_toluene_monooxygenase	
-A0A5C4JNQ8	unreviewed	FF124_14890	YHS domain-containing protein	Martelella lutilitoris	504	unassigned	
+A0A5C4JNQ8	unreviewed	FF124_14890	YHS domain-containing protein	Martelella lutilitoris	504	group2_phenol_monooxygenase	
 A0A5C8P9A4	unreviewed	FHP25_35540	YHS domain-containing protein	Vineibacter terrae	525	group2_phenol_monooxygenase	
 A0A5E4W389	unreviewed	PAQ31011_02981	Toluene monooxygenase	Pandoraea aquatica	501	group1_toluene_monooxygenase;Tmo_Tbu_Tou_toluene_xylene	
 A0A5E4WP81	unreviewed	PAQ31011_03356	Toluene monooxygenase	Pandoraea aquatica	501	group1_toluene_monooxygenase;Tmo_Tbu_Tou_toluene_xylene	
@@ -96,8 +96,8 @@ A0A7W2ARB6	unreviewed	H2C83_03510	propane 2-monooxygenase (EC 1.14.13.227)	Therm
 A0A7X0HR00	unreviewed	HNR53_000760	propane 2-monooxygenase (EC 1.14.13.227)	Bacillus benzoevorans	497	unassigned	
 A0A7X0PJW3	unreviewed	HNP48_006012	Phenol hydroxylase P3 protein (EC 1.14.13.-)	Acidovorax soli	532	group2_phenol_monooxygenase	
 A0A839HKA0	unreviewed	H4F90_14785	YHS domain-containing protein	Aquariibacter albus	541	group2_phenol_monooxygenase	
-A0A839NBI5	unreviewed	FHU39_001936	propane 2-monooxygenase (EC 1.14.13.227)	Flexivirga oryzae	502	unassigned	
-A0A840VB78	unreviewed	HNP71_001291	Phenol hydroxylase P3 protein (EC 1.14.13.-)	Acidocella aromatica	504	unassigned	
+A0A839NBI5	unreviewed	FHU39_001936	propane 2-monooxygenase (EC 1.14.13.227)	Flexivirga oryzae	502	group2_phenol_monooxygenase	
+A0A840VB78	unreviewed	HNP71_001291	Phenol hydroxylase P3 protein (EC 1.14.13.-)	Acidocella aromatica	504	group2_phenol_monooxygenase	
 A0A844SQ76	unreviewed	GPL21_05710	Methane monooxygenase	Bradyrhizobium pachyrhizi	567	group5_propane2_and_tetrahydrofuran_monooxygenase	
 A0A848G8S0	unreviewed	HHL15_16195	YHS domain-containing protein	Zoogloea dura	527	group2_phenol_monooxygenase	
 A0A8B6M6Y0	unreviewed	mmoX	Soluble methane monooxygenase, component A alpha chain (EC 1.14.13.25)	Methylocella tundrae	526	group3_soluble_methane_and_butane_monooxygenase	
@@ -108,12 +108,12 @@ A0A9E5JQE3	unreviewed	G8770_04230	YHS domain-containing protein	Pseudomaricurvus
 A0A9E6XZA3	unreviewed	tmoA	propane 2-monooxygenase (EC 1.14.13.227)	Capillimicrobium parvum	503	group1_toluene_monooxygenase	
 A0ABD6CQW2	unreviewed	ACFSBX_14605	YHS domain-containing protein	Halobellus rarus	514	unassigned	
 A0ABM8NMW8	unreviewed	xamoA	Alkene monooxygenase system, oxygenase component subunit alpha (EC 1.14.13.69)	Paraburkholderia hiiakae	501	group1_toluene_monooxygenase;Xamo_Iso_propene_isoprene	
-A0ABN1HXD4	unreviewed	GCM10009535_59630	propane 2-monooxygenase (EC 1.14.13.227)	Streptomyces thermocarboxydovorans	510	unassigned	
+A0ABN1HXD4	unreviewed	GCM10009535_59630	propane 2-monooxygenase (EC 1.14.13.227)	Streptomyces thermocarboxydovorans	510	group2_phenol_monooxygenase	
 A0ABN1URX1	unreviewed	GCM10009606_45850	propane 2-monooxygenase (EC 1.14.13.227)	Nocardioides aquiterrae	518	group1_toluene_monooxygenase	
 A0ABN6D5P8	unreviewed	MIZ03_1014	Toluene-4-monooxygenase system, hydroxylase component subunit alpha	Rhodoferax lithotrophicus	516	group2_phenol_monooxygenase	
 A0ABP1C471	unreviewed	mmoX	Methane monooxygenase component A alpha chain (EC 1.14.13.25)	Candidatus Methylocalor cossyra	529	group3_soluble_methane_and_butane_monooxygenase	
 A0ABP8F6N1	unreviewed	GCM10023161_47630	propane 2-monooxygenase (EC 1.14.13.227)	Mycobacterium paraffinicum	531	group3_soluble_methane_and_butane_monooxygenase	
-A0ABP8KKZ8	unreviewed	GCM10023168_26970	propane 2-monooxygenase (EC 1.14.13.227)	Fodinibacter luteus	521	unassigned	
+A0ABP8KKZ8	unreviewed	GCM10023168_26970	propane 2-monooxygenase (EC 1.14.13.227)	Fodinibacter luteus	521	group2_phenol_monooxygenase	
 A0ABP8S115	unreviewed	GCM10023175_56090	propane 2-monooxygenase (EC 1.14.13.227)	Pseudonocardia xishanensis	505	group1_toluene_monooxygenase	
 A0ABQ1F113	unreviewed	mphN	Phenol 2-monooxygenase	Sphingobium fuliginis (strain ATCC 27551)	518	group2_phenol_monooxygenase	
 A0ABS8JXK0	unreviewed	LJ656_18755	Aromatic/alkene/methane monooxygenase hydroxylase/oxygenase subunit alpha	Paraburkholderia sejongensis	547	group2_phenol_monooxygenase	
@@ -124,11 +124,11 @@ A0ABT1PN43	unreviewed	NGB36_00315	propane 2-monooxygenase (EC 1.14.13.227)	Strep
 A0ABT3T1U1	unreviewed	EYC87_18085	Toluene monooxygenase	Candidatus Seongchinamella marina	501	group1_toluene_monooxygenase;Tmo_Tbu_Tou_toluene_xylene	
 A0ABT6GKQ4	unreviewed	isoA	propane 2-monooxygenase (EC 1.14.13.227)	Mycolicibacterium gadium (Mycobacterium gadium)	505	group1_toluene_monooxygenase;Xamo_Iso_propene_isoprene	
 A0ABT6GKR4	unreviewed	MNO81_04075	propane 2-monooxygenase (EC 1.14.13.227)	Mycolicibacterium gadium (Mycobacterium gadium)	513	group6_propane1_monooxygenase	G6
-A0ABT6GZT8	unreviewed	MNO81_28265	propane 2-monooxygenase (EC 1.14.13.227)	Mycolicibacterium gadium (Mycobacterium gadium)	500	unassigned	
+A0ABT6GZT8	unreviewed	MNO81_28265	propane 2-monooxygenase (EC 1.14.13.227)	Mycolicibacterium gadium (Mycobacterium gadium)	500	group2_phenol_monooxygenase	
 A0ABU0F6Y5	unreviewed	J3R73_000160	Toluene monooxygenase system protein A (EC 1.14.13.-)	Labrys monachus	496	group1_toluene_monooxygenase	
-A0ABU0LF99	unreviewed	QOZ94_002625	Phenol hydroxylase P3 protein (EC 1.14.13.-)	Xanthobacter agilis	521	unassigned	
+A0ABU0LF99	unreviewed	QOZ94_002625	Phenol hydroxylase P3 protein (EC 1.14.13.-)	Xanthobacter agilis	521	group2_phenol_monooxygenase	
 A0ABU0LJ25	unreviewed	QOZ94_003957	Toluene monooxygenase system protein A (EC 1.14.13.-)	Xanthobacter agilis	540	group1_toluene_monooxygenase;Tmo_Tbu_Tou_toluene_xylene	
-A0ABU5XIV8	unreviewed	K6T79_13820	propane 2-monooxygenase (EC 1.14.13.227)	[Mycobacterium] crassicus	501	unassigned	
+A0ABU5XIV8	unreviewed	K6T79_13820	propane 2-monooxygenase (EC 1.14.13.227)	[Mycobacterium] crassicus	501	group2_phenol_monooxygenase	
 A0ABU5ZCY5	unreviewed	VF724_00375	propane 2-monooxygenase (EC 1.14.13.227)	Ferviditalea candida	553	group5_propane2_and_tetrahydrofuran_monooxygenase	
 A0ABU7LIY7	unreviewed	Q7514_28825	propane 2-monooxygenase (EC 1.14.13.227)	Rhodococcus artemisiae	522	group6_propane1_monooxygenase	
 A0ABU9BHR2	unreviewed	AACH11_21885	YHS domain-containing protein	Pseudaquabacterium rugosum	562	group2_phenol_monooxygenase	
@@ -137,15 +137,15 @@ A0ABV7L1W5	unreviewed	ACFOGJ_14565	Uncharacterized protein	Marinibaculum pumilum
 A0ABW0MGP3	unreviewed	ACFPQ5_02675	Aromatic/alkene/methane monooxygenase hydroxylase/oxygenase subunit alpha	Massilia suwonensis	505	group2_phenol_monooxygenase	
 A0ABW3V952	unreviewed	ACFQ34_00035	propane 2-monooxygenase (EC 1.14.13.227)	Pseudonocardia benzenivorans	505	group1_toluene_monooxygenase	
 A0ABW3VU16	unreviewed	ACFQ34_31455	propane 2-monooxygenase (EC 1.14.13.227)	Pseudonocardia benzenivorans	508	group1_toluene_monooxygenase;Xamo_Iso_propene_isoprene	
-A0ABW4NGT1	unreviewed	ACFSC3_13135	Aromatic/alkene/methane monooxygenase hydroxylase/oxygenase subunit alpha	Sphingomonas floccifaciens	514	unassigned	
+A0ABW4NGT1	unreviewed	ACFSC3_13135	Aromatic/alkene/methane monooxygenase hydroxylase/oxygenase subunit alpha	Sphingomonas floccifaciens	514	group2_phenol_monooxygenase	
 A0ABX6N4C8	unreviewed	HKT17_03890	YHS domain-containing protein	Limnobacter profundi	513	group2_phenol_monooxygenase	
 A0ABX9VZQ0	unreviewed	D0911_18675	Toluene monooxygenase	Zhongshania marina	501	group1_toluene_monooxygenase;Tmo_Tbu_Tou_toluene_xylene	
 A0ABY2BGC6	unreviewed	EV644_11073	propane 2-monooxygenase (EC 1.14.13.227)	Kribbella orskensis	499	group4_alkene_monooxygenase	
 A0ABY4QMB5	unreviewed	M5I08_04105	propane 2-monooxygenase (EC 1.14.13.227)	Candidatus Mycobacterium methanotrophicum	530	group3_soluble_methane_and_butane_monooxygenase	
 A0ABY5DT12	unreviewed	NBH00_21790	propane 2-monooxygenase (EC 1.14.13.227)	Paraconexibacter antarcticus	553	group5_propane2_and_tetrahydrofuran_monooxygenase	
 A0ABY5E6P7	unreviewed	NJU99_01605	Aromatic/alkene/methane monooxygenase hydroxylase/oxygenase subunit alpha	Arcobacter roscoffensis	506	group2_phenol_monooxygenase	
-A0ABZ2FGU3	unreviewed	N5P18_06675	propane 2-monooxygenase (EC 1.14.13.227)	Janibacter terrae	524	unassigned	
-A0ABZ3FMU2	unreviewed	AADG42_08645	propane 2-monooxygenase (EC 1.14.13.227)	Ammonicoccus fulvus	501	unassigned	
+A0ABZ2FGU3	unreviewed	N5P18_06675	propane 2-monooxygenase (EC 1.14.13.227)	Janibacter terrae	524	group2_phenol_monooxygenase	
+A0ABZ3FMU2	unreviewed	AADG42_08645	propane 2-monooxygenase (EC 1.14.13.227)	Ammonicoccus fulvus	501	group2_phenol_monooxygenase	
 A0ACA8ZC85	unreviewed	tmoA	propane 2-monooxygenase (EC 1.14.13.227)	Kyrpidia spormannii	494	unassigned	
 A0ACH4G0R2	unreviewed	ACNQFN_16280	Aromatic/alkene/methane monooxygenase hydroxylase/oxygenase subunit alpha	Thauera butanivorans	517	group2_phenol_monooxygenase	
 A0QTU8	reviewed	mimA	Propane 2-monooxygenase, hydroxylase component large subunit (EC 1.14.13.227) (A	Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155) (Mycobacterium smegmatis)	542	group5_propane2_and_tetrahydrofuran_monooxygenase	G5
@@ -161,7 +161,7 @@ E1CBX4	unreviewed	mmoX	Soluble methane monooxygenase hydroxylase component alpha
 E9RFS9	reviewed	mimA	Propane 2-monooxygenase, hydroxylase component large subunit (EC 1.14.13.227) (A	Mycolicibacterium goodii (Mycobacterium goodii)	542	group5_propane2_and_tetrahydrofuran_monooxygenase	G5
 F3L0J3	unreviewed	IMCC3088_929	Methane/phenol/toluene hydroxylase:YHS	Aequoribacter fuscus	501	group2_phenol_monooxygenase	
 F5RH91	unreviewed	METUNv1_03686	Phenol hydroxylase P3 protein	Methyloversatilis universalis (strain ATCC BAA-1314 / DSM 25237 / JCM 13912 / CCUG 52030 / FAM5)	517	group2_phenol_monooxygenase	
-G7GLX0	unreviewed	GOAMR_20_01430	propane 2-monooxygenase (EC 1.14.13.227)	Gordonia amarae NBRC 15530	521	unassigned	
+G7GLX0	unreviewed	GOAMR_20_01430	propane 2-monooxygenase (EC 1.14.13.227)	Gordonia amarae NBRC 15530	521	group2_phenol_monooxygenase	
 G8U0C2	unreviewed	Sulac_3004	propane 2-monooxygenase (EC 1.14.13.227)	Sulfobacillus acidophilus (strain ATCC 700253 / DSM 10332 / NAL)	497	unassigned	
 H0E7Y0	unreviewed	PAI11_29370	propane 2-monooxygenase (EC 1.14.13.227)	Patulibacter medicamentivorans	579	group5_propane2_and_tetrahydrofuran_monooxygenase	
 J7H9I8	unreviewed		Phenol hydroxylase component 3	Arhodomonas sp. Seminole	513	group2_phenol_monooxygenase	

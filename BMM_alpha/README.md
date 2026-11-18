@@ -43,12 +43,12 @@ A label is given to the clade (the smallest clade in the rooted tree) that conta
 | `group1_toluene_monooxygenase;Tmo_Tbu_Tou_toluene_xylene` | | Q00456, Q51939, Q6IV66 | 88 | 24 |
 | `group1_toluene_monooxygenase;likely_member` | 1, outside the exemplar clade | 8 tips with no characterised member that lie inside the next supported clade around group 1 (UFBoot 100, 63 tips, long stem): *Pseudonocardia* A0A511DK53, three Bacillota (A0A7X0HR00, A0ACA8ZC85, G8U0C2), *Halobellus* A0ABD6CQW2, *Labilithrix* A0A0K1PLV7 (annotated TmoA), *Mycolicibacterium* A0A7I7X865, *Streptomyces* A0ABT1PN43 | 100 (clade of 63) | 8 |
 | `group1_toluene_monooxygenase;Xamo_Iso_propene_isoprene` | 1, subgroup with propene and isoprene | O87082, XamoA of *Paraburkholderia hiiakae* | 97 | 11 |
-| `group2_phenol_monooxygenase` | 2, phenol MOs | DmpN *Pseudomonas* CF600 (P19732), TomA3 *B. cepacia* G4 (Q8VSV8), PhyC *C. metallidurans* (Q1LMG3), PheN (Q84AQ2), PhcN and AphN *Comamonas* (Q9S147, Q9ZNP4) | 68 | 63 |
+| `group2_phenol_monooxygenase` | 2, phenol MOs | DmpN *Pseudomonas* CF600 (P19732), TomA3 *B. cepacia* G4 (Q8VSV8), PhyC *C. metallidurans* (Q1LMG3), PheN (Q84AQ2), PhcN and AphN *Comamonas* (Q9S147, Q9ZNP4) | 68 | 80 |
 | `group3_soluble_methane_and_butane_monooxygenase` | 3, sMMO and relatives | MmoX of *M. capsulatus* and *M. trichosporium* (P22869, P27353), BmoX of *T. butanivorans* and *B. petroleovorans* (Q8KQF0, Q5VJ90) | 100 | 19 |
 | `group4_alkene_monooxygenase` | 4, alkene MOs | EtnC (Q6XBI6), AmoC of Halieaceae PE-TB08W (A0A3G9E9D5) | 100 | 7 |
 | `group5_propane2_and_tetrahydrofuran_monooxygenase` | 5, propane-2-MO and THF MO | PrmA of *Gordonia* TY-5 and *R. jostii* RHA1 (Q768T5, Q0SJK9), MimA (A0QTU8, E9RFS9), ThmA of *Pseudonocardia tetrahydrofuranoxydans* (Q9F3V6) | 100 | 18 |
 | `group6_propane1_monooxygenase` | 6, propane-1-MO | *M. gadium* (A0ABT6GKR4) and *Mycobacterium* TY-6 (Q08KF2), organism-level assignment only | 99 | 7 |
-| `unassigned` | | | | 27 |
+| `unassigned` | | | | 10 |
 
 Every group is monophyletic by construction (the clade is the smallest that holds its exemplars), and no exemplar of another group falls inside any of them.
 Support is high for groups 3 to 6 and the two subgroups of group 1, and weak for group 2 (UFBoot 68).
@@ -75,3 +75,5 @@ Two assignments were added by hand after looking at the tree (the sister clades 
 - `group4_alkene_monooxygenase` also holds *Mycolicibacter engbaekii* A0A1X1U053 (annotated propane 2-monooxygenase), the single tip left out of the alkene clade (UFBoot 100 for the seven tips; long branch 0.48).
 
 Names of the groups in full: group 6 is the propane 1-monooxygenase (terminal oxidation of propane; Yang et al. group 6), and group 5 the propane 2-monooxygenase together with the tetrahydrofuran monooxygenase (subterminal oxidation).
+
+Group 2 (`group2_phenol_monooxygenase`) was extended by hand with 17 tips that had been left outside the exemplar clade; the list of 80 phenol monooxygenase tips was checked by the supervisor against the tree (annotations and position). The group now has 80 tips and is not the smallest clade holding its exemplars, and its UFBoot value (68) refers to the exemplar clade.
