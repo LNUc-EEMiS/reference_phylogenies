@@ -1,5 +1,5 @@
 import dendropy, sys, csv, pickle
-T = dendropy.Tree.get(path="/data/users/dl/cummo_trees/tree/cummoA.treefile", schema="newick", preserve_underscores=True)
+T = dendropy.Tree.get(path=sys.argv[1], schema="newick", preserve_underscores=True)
 lab = {}
 for row in csv.DictReader(open("/data/users/dl/cummo_trees/seqs/reps_labels.tsv"), delimiter="\t"):
     lab[row["acc"]] = row
@@ -17,7 +17,7 @@ if best is None:
     print("archaea not monophyletic on any edge"); sys.exit()
 print("archaeal split found; support", best.label)
 T.reroot_at_edge(best.edge, update_bipartitions=True)
-T.write(path="/data/users/dl/cummo_trees/tree/cummoA.rooted.newick", schema="newick", suppress_rooting=True)
+T.write(path=sys.argv[2], schema="newick", suppress_rooting=True)
 T.is_rooted = True
 # monophyly of each label (at level 2 and 1)
 groups = {}

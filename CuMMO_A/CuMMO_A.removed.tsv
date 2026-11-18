@@ -1,0 +1,4 @@
+accession	organism	protein_name_in_UniProt	length	branch_length_in_previous_tree	reason
+A0A7D5R6V2	Nitrosopumilus ureiphilus	HTH arsR-type domain-containing protein (locus-tag gene name C5F50_*)	206	2.25	29% identical to the N. maritimus amoA, a locus-tag name instead of amoA, probably not an amoA; the longest branch of the previous tree
+A9Q6C9	Candidatus Methylacidiphilum fumariolicum	Methane monooxygenase subunit beta (gene pmoA3)	249	0.938	the second longest branch of the previous tree (Verrucomicrobiota pMMO)
+A5HAX7	uncultured crenarchaeote	Putative ammonia monooxygenase (gene amoA)	212	0.574	the third longest branch of the previous tree (archaeal environmental sequence)
