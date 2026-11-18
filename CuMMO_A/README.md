@@ -1,0 +1,60 @@
+### Methods
+
+Draft, 2026-11-18, built with Claude Code (Daniel Lundin supervising); the tree has not yet been used for placement.
+The target is the A subunit of the copper membrane-bound monooxygenases (the 27 kDa subunit: `pmoA` of pMMO, `amoA` of bacterial and archaeal AMO, comammox *Nitrospira*, and relatives).
+Beware the UniProt names: Swiss-Prot calls this subunit "alpha" for *N. europaea* AmoA (Q04507) and "beta" for *M. capsulatus* PmoA (Q607G3); the 45 kDa subunit (PmoB/AmoB, PF04744) is not part of this tree.
+
+**Reference set.**
+261 prokaryotic proteins from UniProt (queried 2026-11-18 over the REST API, 12,442 entries before filtering) that carry Pfam PF02461 (AMO, bacterial) or PF12942 (Archaeal_AmoA) in their UniProt cross-references.
+Entries were removed if eukaryotic, viral or metagenome-derived, if bacterial and flagged fragment or shorter than 220 aa or longer than 310 aa, or if archaeal and outside 195 to 235 aa (archaeal AmoA is about 215 aa and almost all UniProt entries are flagged fragments of environmental amplicons, so the flag was not used for them).
+Entries named "PmoA-like" (Pfam PF14100), "Ammonia monooxygenase gamma subunit" (PF02167, cytochrome c1 with a wrong name) and PmoC/AmoC (PF04896) were excluded because they lack PF02461 and PF12942; they are a distinct family (they get no hit from the profile at E = 1000).
+The 2,985 entries left were clustered with MMseqs2 (`--min-seq-id` 0.95 for archaea, 0.9 for bacteria, 0.97 for the named, non-environmental entries of the target groups, `-c 0.8 --cov-mode 1`); the representative of a cluster is the member with the best evidence (Swiss-Prot, then a named source organism rather than an environmental sample, then protein or transcript evidence).
+Swiss-Prot entries and the three entries with the gene name `pxmA` (F6K8L0, F6K8L1, K7SQA5; fragments of 179 to 197 aa, kept because they are the only pxmA-named proteins) are always kept.
+Characterised seeds (Swiss-Prot or evidence at protein level): Q04507, A0A1H3PUN8, A0A1I5FI55 (*Nitrosomonas*/*Nitrosospira* AmoA), Q607G3, G4SZ63, Q50541 (PmoA of *Methylococcus*, *Methylotuvimicrobium*, *Methylosinus*).
+No archaeal AmoA has protein-level evidence or a Swiss-Prot entry in UniProt; 121 of the 137 archaeal tips are environmental amplicon sequences ("uncultured crenarchaeote" and similar) with no lineage below Archaea or Nitrososphaerota.
+Butane monooxygenases of *Thauera* and *Brachymonas* (BmoX, about 530 aa) are the soluble diiron type, not CuMMO, and are not in the set; the only tip named hydrocarbon monooxygenase is A0ABX2K470 (*Mycolicibacterium sphagni*, labelled `hydrocarbon_MO;Actinomycetota`), and the hydrocarbon-named entries from marine metagenomes were excluded as metagenome-derived.
+No USC-alpha or USC-gamma sequence could be identified from UniProt names.
+Files: `CuMMO_A.faa` (sequences), `CuMMO_A.taxonomy.tsv` (organism, lineage, protein name, evidence, cluster size, label of each tip).
+
+**Alignment and tree.**
+MAFFT 7 L-INS-i (`mafft --localpair --maxiterate 1000`; `CuMMO_A.linsi.untrimmed.alnfaa`, 398 columns), trimmed with BMGE (`-t AA -m BLOSUM30 -g 0.2`, the default entropy cut-off) to 192 columns (`CuMMO_A.alnfaa`, `CuMMO_A.bmge.log`).
+Stricter gap rates were tried; BLOSUM30 and the default maximum gap rate of 0.2 keep columns that are almost gap free in all 258 sequences, so nearly every tip has residues in nearly all retained columns, and a 150 to 200 aa fragment that spans the core does too.
+IQ-TREE 3.1.4 (`-mset LG,WAG,JTT,VT,Blosum62 -mrate E,I,G,I+G,R -cmax 8 -B 1000 -bnni`), model chosen by BIC: LG+F+I+G4 (alpha 2.48, proportion of invariable sites 0.005), log-likelihood -20,537.6 (`CuMMO_A.iqtree`, `CuMMO_A.iqtree.log`).
+`CuMMO_A.newick` is the unrooted ML tree with UFBoot support on the branches; `CuMMO_A.contree` is the 1000-replicate consensus tree.
+The model for EPA-ng in the target sheet is `LG+FC+G4`; the invariable-sites fraction is negligible.
+
+**Root.**
+The archaeal tips form a clade (UFBoot 85) separated from the bacterial tips by one edge of the ML tree (UFBoot 99), and `CuMMO_A.rooted.newick` is rooted on that edge.
+That root is a choice (the bacterial and archaeal families have no outgroup here), not a result; use the unrooted tree for EPA-ng.
+
+**Labels and support.**
+`CuMMO_A.classification.tsv` labels every tip from the NCBI lineage and the protein name in UniProt, nothing from memory: `CuMMO_A;AMO_archaeal;<order or genus>` (Nitrosopumilales, Nitrososphaerales, Nitrosotaleales, Nitrosocaldales, Cenarchaeales, Marine Group I, Nitrosotenuis), `CuMMO_A;AMO_bacterial;AOB_Betaproteobacteria` (Nitrosomonadaceae), `...;AOB_Gammaproteobacteria` (*Nitrosococcus*, *Nitrosoglobus*, *Nitrosacidicoccus*), `...;comammox_Nitrospira` (Nitrospiraceae; clade A and B are not separated because the three tips are all in one clade and no UniProt entry states the clade), `CuMMO_A;pMMO;typeI_Methylococcales`, `pMMO;typeII;Methylocystaceae` and `Beijerinckiaceae`, `pMMO;Verrucomicrobiota` (Methylacidiphilae), `pMMO;Methylomirabilota`, `CuMMO_A;hydrocarbon_MO;Actinomycetota` and `CuMMO_A;other_PF02461;<phylum>` for tips from other bacteria.
+Archaeal tips without a lineage below Archaea or Nitrososphaerota are `AMO_archaeal;unspecified` or `AMO_archaeal;Nitrososphaerota_unspecified`; they are the majority of the archaea.
+`pMMO;pxmA` are the three tips with the UniProt gene name `pxmA` (two Methylococcales, one environmental sequence); they fall among type I Methylococcales tips in a clade with UFBoot 35, so the pxmA label is not supported as a clade here.
+The tree has a clade of Methylococcales and *Methylocystis* tips (6 tips, UFBoot 95) that mixes the type I and type II labels.
+
+Monophyly (from `scripts/tree_check.py`, on the tree rooted as above):
+
+| Label | Tips | Result |
+|---|---|---|
+| `AMO_archaeal` | 137 | monophyletic, UFBoot 85 (the split from bacteria 99) |
+| `AMO_archaeal;Nitrosocaldales` | 2 | monophyletic, UFBoot 93 |
+| `AMO_archaeal;Nitrosotaleales` | 2 | not monophyletic: the clade also holds 2 environmental amplicons (UFBoot 89) |
+| `AMO_archaeal;Nitrosopumilales`, `Nitrososphaerales`, the unspecified labels | 5, 3, 122 | not monophyletic; the backbone of the archaeal tree is poorly supported (many UFBoot values below 50) |
+| `AMO_bacterial;AOB_Betaproteobacteria` | 17 | monophyletic, UFBoot 98, and sister to comammox Nitrospira (UFBoot 100 for the pair) |
+| `AMO_bacterial;AOB_Gammaproteobacteria` | 6 | monophyletic, UFBoot 100, but inside the type I Methylococcales (those are paraphyletic) |
+| `comammox_Nitrospira` | 3 | monophyletic, UFBoot 100 |
+| `pMMO;Verrucomicrobiota` | 11 | monophyletic, UFBoot 99 |
+| `pMMO;Methylomirabilota` | 2 | monophyletic, UFBoot 100 |
+| `pMMO;typeII;Methylocystaceae` | 18 | 14 tips form a clade with the 2 Beijerinckiaceae tips (16 tips, UFBoot 89); 4 Methylocystis tips are in the mixed clade above |
+| `pMMO;typeI_Methylococcales` | 42 | not monophyletic (the gamma AOB are next to a clade of 30 type I tips, UFBoot 78; other type I tips are in the mixed clade) |
+| `pMMO;pxmA` | 3 | not monophyletic (UFBoot 35) |
+| `other_PF02461` | 19 | not monophyletic |
+
+The backbone between the large groups has UFBoot values of 28 to 61; trust the labels with supported clades and use the nearest-reference identity, not the deep topology, for the others.
+
+**Search profiles.**
+`CuMMO_A.hmm` (hmmbuild of `CuMMO_A.alnfaa`, 192 positions, so it matches the alignment hmmalign maps hits to); `CuMMO_A_archaeal.hmm` and `CuMMO_A_bacterial.hmm` are the same alignment split by domain, for searching only.
+Over 7,374 UniProt PF02461/PF12942 proteins the combined profile gives a hit for all (the profile was built from 261 of them, so this is not an independent test); 900 proteins of PF14100, PF04896, PF04744 and PF02167 give no hit at E = 1000.
+
+Re-run: `scripts/pool.R`, `select_reps.R`, `label_refs.R` (paths on the annotation machine, `/data/users/dl/cummo_trees/`) built the reference set; the sequences, alignment and tree are all here.
