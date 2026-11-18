@@ -31,31 +31,31 @@ Rooted on that clade the alpha tree is rooted next to three sequences (`A0A1X0BA
 Alpha and beta are so divergent (about 20 to 25% identity) that the alignment between them is unreliable, and a long branch to the outgroup can pull the root to a wrong place; the root should not be relied on.
 Distant ferritin-like proteins (ribonucleotide reductase R2, desaturase, rubrerythrin) were not included.
 
-**Groups.**
+**Clans.**
 The labels follow the seven groups of Yang, Kertesz and Coleman (2025, Environmental Microbiology 27:e70050, PMC11825192), which use the alpha-subunit phylogeny and the numbering of Holmes and Coleman (2008) (groups 1 and 2 are swapped relative to Notomista et al. 2003), and Leahy, Batchelor and Morcomb (2003, FEMS Microbiol Rev 27:449-479), who describe four groups (soluble methane monooxygenases, the Amo alkene monooxygenase, phenol hydroxylases, four-component alkene/aromatic monooxygenases).
 I read the abstracts and the text of the open-access article by Yang et al.; Table S3 (accessions of their sequences) was not available, so the exemplars are chosen by the organisms and gene names the text gives and by the UniProt names.
 Notomista et al. (2003, J Mol Evol 56:435-445) was not readable (paywall).
-A label is given to the clade (the smallest clade in the rooted tree) that contains the exemplars of one group; tips outside every such clade are `unassigned`.
+A label is given to the clade (the smallest clade in the rooted tree) that contains the exemplars of one clan; tips outside every such clade are `unassigned`.
 
-| Group in the file | Group of Yang et al. | Exemplars in the tree (accession) | Clade UFBoot | Tips |
+| Clan in the file | Group of Yang et al. | Exemplars in the tree (accession) | Clade UFBoot | Tips |
 |---|---|---|---|---|
-| `group1_aromatic_and_alkene_monooxygenase` | 1, toluene MOs and the propene and isoprene MOs | TmoA *P. mendocina* KR1 (Q00456), Tbu *R. pickettii* (Q51939), TouA *P. stutzeri* OX1 (Q6IV66, O87798), XamoA *Xanthobacter* (O87082) | 58 | 55 |
-| `group1_aromatic_and_alkene_monooxygenase;Tmo_Tbu_Tou_toluene_xylene` | | Q00456, Q51939, Q6IV66 | 88 | 24 |
-| `group1_aromatic_and_alkene_monooxygenase;likely_member` | 1, outside the exemplar clade | 8 tips with no characterised member that lie inside the next supported clade around group 1 (UFBoot 100, 63 tips, long stem): *Pseudonocardia* A0A511DK53, three Bacillota (A0A7X0HR00, A0ACA8ZC85, G8U0C2), *Halobellus* A0ABD6CQW2, *Labilithrix* A0A0K1PLV7 (annotated TmoA), *Mycolicibacterium* A0A7I7X865, *Streptomyces* A0ABT1PN43 | 100 (clade of 63) | 8 |
-| `group1_aromatic_and_alkene_monooxygenase;Xamo_Iso_propene_isoprene` | 1, subgroup with propene and isoprene | O87082, XamoA of *Paraburkholderia hiiakae* | 97 | 11 |
-| `group2_phenol_monooxygenase` | 2, phenol MOs | DmpN *Pseudomonas* CF600 (P19732), TomA3 *B. cepacia* G4 (Q8VSV8), PhyC *C. metallidurans* (Q1LMG3), PheN (Q84AQ2), PhcN and AphN *Comamonas* (Q9S147, Q9ZNP4) | 68 | 80 |
-| `group3_soluble_methane_and_butane_monooxygenase` | 3, sMMO and relatives | MmoX of *M. capsulatus* and *M. trichosporium* (P22869, P27353), BmoX of *T. butanivorans* and *B. petroleovorans* (Q8KQF0, Q5VJ90) | 100 | 19 |
-| `group4_alkene_monooxygenase` | 4, alkene MOs | EtnC (Q6XBI6), AmoC of Halieaceae PE-TB08W (A0A3G9E9D5) | 100 | 7 |
-| `group5_propane2_and_tetrahydrofuran_monooxygenase` | 5, propane-2-MO and THF MO | PrmA of *Gordonia* TY-5 and *R. jostii* RHA1 (Q768T5, Q0SJK9), MimA (A0QTU8, E9RFS9), ThmA of *Pseudonocardia tetrahydrofuranoxydans* (Q9F3V6) | 100 | 18 |
-| `group6_propane1_monooxygenase` | 6, propane-1-MO | *M. gadium* (A0ABT6GKR4) and *Mycobacterium* TY-6 (Q08KF2), organism-level assignment only | 99 | 7 |
+| `clan1_aromatic_and_alkene_monooxygenase` | 1, toluene MOs and the propene and isoprene MOs | TmoA *P. mendocina* KR1 (Q00456), Tbu *R. pickettii* (Q51939), TouA *P. stutzeri* OX1 (Q6IV66, O87798), XamoA *Xanthobacter* (O87082) | 58 | 55 |
+| `clan1_aromatic_and_alkene_monooxygenase;Tmo_Tbu_Tou_toluene_xylene` | | Q00456, Q51939, Q6IV66 | 88 | 24 |
+| `clan1_aromatic_and_alkene_monooxygenase;likely_member` | 1, outside the exemplar clade | 8 tips with no characterised member that lie inside the next supported clade around clan 1 (UFBoot 100, 63 tips, long stem): *Pseudonocardia* A0A511DK53, three Bacillota (A0A7X0HR00, A0ACA8ZC85, G8U0C2), *Halobellus* A0ABD6CQW2, *Labilithrix* A0A0K1PLV7 (annotated TmoA), *Mycolicibacterium* A0A7I7X865, *Streptomyces* A0ABT1PN43 | 100 (clade of 63) | 8 |
+| `clan1_aromatic_and_alkene_monooxygenase;Xamo_Iso_propene_isoprene` | 1, subgroup with propene and isoprene | O87082, XamoA of *Paraburkholderia hiiakae* | 97 | 11 |
+| `clan2_phenol_monooxygenase` | 2, phenol MOs | DmpN *Pseudomonas* CF600 (P19732), TomA3 *B. cepacia* G4 (Q8VSV8), PhyC *C. metallidurans* (Q1LMG3), PheN (Q84AQ2), PhcN and AphN *Comamonas* (Q9S147, Q9ZNP4) | 68 | 80 |
+| `clan3_soluble_methane_and_butane_monooxygenase` | 3, sMMO and relatives | MmoX of *M. capsulatus* and *M. trichosporium* (P22869, P27353), BmoX of *T. butanivorans* and *B. petroleovorans* (Q8KQF0, Q5VJ90) | 100 | 19 |
+| `clan4_alkene_monooxygenase` | 4, alkene MOs | EtnC (Q6XBI6), AmoC of Halieaceae PE-TB08W (A0A3G9E9D5) | 100 | 7 |
+| `clan5_propane2_and_tetrahydrofuran_monooxygenase` | 5, propane-2-MO and THF MO | PrmA of *Gordonia* TY-5 and *R. jostii* RHA1 (Q768T5, Q0SJK9), MimA (A0QTU8, E9RFS9), ThmA of *Pseudonocardia tetrahydrofuranoxydans* (Q9F3V6) | 100 | 18 |
+| `clan6_propane1_monooxygenase` | 6, propane-1-MO | *M. gadium* (A0ABT6GKR4) and *Mycobacterium* TY-6 (Q08KF2), organism-level assignment only | 99 | 7 |
 | `unassigned` | | | | 10 |
 
-Every group is monophyletic by construction (the clade is the smallest that holds its exemplars), and no exemplar of another group falls inside any of them.
-Support is high for groups 3 to 6 and the two subgroups of group 1, and weak for group 2 (UFBoot 68).
-Group 1 is a clade of 55 tips with UFBoot 58 (the supported clade around it has 63 tips, UFBoot 100), but it also holds uncharacterised clades (13 actinobacterial tips annotated propane 2-monooxygenase, and tips of Sneathiella, Zavarzinia, Emcibacter and others that carry no characterised member), so the label says that they lie between the exemplars, not that they are toluene monooxygenases.
+Every clan is monophyletic by construction (the clade is the smallest that holds its exemplars), and no exemplar of another clan falls inside any of them.
+Support is high for clans 3 to 6 and the two subclans of clan 1, and weak for clan 2 (UFBoot 68).
+Clan 1 is a clade of 55 tips with UFBoot 58 (the supported clade around it has 63 tips, UFBoot 100), but it also holds uncharacterised clades (13 actinobacterial tips annotated propane 2-monooxygenase, and tips of Sneathiella, Zavarzinia, Emcibacter and others that carry no characterised member), so the label says that they lie between the exemplars, not that they are toluene monooxygenases.
 The 27 unassigned tips include a large clade (about 80 tips, many annotated propane 2-monooxygenase or YHS-domain protein, from Actinomycetota, Bacillota and Pseudomonadota) with no characterised member.
 Group 7 (a new group defined in Yang et al. 2024) has no sequence in the reference: I did not find its definition or accessions.
-The group 4 clade has only two exemplars, both from Yang et al.'s list, and group 6 rests on organism names; treat the groups 4 and 6 labels as provisional.
+The clan 4 clade has only two exemplars, both from Yang et al.'s list, and clan 6 rests on organism names; treat the clans 4 and 6 labels as provisional.
 
 `BMM_alpha.classification.tsv` has the path for every tip (levels separated by `;`, as in the other targets), made with `label_groups.py` (a copy of the script; it reads `/data/users/dl/bmm_trees`).
 
@@ -67,20 +67,22 @@ Distant family members found by the profile score 30 to 36 bits and are 27 to 30
 
 The eight `TMO_likely` tips were unassigned in the first labelling because the label covers only the smallest clade holding the exemplars (UFBoot 58); the exemplar clade is nested in clades that add them step by step (60, 88, 94 and 100), and the 63-tip clade at UFBoot 100 has a long stem (0.886). The label means "likely toluene-monooxygenase-like", from the position in the tree, not from function.
 
-Correction of the support values: a first version of this table read the UFBoot values after rerooting the consensus tree without moving the node labels, so every value on the path between the original root and the new root was shifted by one node (group 1 was given 91 instead of 58, and the 63-tip clade 94 instead of 100). The values above are taken from the bipartitions of the unrooted consensus tree. Groups 2 to 6 and the xamo_iso subgroup are unchanged. The support of the root clade (52 to 56) has not been rechecked.
+Correction of the support values: a first version of this table read the UFBoot values after rerooting the consensus tree without moving the node labels, so every value on the path between the original root and the new root was shifted by one node (clan 1 was given 91 instead of 58, and the 63-tip clade 94 instead of 100). The values above are taken from the bipartitions of the unrooted consensus tree. Groups 2 to 6 and the xamo_iso subgroup are unchanged. The support of the root clade (52 to 56) has not been rechecked.
 
 Two assignments were added by hand after looking at the tree (the sister clades of the exemplar clades, with UFBoot values from the unrooted consensus tree):
-- `group3_soluble_methane_and_butane_monooxygenase` also holds the four-tip sister clade (UFBoot 99; the group 3 clade with it is 19 tips, UFBoot 100): *Mycolicibacterium holsaticum* A0A1E3R5X4, *Oleomonas cavernae* A0A418WIG8 (annotated methane monooxygenase), *Mycobacterium paraffinicum* A0ABP8F6N1 and *Candidatus* Mycobacterium methanotrophicum A0ABY4QMB5.
-  The "BMO" of group 3 is the butane monooxygenase (BmoX of *Thauera butanivorans* and *Brachymonas petroleovorans*), not a benzene monooxygenase.
-- `group4_alkene_monooxygenase` also holds *Mycolicibacter engbaekii* A0A1X1U053 (annotated propane 2-monooxygenase), the single tip left out of the alkene clade (UFBoot 100 for the seven tips; long branch 0.48).
+- `clan3_soluble_methane_and_butane_monooxygenase` also holds the four-tip sister clade (UFBoot 99; the clan 3 clade with it is 19 tips, UFBoot 100): *Mycolicibacterium holsaticum* A0A1E3R5X4, *Oleomonas cavernae* A0A418WIG8 (annotated methane monooxygenase), *Mycobacterium paraffinicum* A0ABP8F6N1 and *Candidatus* Mycobacterium methanotrophicum A0ABY4QMB5.
+  The "BMO" of clan 3 is the butane monooxygenase (BmoX of *Thauera butanivorans* and *Brachymonas petroleovorans*), not a benzene monooxygenase.
+- `clan4_alkene_monooxygenase` also holds *Mycolicibacter engbaekii* A0A1X1U053 (annotated propane 2-monooxygenase), the single tip left out of the alkene clade (UFBoot 100 for the seven tips; long branch 0.48).
 
-Names of the groups in full: group 6 is the propane 1-monooxygenase (terminal oxidation of propane; Yang et al. group 6), and group 5 the propane 2-monooxygenase together with the tetrahydrofuran monooxygenase (subterminal oxidation).
+Names of the clans in full: clan 6 is the propane 1-monooxygenase (terminal oxidation of propane; Yang et al. group 6), and clan 5 the propane 2-monooxygenase together with the tetrahydrofuran monooxygenase (subterminal oxidation).
 
-Group 2 (`group2_phenol_monooxygenase`) was extended by hand with 17 tips that had been left outside the exemplar clade; the list of 80 phenol monooxygenase tips was checked by the supervisor against the tree (annotations and position). The group now has 80 tips and is not the smallest clade holding its exemplars, and its UFBoot value (68) refers to the exemplar clade.
+Clan 2 (`clan2_phenol_monooxygenase`) was extended by hand with 17 tips that had been left outside the exemplar clade; the list of 80 phenol monooxygenase tips was checked by the supervisor against the tree (annotations and position). The group now has 80 tips and is not the smallest clade holding its exemplars, and its UFBoot value (68) refers to the exemplar clade.
 
-Naming of the umbrella and of group 1:
-- `alkane_monooxygenase` is an umbrella over groups 3, 5 and 6 (one clade of 44 tips, UFBoot 97).
-  The name is kept although the tetrahydrofuran monooxygenase of group 5 does not act on an alkane and methane and propane are oxidised at different positions in different groups.
-  Group 4 (alkene monooxygenase) is the sister of this clade (UFBoot 100 for the 51 tips) and is not under the umbrella.
-- Group 1 holds the aromatic oxidisers (Tmo, Tbu, Tou: toluene and xylene) and a subclade with alkene substrates (XamoA, propene; IsoA, isoprene), so it is named by both substrate types.
-  Alkene oxidation would then have arisen at least twice, in group 1 and in group 4 (an interpretation from the tree, not tested).
+Naming of the umbrella and of clan 1:
+- `alkane_monooxygenase` is an umbrella over clans 3, 5 and 6 (one clade of 44 tips, UFBoot 97).
+  The name is kept although the tetrahydrofuran monooxygenase of clan 5 does not act on an alkane and methane and propane are oxidised at different positions in different groups.
+  Clan 4 (alkene monooxygenase) is the sister of this clade (UFBoot 100 for the 51 tips) and is not under the umbrella.
+- Clan 1 holds the aromatic oxidisers (Tmo, Tbu, Tou: toluene and xylene) and a subclade with alkene substrates (XamoA, propene; IsoA, isoprene), so it is named by both substrate types.
+  Alkene oxidation would then have arisen at least twice, in clan 1 and in clan 4 (an interpretation from the tree, not tested).
+
+The word "clan" (sensu Wilkinson) is used for the labelled clades of this tree; "group" is kept only where the numbering of Yang et al. is meant.
